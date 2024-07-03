@@ -112,22 +112,22 @@ Disponível [aqui](https://cloud.justinmind.com/usernote/prototype/421549f04b7d5
     <summary> Funcionalidade: Comprar passagem (Yasmim Rosa)  </summary>
     Nas figuras 22, 23, 24, 25, 26, 27, 28 e 29 estão os prótotipos elaborados para a funcionalidade.
     <font size="2"><p style="text-align: center"> Figura 22 - Protótipo de Papel Comprar passagem</font>
-    <img src="../nivel_3/PAF/yas_1.png">
+    <img src="../PAF/yas_1.png">
     <font size="2"><p style="text-align: center">Fonte: <a href=""> Yasmim Rosa </a></p></font>
     <font size="2"><p style="text-align: center"> Figura 23 - Protótipo de Papel Comprar passagem</font>
-    <img src="../nivel_3/PAF/yas_2.png">
+    <img src="../PAF/yas_2.png">
     <font size="2"><p style="text-align: center">Fonte: <a href=""> Yasmim Rosa </a></p></font>
     <font size="2"><p style="text-align: center"> Figura 24 - Protótipo de Papel Comprar passagem</font>
-    <img src="../nivel_3/PAF/yas_3.png">
+    <img src="../PAF/yas_3.png">
     <font size="2"><p style="text-align: center">Fonte: <a href=""> Yasmim Rosa </a></p></font>
     <font size="2"><p style="text-align: center"> Figura 25 - Protótipo de Papel Comprar passagem</font>
-    <img src="../nivel_3/PAF/yas_4.png">
+    <img src="../PAF/yas_4.png">
     <font size="2"><p style="text-align: center">Fonte: <a href=""> Yasmim Rosa </a></p></font>
     <font size="2"><p style="text-align: center"> Figura 26 - Protótipo de Papel Comprar passagem</font>
-    <img src="../nivel_3/PAF/yas_5.png">
+    <img src="../PAF/yas_5.png">
     <font size="2"><p style="text-align: center">Fonte: <a href=""> Yasmim Rosa </a></p></font>
     <font size="2"><p style="text-align: center"> Figura 27 - Protótipo de Papel Comprar passagem</font>
-    <img src="../nivel_3/PAF/yas_6.png">
+    <img src="../PAF/yas_6.png">
     <font size="2"><p style="text-align: center">Fonte: <a href=""> Yasmim Rosa </a></p></font>
 </details>
 
