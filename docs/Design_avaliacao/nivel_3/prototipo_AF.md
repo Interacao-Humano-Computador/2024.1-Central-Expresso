@@ -54,16 +54,19 @@ Disponível [aqui](https://cloud.justinmind.com/usernote/prototype/421549f04b7d5
     <summary> Funcionalidade: Histórico de passagens compradas (Marco Tulio) </summary>
     Nas figuras 9, 10, 11, e 12 estão os prótotipos elaborados para a funcionalidade.
     <font size="2"><p style="text-align: center"> Figura 9 - Protótipo de Papel Histórico de passagens compradas</font>
-    <img src="../prototipo_papel/marco/m1.jpeg">
+    <img src="../nivel_3/PAF/mar_1.png">
     <font size="2"><p style="text-align: center">Fonte: <a href=""> Marco Tulio </a></p></font>
-    <font size="2"><p style="text-align: center"> Figura 10 - Protótipo de Papel Histórico de passagens compradas</font>
-    <img src="../prototipo_papel/marco/m2.jpeg">
+    <font size="2"><p style="text-align: center"> Figura 10 - Protótipo de alta fidelidade Histórico de passagens compradas</font>
+    <img src="../nivel_3/PAF/mar_2.png">
     <font size="2"><p style="text-align: center">Fonte: <a href=""> Marco Tulio </a></p></font>
-    <font size="2"><p style="text-align: center"> Figura 11 - Protótipo de Papel Histórico de passagens compradas</font>
-    <img src="../prototipo_papel/marco/m3.jpeg">
+    <font size="2"><p style="text-align: center"> Figura 11 - Protótipo  de alta fidelidade de passagens compradas</font>
+    <img src="../nivel_3/PAF/mar_3.png">
     <font size="2"><p style="text-align: center">Fonte: <a href=""> Marco Tulio </a></p></font>
-    <font size="2"><p style="text-align: center"> Figura 12 - Protótipo de Papel Histórico de passagens compradas</font>
-    <img src="../prototipo_papel/marco/m4.jpeg">
+    <font size="2"><p style="text-align: center"> Figura 12 - Protótipo de alta fidelidade Histórico de passagens compradas</font>
+    <img src="../nivel_3/PAF/mar_4.png">
+    <font size="2"><p style="text-align: center">Fonte: <a href=""> Marco Tulio </a></p></font>
+    <font size="2"><p style="text-align: center"> Figura 13 - Protótipo de alta fidelidade Histórico de passagens compradas</font>
+    <img src="../nivel_3/PAF/mar_5.png">
     <font size="2"><p style="text-align: center">Fonte: <a href=""> Marco Tulio </a></p></font>
 
 </details>
