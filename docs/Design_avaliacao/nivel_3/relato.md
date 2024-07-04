@@ -116,7 +116,7 @@ O objetivo dessa avaliação foi identificar problemas na interação e na inter
    <h2> Feedback do Usuário </h2> 
    <ul>
         <li>
-        O feedback geral do participante foi rasoável. Ele demonstrou uma certa dificuldade ao realizar a tarefa indicada,  Este retorno indica que a interface do protótipo de alta fidelidade necessita de um aprimoramento que seja intuitiva e funcional para o compartilhamento de trajetos. As sugestões fornecidas são valiosas para aprimorar ainda mais a experiência do usuário, garantindo uma interface ainda mais eficiente e agradável.
+        O feedback geral do participante foi razoável. Ele demonstrou uma certa dificuldade ao realizar a tarefa indicada,  Este retorno indica que a interface do protótipo de alta fidelidade necessita de um aprimoramento que seja intuitiva e funcional para o compartilhamento de trajetos. As sugestões fornecidas são valiosas para aprimorar ainda mais a experiência do usuário, garantindo uma interface ainda mais eficiente e agradável.
         </li>
    </ul>
 
