@@ -1,40 +1,43 @@
 ## Introdução
+
 O relato da avaliação abrange principalmente a interpretação dos dados coletados, devendo analisar os dados individuais de cada usuário para posteriormente buscar uma interpretação mais generalista.
 
 ## Metodologia
+
 A metodologia para a avaliação foi de investigação por meio de uma entrevista, a estrutura deste artefato é a estabelecida no planejamento do relato da avaliação.
 
 ## Objetivos e Escopo
+
 O objetivo dessa avaliação foi identificar problemas na interação e na interface e cada membro ficou responsável por sua funcionalidade anteriormente elegida.
 
-
 ## Avaliações
+
 <details>
 <summary>Funcionalidade: Rastreamento de Ônibus em Tempo Real (Alana Gabriele)</summary>
    <h2> Questões Identificadas </h2> 
    <ul>
         <li>
-        <b>Feedback Positivo: </b> Durante a avaliação do protótipo de papel, o usuário demonstrou facilidade ao realizar o procedimento desejado para o rastreamento de ônibus em tempo real. A interface pareceu intuitiva e fácil de usar, permitindo que o usuário completasse a tarefa sem dificuldades.
+        <b>Feedback Positivo: </b> Durante a avaliação do protótipo de alta fidelidade, o usuário demonstrou facilidade ao realizar o caminho desejado para o rastreamento de ônibus em tempo real. O usuário conseguiu completar a tarefa sem enfrentar dificuldades, o que reforça a eficácia e a clareza das instruções fornecidas.
         </li>
         <li>
-        <b>Problema Identificado: </b> Nenhum problema foi identificado durante a avaliação. O usuário conseguiu navegar pela interface e executar o rastreamento de ônibus em tempo real sem encontrar obstáculos ou pontos de confusão.
+        <b>Problema Identificado: </b> Nenhum problema foi identificado. O usuário conseguiu navegar pela interface e executar a funcionalidade sem encontrar obstáculos ou pontos de confusão.
         </li>
    </ul>
    <h2> Sugestões para Melhorias </h2> 
    <ul>
         <li>
-        O usuário sugeriu que o botão "Localizar" ficasse mais claro/explícito.
+       Não houve sugestão de melhoria.
         </li>
    </ul>
    <h2> Feedback do Usuário </h2> 
    <ul>
         <li>
-        O feedback geral do participante foi positivo. Ele demonstrou facilidade ao realizar a tarefa indicada, não encontrando problemas no processo. Este retorno indica que a interface do protótipo de papel é intuitiva e funcional para o rastreamento de ônibus em tempo real. As sugestões fornecidas são valiosas para aprimorar ainda mais a experiência do usuário e a segurança dos dados, garantindo uma interface ainda mais eficiente e agradável.
+        O feedback geral do participante foi positivo. O design da interface foi elogiado por sua intuitividade e facilidade de uso, proporcionando uma experiência fluida e eficiente. Este retorno indica que a interface do protótipo de alta fidelidade é intuitiva e funcional para o rastreamento de ônibus em tempo real. As sugestões fornecidas são valiosas para aprimorar ainda mais a experiência do usuário, garantindo uma interface ainda mais eficiente e agradável.
         </li>
    </ul>
 
    <h2> Gravação da Avaliação </h2>
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/k7QakXhRdEo?si=U3-Nmf2Ai4dX-1P8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+     <iframe width="560" height="315" src="https://www.youtube.com/embed/go4AVJI1xqI?si=aFvlS5DZl4vS21EG&amp;" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </details>
 
 <details>
@@ -66,8 +69,10 @@ O objetivo dessa avaliação foi identificar problemas na interação e na inter
    <h2> Gravação da Avaliação </h2>
    <iframe width="560" height="315" src="https://www.youtube.com/embed/8L9SX_3r9zw?si=xeODCqCV8K5erDsw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-      <h2> Questões Identificadas </h2> 
-   <b>Entrevistada: Bruna </b>
+      <h2> Questões Identificadas </h2>
+
+<b>Entrevistada: Bruna </b>
+
    <ul>
         <li>
         <b>Feedback Positivo: </b> Durante a avaliação do protótipo de alta fidelidade, o usuário demonstrou facilidade ao realizar o procedimento desejado para o compartilhamento do trajeto. A interface apresentou-se intuitiva e amigável, proporcionando uma experiência de uso agradável e eficiente. O usuário foi capaz de completar a tarefa sem dificuldades, navegando pelos elementos da interface com naturalidade e encontrando rapidamente as opções necessárias. Essa facilidade de uso sugere que o design e a organização dos elementos visuais estão adequados às necessidades e expectativas do usuário, contribuindo para uma interação positiva e satisfatória.
@@ -177,8 +182,10 @@ O objetivo dessa avaliação foi identificar problemas na interação e na inter
    <h2> Gravação da Avaliação </h2>
    <iframe width="560" height="315" src="https://www.youtube.com/embed/HFw0ce76Pok?si=8UsHG7JU6sFk-nbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-      <h2> Questões Identificadas </h2> 
-   <b>Entrevistada: Enrico </b>
+      <h2> Questões Identificadas </h2>
+
+<b>Entrevistada: Enrico </b>
+
    <ul>
         <li>
         <b>Feedback Positivo: </b> Durante a avaliação do protótipo de alta fidelidade, o usuário demonstrou facilidade ao realizar o procedimento desejado para o  acúmulo de pontos. A interface apresentou-se intuitiva e amigável, proporcionando uma experiência de uso agradável e eficiente. O usuário foi capaz de completar a tarefa sem dificuldades, navegando pelos elementos da interface com naturalidade e encontrando rapidamente as opções necessárias. Essa facilidade de uso sugere que o design e a organização dos elementos visuais estão adequados às necessidades e expectativas do usuário, contribuindo para uma interação positiva e satisfatória.
@@ -260,18 +267,20 @@ O objetivo dessa avaliação foi identificar problemas na interação e na inter
 </details>
 
 ## Análise e Interpretação das Respostas dos Usuários
+
 Os usuários, de modo geral, consideraram as interfaces intuitivas e fáceis de usar, não encontrando grandes dificuldades durante a realização das tarefas propostas. No entanto, algumas sugestões de melhorias foram apresentadas para aumentar a clareza e a funcionalidade das interfaces. Houve também recomendações específicas para aprimorar a navegação e a segurança dos dados.
 
 ## Plano de Aprimoramento
+
 Os usuários avaliaram positivamente a interface atual, destacando a facilidade de uso e a intuição das funcionalidades. No entanto, algumas sugestões de melhorias foram identificadas para otimizar a experiência do usuário, portanto, se faz necessário um cronograma para ajustes antes da elaboração do protótipo de alta fidelidade.
 
-
 ## Bibliografia
->BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
+> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
 ## Histórico de Versões
 
-| Versão |    Data    | Descrição                               | Autor(es)                                                                                     | Revisor(es)                                        |
-| ------ | :--------: | --------------------------------------- | --------------------------------------------------------------------------------------------- | -------------------------------------------------- |
-| 1.0 | 03/07/2024 | Criação do Documento |[Gustavo Alves](https://github.com/gustaallves) | [Yasmim Rosa]() |
+| Versão |    Data    | Descrição             | Autor(es)                                          | Revisor(es)     |
+| ------ | :--------: | --------------------- | -------------------------------------------------- | --------------- |
+| 1.0    | 03/07/2024 | Criação do Documento  | [Gustavo Alves](https://github.com/gustaallves)    | [Yasmim Rosa]() |
+| 1.1    | 03/07/2024 | Relato - Rastreamento | [Alana Gabriele](https://github.com/alanagabriele) | [Yasmim Rosa]() |
