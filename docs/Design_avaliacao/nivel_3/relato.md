@@ -49,7 +49,7 @@ Assim como instruído por Krug, com **três ou quatro** participantes é possív
  <h2> Questões Identificadas </h2> 
 
  
-   <b>Entrevistada: Davi</b>
+   <b>Entrevistado: Davi</b>
    
   
    <ul>
@@ -80,7 +80,7 @@ Assim como instruído por Krug, com **três ou quatro** participantes é possív
    <h2> Questões Identificadas </h2> 
 
    
-  <b>Entrevistada: Leandro</b>
+  <b>Entrevistado: Leandro</b>
    
 
    <ul>
@@ -109,7 +109,7 @@ Assim como instruído por Krug, com **três ou quatro** participantes é possív
 
 
    <h2> Questões Identificadas </h2> 
-  <b>Entrevistada: Isaque</b>
+  <b>Entrevistado: Isaque</b>
    
 
    <ul>
