@@ -151,7 +151,7 @@ O objetivo dessa avaliação foi identificar problemas na interação e na inter
    </ul>
 
 <h2> Gravação da Avaliação </h2>
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/SmTuUCDkijQ?si=WaJa8rhqJGN0Gmh6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/WgfcgiXgrvU?si=Zf0hK0yXgxglsjva" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </details>
 
 <details>
