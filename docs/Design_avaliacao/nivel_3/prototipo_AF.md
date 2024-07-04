@@ -1,31 +1,31 @@
 ## Introdução
+
 Para realização da avaliação foi necessária a confecção de protótipos de alta fidelidade para cada funcionalidade que aqui estão dispostos.
 
 ## Metodologia
+
 A elaboração de cada prótotipo seguiu algumas orientações acordadas entre os membros da equipe assim como citado no tópico "Referência para elaboração do protótipo de alta fidelidade" no artefato de planejamento da avaliação.
 
 ## Elementos comuns
+
 Na figura 1, está a tela inicial que deve ser utilizada em todos os demais protótipos de alta fidelidade.
 
 <font size="2"><p style="text-align: center"> Figura 1 - Protótipo de Alta Fidelidade </font>
 ![alt text](image.png)
 <font size="2"><p style="text-align: center">Fonte: <a href=""> Alana Gabriele </a></p></font>
 
-Disponível [aqui](https://cloud.justinmind.com/usernote/prototype/421549f04b7d5df4fcd445bd00ab9e87f3d6275202b506691e0c0382e861cade/index.html#/screens/d12245cc-1680-458d-89dd-4f0d7fb22724).
-
 ## Protótipo de Alta Fidelidade
 
 <details>
 <summary>Funcionalidade: Rastreamento de Ônibus em Tempo Real (Alana Gabriele)</summary>
-    Nas figuras 1, 2 e 3 estão os prótotipos elaborados para a funcionalidade.
-    <font size="2"><p style="text-align: center"> Figura 1 - Protótipo de Alta Fidelidade Rastreamento de Ônibus em Tempo Real </font>
-    <img src="../prototipo_papel/alana/a1.jpeg">
+    Nas figuras 1 e 2 estão os prótotipos elaborados para a funcionalidade.
+    <font size="2"><p style="text-align: center"> Figura 1 - Protótipo de Alta Fidelidade de Rastreamento de Ônibus em Tempo Real </font>
+    <img src="../nivel_3/PAF/alana_1.png">
     <font size="2"><p style="text-align: center">Fonte: <a href=""> Alana Gabriele </a></p></font>
-    <font size="2"><p style="text-align: center"> Figura 2 - Protótipo de Alta Fidelidade Rastreamento de Ônibus em Tempo Real </font>
-    <img src="../prototipo_papel/alana/a2.jpeg">
+    <font size="2"><p style="text-align: center"> Figura 2 - Protótipo de Alta Fidelidade de Rastreamento de Ônibus em Tempo Real </font>
+    <img src="../nivel_3/PAF/alana_2.png">
     <font size="2"><p style="text-align: center">Fonte: <a href=""> Alana Gabriele </a></p></font>
-    <font size="2"><p style="text-align: center"> Figura 3 - Protótipo de Alta Fidelidade Rastreamento de Ônibus em Tempo Real </font>
-    <img src="../prototipo_papel/alana/a3.jpeg">
+   
     <font size="2"><p style="text-align: center">Fonte: <a href=""> Alana Gabriele </a></p></font>
 
 </details>
@@ -50,22 +50,6 @@ Disponível [aqui](https://cloud.justinmind.com/usernote/prototype/421549f04b7d5
 <details>
     <summary> Funcionalidade: Histórico de passagens compradas (Marco Tulio) </summary>
     Nas figuras 9, 10, 11, e 12 estão os prótotipos elaborados para a funcionalidade.
-<<<<<<< HEAD
-    <font size="2"><p style="text-align: center"> Figura 9 - Protótipo de Papel Histórico de passagens compradas</font>
-    <img src="../nivel_3/PAF/mar_1.png">
-    <font size="2"><p style="text-align: center">Fonte: <a href=""> Marco Tulio </a></p></font>
-    <font size="2"><p style="text-align: center"> Figura 10 - Protótipo de alta fidelidade Histórico de passagens compradas</font>
-    <img src="../nivel_3/PAF/mar_2.png">
-    <font size="2"><p style="text-align: center">Fonte: <a href=""> Marco Tulio </a></p></font>
-    <font size="2"><p style="text-align: center"> Figura 11 - Protótipo  de alta fidelidade de passagens compradas</font>
-    <img src="../nivel_3/PAF/mar_3.png">
-    <font size="2"><p style="text-align: center">Fonte: <a href=""> Marco Tulio </a></p></font>
-    <font size="2"><p style="text-align: center"> Figura 12 - Protótipo de alta fidelidade Histórico de passagens compradas</font>
-    <img src="../nivel_3/PAF/mar_4.png">
-    <font size="2"><p style="text-align: center">Fonte: <a href=""> Marco Tulio </a></p></font>
-    <font size="2"><p style="text-align: center"> Figura 13 - Protótipo de alta fidelidade Histórico de passagens compradas</font>
-    <img src="../nivel_3/PAF/mar_5.png">
-=======
     <font size="2"><p style="text-align: center"> Figura 9 - Protótipo de Alta Fidelidade Histórico de passagens compradas</font>
     <img src="../prototipo_papel/marco/m1.jpeg">
     <font size="2"><p style="text-align: center">Fonte: <a href=""> Marco Tulio </a></p></font>
@@ -77,7 +61,6 @@ Disponível [aqui](https://cloud.justinmind.com/usernote/prototype/421549f04b7d5
     <font size="2"><p style="text-align: center">Fonte: <a href=""> Marco Tulio </a></p></font>
     <font size="2"><p style="text-align: center"> Figura 12 - Protótipo de Alta Fidelidade Histórico de passagens compradas</font>
     <img src="../prototipo_papel/marco/m4.jpeg">
->>>>>>> 167081ab06241a05808e4d1a050aa8e3bea19177
     <font size="2"><p style="text-align: center">Fonte: <a href=""> Marco Tulio </a></p></font>
 
 </details>
@@ -119,7 +102,6 @@ Disponível [aqui](https://cloud.justinmind.com/usernote/prototype/421549f04b7d5
     <img src="../prototipo_papel/renan/r4.jpeg">
     <font size="2"><p style="text-align: center">Fonte: <a href=""> Renan Araújo </a></p></font>
 
-
 </details>
 
 <details>
@@ -146,11 +128,12 @@ Disponível [aqui](https://cloud.justinmind.com/usernote/prototype/421549f04b7d5
 </details>
 
 ## Bibliografia
->BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
+> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
 ## Histórico de Versões
 
-| Versão |    Data    | Descrição                               | Autor(es)                                                                                     | Revisor(es)                                        |
-| ------ | :--------: | --------------------------------------- | --------------------------------------------------------------------------------------------- | -------------------------------------------------- |
-| 1.0 | 19/06/2024 | Protótipos de Papel | [Yasmim Rosa]() <br> [Alana Gabriele]() | [Marco Tulio]() |
+| Versão |    Data    | Descrição                        | Autor(es)                               | Revisor(es)       |
+| ------ | :--------: | -------------------------------- | --------------------------------------- | ----------------- |
+| 1.0    | 19/06/2024 | Protótipos de Papel              | [Yasmim Rosa]() <br> [Alana Gabriele]() | [Marco Tulio]()   |
+| 1.1    | 03/06/2024 | Protótipos de Papel Rastreamento | [Yasmim Rosa]() <br> [Alana Gabriele]() | [Gustavo Alves]() |
