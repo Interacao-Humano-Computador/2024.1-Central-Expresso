@@ -69,22 +69,22 @@ Na figura 1, está a tela inicial que deve ser utilizada em todos os demais prot
     <summary>Funcionalidade: Acúmulo de Pontos por Trajeto (Pedro Henrique)</summary>
     Nas figuras 13, 14, 15, 16 e 17 estão os prótotipos elaborados para a funcionalidade.
     <font size="2"><p style="text-align: center"> Figura 13 - Protótipo de Alta Fidelidade Acúmulo de Pontos por Trajeto</font>
-    <img src="../PAF/p1.png">
+    <img src="../PAF/p1.jpeg">
     <font size="2"><p style="text-align: center">Fonte: <a href=""> Pedro Henrique </a></p></font>
     <font size="2"><p style="text-align: center"> Figura 14 - Protótipo de Alta Fidelidade Acúmulo de Pontos por Trajeto</font>
-    <img src="../PAF/p2.png">
+    <img src="../PAF/p2.jpeg">
     <font size="2"><p style="text-align: center">Fonte: <a href=""> Pedro Henrique </a></p></font>
     <font size="2"><p style="text-align: center"> Figura 14 - Protótipo de Alta Fidelidade Acúmulo de Pontos por Trajeto</font>
-    <img src="../PAF/p3.png">
+    <img src="../PAF/p3.jpeg">
     <font size="2"><p style="text-align: center">Fonte: <a href=""> Pedro Henrique </a></p></font>
     <font size="2"><p style="text-align: center"> Figura 15 - Protótipo de Alta Fidelidade Acúmulo de Pontos por Trajeto</font>
-    <img src="../PAF/p4.png">
+    <img src="../PAF/p4.jpeg">
     <font size="2"><p style="text-align: center">Fonte: <a href=""> Pedro Henrique </a></p></font>
     <font size="2"><p style="text-align: center"> Figura 16 - Protótipo de Alta Fidelidade Acúmulo de Pontos por Trajeto</font>
-    <img src="../PAF/p5.png">
+    <img src="../PAF/p5.jpeg">
     <font size="2"><p style="text-align: center">Fonte: <a href=""> Pedro Henrique </a></p></font>
     <font size="2"><p style="text-align: center"> Figura 17 - Protótipo de Alta Fidelidade Acúmulo de Pontos por Trajeto</font>
-    <img src="../PAF/p6.png">
+    <img src="../PAF/p6.jpeg">
     <font size="2"><p style="text-align: center">Fonte: <a href=""> Pedro Henrique </a></p></font>
 
 </details>
