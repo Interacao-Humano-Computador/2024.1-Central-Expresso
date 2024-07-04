@@ -20,12 +20,10 @@ Na figura 1, está a tela inicial que deve ser utilizada em todos os demais prot
 <summary>Funcionalidade: Rastreamento de Ônibus em Tempo Real (Alana Gabriele)</summary>
     Nas figuras 1 e 2 estão os prótotipos elaborados para a funcionalidade.
     <font size="2"><p style="text-align: center"> Figura 1 - Protótipo de Alta Fidelidade de Rastreamento de Ônibus em Tempo Real </font>
-    <img src="../nivel_3/PAF/alana_1.png">
+    <img src="../PAF/alana_1.png">
     <font size="2"><p style="text-align: center">Fonte: <a href=""> Alana Gabriele </a></p></font>
     <font size="2"><p style="text-align: center"> Figura 2 - Protótipo de Alta Fidelidade de Rastreamento de Ônibus em Tempo Real </font>
-    <img src="../nivel_3/PAF/alana_2.png">
-    <font size="2"><p style="text-align: center">Fonte: <a href=""> Alana Gabriele </a></p></font>
-   
+    <img src="../PAF/alana_2.png">
     <font size="2"><p style="text-align: center">Fonte: <a href=""> Alana Gabriele </a></p></font>
 
 </details>
