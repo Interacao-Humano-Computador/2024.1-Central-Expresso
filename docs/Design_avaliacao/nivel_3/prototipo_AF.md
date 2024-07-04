@@ -32,21 +32,18 @@ Na figura 1, está a tela inicial que deve ser utilizada em todos os demais prot
 
 <details>
     <summary>Funcionalidade: Compartilhamento de Trajetos (Gustavo Alves) </summary>
-    Nas figuras 4, 5, 6, 7 e 8 estão os prótotipos elaborados para a funcionalidade.
+    Nas figuras 4, 5, 6 e 7 estão os prótotipos elaborados para a funcionalidade.
     <font size="2"><p style="text-align: center"> Figura 4 - Protótipo de Alta Fidelidade Compartilhamento de Trajetos </font>
-    <img src="../prototipo_papel/gustavo/g1.jpeg">
+    <img src="../Gustavo/gusta1.jpeg">
     <font size="2"><p style="text-align: center">Fonte: <a href=""> Gustavo Alves </a></p></font>
     <font size="2"><p style="text-align: center"> Figura 5 - Protótipo de Alta Fidelidade Compartilhamento de Trajetos </font>
-    <img src="../prototipo_papel/gustavo/g2.jpeg">
+    <img src="../Gustavo/gusta2.jpeg">
     <font size="2"><p style="text-align: center">Fonte: <a href=""> Gustavo Alves </a></p></font>
     <font size="2"><p style="text-align: center"> Figura 6 - Protótipo de Alta Fidelidade Compartilhamento de Trajetos </font>
-    <img src="../prototipo_papel/gustavo/g3.jpeg">
+    <img src="../Gustavo/gusta3.jpeg">
     <font size="2"><p style="text-align: center">Fonte: <a href=""> Gustavo Alves </a></p></font>
     <font size="2"><p style="text-align: center"> Figura 7 - Protótipo de Alta Fidelidade Compartilhamento de Trajetos </font>
-    <img src="../prototipo_papel/gustavo/g4.jpeg">
-    <font size="2"><p style="text-align: center">Fonte: <a href=""> Gustavo Alves </a></p></font>
-    <font size="2"><p style="text-align: center"> Figura 8 - Protótipo de Alta Fidelidade Compartilhamento de Trajetos </font>
-    <img src="../prototipo_papel/gustavo/g5.jpeg">
+    <img src="../Gustavo/gusta4.jpeg">
     <font size="2"><p style="text-align: center">Fonte: <a href=""> Gustavo Alves </a></p></font>
 </details>
 
