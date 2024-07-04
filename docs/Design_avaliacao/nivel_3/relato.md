@@ -41,6 +41,101 @@ O objetivo dessa avaliação foi identificar problemas na interação e na inter
 </details>
 
 <details>
+<summary>Funcionalidade: Acompanhamento de Passagem (Renan Araújo)</summary>
+
+
+
+   <b>Entrevistada: Davi</b>
+   
+   <h2> Questões Identificadas </h2> 
+   <ul>
+        <li>
+        <b>Feedback Positivo: </b> Durante a avaliação do protótipo de alta fidelidade, o usuário demonstrou facilidade ao realizar o caminho desejado para o acompanhamento de passagem. O usuário conseguiu completar a tarefa sem enfrentar nenhuma dificuldade, o que reforça a eficácia e a clareza das instruções fornecidas.
+        </li>
+        <li>
+        <b>Problema Identificado: </b> Não teve um problema tão grande identificado, só uma observação que o botão do inicío estava mal formatado
+        </li>
+   </ul>
+   <h2> Sugestões para Melhorias </h2> 
+   <ul>
+        <li>
+       Não houve sugestão de melhoria.
+        </li>
+   </ul>
+   <h2> Feedback do Usuário </h2> 
+   <ul>
+        <li>
+        O feedback geral do participante foi positivo. O design da interface foi elogiado por sua intuitividade e facilidade de uso, proporcionando uma experiência fluida e eficiente. Este retorno indica que a interface do protótipo de alta fidelidade é intuitiva e funcional para o acompanhamento de passagem. Ele também pontuou que a parte do e-ticket facilita bastante. As sugestões fornecidas são valiosas para aprimorar ainda mais a experiência do usuário, garantindo uma interface ainda mais eficiente e agradável.
+        </li>
+   </ul>
+
+   <h2> Gravação da Avaliação </h2>
+     <iframe width="560" height="315" src="https://www.youtube.com/embed/_5y09x-x_n0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+  <b>Entrevistada: Leandro</b>
+   
+   <h2> Questões Identificadas </h2> 
+   <ul>
+        <li>
+        <b>Feedback Positivo: </b> Durante a avaliação do protótipo de alta fidelidade, o usuário demonstrou facilidade ao realizar o caminho desejado para o acompanhamento de passagem. O usuário conseguiu completar a tarefa sem enfrentar nenhuma dificuldade, o que reforça a eficácia e a clareza das instruções fornecidas.
+        </li>
+        <li>
+        <b>Problema Identificado: </b> Nenhum problema foi identificado. O usuário conseguiu navegar pela interface e executar a funcionalidade sem encontrar obstáculos ou pontos de confusão.
+        </li>
+   </ul>
+   <h2> Sugestões para Melhorias </h2> 
+   <ul>
+        <li>
+      Melhorar as cores do sistema e mudar o nome do "Infos" para Informações
+        </li>
+   </ul>
+   <h2> Feedback do Usuário </h2> 
+   <ul>
+        <li>
+        O feedback geral do participante foi positivo. No geral o protótipo foi bem elogiado pelo entrevistado. Este retorno indica que a interface do protótipo de alta fidelidade é intuitiva e funcional para o acompanhamento de passagem. Porém teve alguns pontos como melhorar o design do sistema, como suas cores. As sugestões fornecidas são valiosas para aprimorar ainda mais a experiência do usuário, garantindo uma interface ainda mais eficiente e agradável.
+        </li>
+   </ul>
+
+   <h2> Gravação da Avaliação </h2>
+     <iframe width="560" height="315" src="https://www.youtube.com/embed/WBpZuIqPfmY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+  <b>Entrevistada: Isaque</b>
+   
+   <h2> Questões Identificadas </h2> 
+   <ul>
+        <li>
+        <b>Feedback Positivo: </b> Durante a avaliação do protótipo de alta fidelidade, o usuário demonstrou facilidade ao realizar o caminho desejado para o acompanhamento de passagem. O usuário conseguiu completar a tarefa sem enfrentar uma grande dificuldade, só na parte que aparece as passagens compradas ele nao visualizou de primeira impressão que ali era os destinos das viagens, porém em geral reforça a eficácia e a clareza das instruções fornecidas.
+        </li>
+        <li>
+        <b>Problema Identificado: </b> Não teve nenhum problema tão grande, só o já citado que o usuário não conseguiu identificador tão rápido a página de passagens que era sobre destinos.
+        </li>
+   </ul>
+   <h2> Sugestões para Melhorias </h2> 
+   <ul>
+        <li>
+      Adicionar título de destinos nas informações das passagens 
+        </li>
+   </ul>
+   <h2> Feedback do Usuário </h2> 
+   <ul>
+        <li>
+        O feedback geral do participante foi positivo. O design da interface foi elogiado por sua intuitividade e facilidade de uso, proporcionando uma experiência fluida e eficiente. Este retorno indica que a interface do protótipo de alta fidelidade é intuitiva e funcional para o acompanhamento de passagem. Teve alguns pontos de sugestões como mudar as informações das passagens compradas para deixar mais claro para o que servem. As sugestões fornecidas são valiosas para aprimorar ainda mais a experiência do usuário, garantindo uma interface ainda mais eficiente e agradável.
+        </li>
+   </ul>
+
+   <h2> Gravação da Avaliação </h2>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/RUN6l7vyoPw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+</details>
+
+
+<details>
     <summary>Funcionalidade: Compartilhamento de Trajetos (Gustavo Alves) </summary>
 
    <h2> Questões Identificadas </h2> 
