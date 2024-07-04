@@ -46,10 +46,12 @@ Assim como instruído por Krug, com **três ou quatro** participantes é possív
 <summary>Funcionalidade: Acompanhamento de Passagem (Renan Araújo)</summary>
 
 
+ <h2> Questões Identificadas </h2> 
 
+ 
    <b>Entrevistada: Davi</b>
    
-   <h2> Questões Identificadas </h2> 
+  
    <ul>
         <li>
         <b>Feedback Positivo: </b> Durante a avaliação do protótipo de alta fidelidade, o usuário demonstrou facilidade ao realizar o caminho desejado para o acompanhamento de passagem. O usuário conseguiu completar a tarefa sem enfrentar nenhuma dificuldade, o que reforça a eficácia e a clareza das instruções fornecidas.
@@ -75,10 +77,12 @@ Assim como instruído por Krug, com **três ou quatro** participantes é possív
      <iframe width="560" height="315" src="https://www.youtube.com/embed/_5y09x-x_n0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
+   <h2> Questões Identificadas </h2> 
 
+   
   <b>Entrevistada: Leandro</b>
    
-   <h2> Questões Identificadas </h2> 
+
    <ul>
         <li>
         <b>Feedback Positivo: </b> Durante a avaliação do protótipo de alta fidelidade, o usuário demonstrou facilidade ao realizar o caminho desejado para o acompanhamento de passagem. O usuário conseguiu completar a tarefa sem enfrentar nenhuma dificuldade, o que reforça a eficácia e a clareza das instruções fornecidas.
@@ -104,10 +108,10 @@ Assim como instruído por Krug, com **três ou quatro** participantes é possív
      <iframe width="560" height="315" src="https://www.youtube.com/embed/WBpZuIqPfmY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-
+   <h2> Questões Identificadas </h2> 
   <b>Entrevistada: Isaque</b>
    
-   <h2> Questões Identificadas </h2> 
+
    <ul>
         <li>
         <b>Feedback Positivo: </b> Durante a avaliação do protótipo de alta fidelidade, o usuário demonstrou facilidade ao realizar o caminho desejado para o acompanhamento de passagem. O usuário conseguiu completar a tarefa sem enfrentar uma grande dificuldade, só na parte que aparece as passagens compradas ele nao visualizou de primeira impressão que ali era os destinos das viagens, porém em geral reforça a eficácia e a clareza das instruções fornecidas.
