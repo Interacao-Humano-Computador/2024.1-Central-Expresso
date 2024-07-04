@@ -10,6 +10,8 @@ A metodologia para a avaliação foi de investigação por meio de uma entrevist
 
 O objetivo dessa avaliação foi identificar problemas na interação e na interface e cada membro ficou responsável por sua funcionalidade anteriormente elegida.
 
+Assim como instruído por Krug, com **três ou quatro** participantes é possível detectar a maioria dos problemas e permite fazer a análise no mesmo dia. O pesquisador acrescenta ainda que realizar com **um** participante é 100% melhor do que não realizar com nenhum.
+
 ## Avaliações
 
 <details>
