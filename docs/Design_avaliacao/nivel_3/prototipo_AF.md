@@ -136,6 +136,7 @@ Na figura 1, está a tela inicial que deve ser utilizada em todos os demais prot
 
 ## Histórico de Versões
 
-| Versão |    Data    | Descrição           | Autor(es)                               | Revisor(es)     |
-| ------ | :--------: | ------------------- | --------------------------------------- | --------------- |
-| 1.0    | 19/06/2024 | Protótipos de Papel | [Yasmim Rosa]() <br> [Alana Gabriele]() | [Marco Tulio]() |
+| Versão |    Data    | Descrição                        | Autor(es)                               | Revisor(es)       |
+| ------ | :--------: | -------------------------------- | --------------------------------------- | ----------------- |
+| 1.0    | 19/06/2024 | Protótipos de Papel              | [Yasmim Rosa]() <br> [Alana Gabriele]() | [Marco Tulio]()   |
+| 1.1    | 03/06/2024 | Protótipos de Papel Rastreamento | [Yasmim Rosa]() <br> [Alana Gabriele]() | [Gustavo Alves]() |

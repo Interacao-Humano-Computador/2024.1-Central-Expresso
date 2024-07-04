@@ -280,6 +280,7 @@ Os usuários avaliaram positivamente a interface atual, destacando a facilidade 
 
 ## Histórico de Versões
 
-| Versão |    Data    | Descrição            | Autor(es)                                       | Revisor(es)     |
-| ------ | :--------: | -------------------- | ----------------------------------------------- | --------------- |
-| 1.0    | 03/07/2024 | Criação do Documento | [Gustavo Alves](https://github.com/gustaallves) | [Yasmim Rosa]() |
+| Versão |    Data    | Descrição             | Autor(es)                                          | Revisor(es)     |
+| ------ | :--------: | --------------------- | -------------------------------------------------- | --------------- |
+| 1.0    | 03/07/2024 | Criação do Documento  | [Gustavo Alves](https://github.com/gustaallves)    | [Yasmim Rosa]() |
+| 1.1    | 03/07/2024 | Relato - Rastreamento | [Alana Gabriele](https://github.com/alanagabriele) | [Yasmim Rosa]() |
