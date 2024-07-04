@@ -69,19 +69,22 @@ Na figura 1, está a tela inicial que deve ser utilizada em todos os demais prot
     <summary>Funcionalidade: Acúmulo de Pontos por Trajeto (Pedro Henrique)</summary>
     Nas figuras 13, 14, 15, 16 e 17 estão os prótotipos elaborados para a funcionalidade.
     <font size="2"><p style="text-align: center"> Figura 13 - Protótipo de Alta Fidelidade Acúmulo de Pontos por Trajeto</font>
-    <img src="../prototipo_papel/pedro/p1.jpeg">
+    <img src="../PAF/p1.png">
     <font size="2"><p style="text-align: center">Fonte: <a href=""> Pedro Henrique </a></p></font>
     <font size="2"><p style="text-align: center"> Figura 14 - Protótipo de Alta Fidelidade Acúmulo de Pontos por Trajeto</font>
-    <img src="../prototipo_papel/pedro/p2.jpeg">
+    <img src="../PAF/p2.png">
+    <font size="2"><p style="text-align: center">Fonte: <a href=""> Pedro Henrique </a></p></font>
+    <font size="2"><p style="text-align: center"> Figura 14 - Protótipo de Alta Fidelidade Acúmulo de Pontos por Trajeto</font>
+    <img src="../PAF/p3.png">
     <font size="2"><p style="text-align: center">Fonte: <a href=""> Pedro Henrique </a></p></font>
     <font size="2"><p style="text-align: center"> Figura 15 - Protótipo de Alta Fidelidade Acúmulo de Pontos por Trajeto</font>
-    <img src="../prototipo_papel/pedro/p3.jpeg">
+    <img src="../PAF/p4.png">
     <font size="2"><p style="text-align: center">Fonte: <a href=""> Pedro Henrique </a></p></font>
     <font size="2"><p style="text-align: center"> Figura 16 - Protótipo de Alta Fidelidade Acúmulo de Pontos por Trajeto</font>
-    <img src="../prototipo_papel/pedro/p4.jpeg">
+    <img src="../PAF/p5.png">
     <font size="2"><p style="text-align: center">Fonte: <a href=""> Pedro Henrique </a></p></font>
     <font size="2"><p style="text-align: center"> Figura 17 - Protótipo de Alta Fidelidade Acúmulo de Pontos por Trajeto</font>
-    <img src="../prototipo_papel/pedro/p5.jpeg">
+    <img src="../PAF/p6.png">
     <font size="2"><p style="text-align: center">Fonte: <a href=""> Pedro Henrique </a></p></font>
 
 </details>
