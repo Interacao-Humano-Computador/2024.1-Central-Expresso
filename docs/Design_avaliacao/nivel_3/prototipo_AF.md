@@ -90,16 +90,16 @@ Na figura 1, está a tela inicial que deve ser utilizada em todos os demais prot
     <summary> Funcionalidade: Acompanhar compra de passagem (Renan Araújo)</summary>
     Nas figuras 18, 19, 20 e 21 estão os prótotipos elaborados para a funcionalidade.
     <font size="2"><p style="text-align: center"> Figura 18 - Protótipo de Alta Fidelidade Acompanhar compra de passagem</font>
-    <img src="../prototipo_papel/renan/r1.jpeg">
+   <img src="../PAF/passagem1.png">
     <font size="2"><p style="text-align: center">Fonte: <a href=""> Renan Araújo </a></p></font>
     <font size="2"><p style="text-align: center"> Figura 19 - Protótipo de Alta Fidelidade Acompanhar compra de passagem</font>
-    <img src="../prototipo_papel/renan/r2.jpeg">
+     <img src="../PAF/passagem2.png">
     <font size="2"><p style="text-align: center">Fonte: <a href=""> Renan Araújo </a></p></font>
     <font size="2"><p style="text-align: center"> Figura 20 - Protótipo de Alta Fidelidade Acompanhar compra de passagem</font>
-    <img src="../prototipo_papel/renan/r3.jpeg">
+     <img src="../PAF/passagem3.png">
     <font size="2"><p style="text-align: center">Fonte: <a href=""> Renan Araújo </a></p></font>
     <font size="2"><p style="text-align: center"> Figura 21 - Protótipo de Alta Fidelidade Acompanhar compra de passagem</font>
-    <img src="../prototipo_papel/renan/r4.jpeg">
+  <img src="../PAF/passagem4.png">
     <font size="2"><p style="text-align: center">Fonte: <a href=""> Renan Araújo </a></p></font>
 
 </details>
