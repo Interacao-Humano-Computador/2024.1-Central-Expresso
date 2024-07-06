@@ -2,7 +2,8 @@
 
 A seleção das ferramentas pode influenciar consideravelmente o andamento e o resultado de um projeto. Escolher as ferramentas adequadas não apenas otimiza a eficiência da equipe, mas também pode determinar a facilidade de comunicação, a qualidade do trabalho e a capacidade de cumprir prazos. Uma escolha inadequada pode levar a obstáculos na colaboração, atrasos e até mesmo comprometer a entrega final.
 
-Segue abaixo na **tabela 1** as ferramentas utilizadas no projeto:
+## Ferramentos
+Na **tabela 1** estão as ferramentas utilizadas neste projeto:
 
 <font size="2"><p style="text-align: center">Tabela 1 - Ferramentas </p></font>
 
@@ -14,18 +15,20 @@ Segue abaixo na **tabela 1** as ferramentas utilizadas no projeto:
 | <img src="https://www.webfx.com/wp-content/uploads/2022/08/github-logo.png" width=120>                                                                                                                                                                   | GitHub                     | Controle de versão e colaboração em código.             |
 | <img src="https://s2.static.brasilescola.uol.com.br/be/2023/01/logo-do-youtube.jpg" width=120>                                                                                                                                                           | YouTube                    | Hospedagem dos vídeos das apresentações.                |
 | <img src="https://miro.medium.com/v2/resize:fit:600/0*WteDmuQAOY6llaAb.png" width="120">                                                                                                                                                                 | MkDocs                     | Criação da documentação.                                |
-| <img src="https://miro.medium.com/v2/resize:fit:717/1*pHglcoa-BSouiNT7R2p9yQ.png" width=120>                                                                                                                                                             | Google Planilhas           | Criação e edição colaborativa de planilhas.             |
+| <img src="https://miro.medium.com/v2/resize:fit:717/1*pHglcoa-BSouiNT7R2p9yQ.png" width=120>                                                                                                                                                             | Google Planilhas           | Criação e edição colaborativa de planilhas e gráficos.             |
 | <img src="https://img.odcdn.com.br/wp-content/uploads/2023/05/Google-Docs.png" width=120>                                                                                                                                                                | Google Docs                | Criação e edição colaborativa de documentos.            |
 | <img src="https://s2-techtudo.glbimg.com/RdpcHGLGPUXAXx3Q4ASP_HgBLk8=/0x0:695x390/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2018/3/3/BbVQrrTAyGz3Ah97ASBQ/google-forms.jpg" width=120> | Google Forms               | Criação de formulários de pesquisa.                     |
 | <img src="https://varbai.com/wp-content/uploads/2019/02/thispersondoesnotexis.jpg" width=120>                                                                                                                                                            | This Person Does Not Exist | Imagens de rostos gerados por IA.                       |
 | <img src="https://i0.wp.com/brasap.com.br/wp-content/uploads/2020/04/VSCODE-Art1.jpeg?fit=400%2C200&ssl=1" width=120>                                                                                                                                    | Visual Studio Code         | Editor de código para criação e edição da documentação. |
-| <img src="https://play-lh.googleusercontent.com/o4vT3StM8rw3Hn15GMtLjuTA6VUWt6jxDvV4d5ahKj9E9nGaLut06tM83NESuTBr-t0=w240-h480-rw" width=120>                                                                                                             | Lucidchart                 | Criação de diagrmas                                     |
+| <img src="https://play-lh.googleusercontent.com/o4vT3StM8rw3Hn15GMtLjuTA6VUWt6jxDvV4d5ahKj9E9nGaLut06tM83NESuTBr-t0=w240-h480-rw" width=120>                                                                                                             | Lucidchart                 | Criação de diagramas                                     |
+| <img src="https://assets.clever.com/resource-icons/apps/5c54e7b4ecfd1f0001ac7f89/icon_90ecb09.png" width=120>                                                                                                             | StoryboardThat                 | Criação de storyboards                                     |
 | <img src="https://assets.justinmind.com/wp-content/uploads/2022/08/justinmind-logo-color-staked.png" width=120>                                                                                                                                          | Justinmind                 | Criação do protótipo de alta fidelidade                 |
 
 <font size="2"><p style="text-align: center"> Fonte: [Alana Gabriele](https://github.com/alanagabriele) </p></font>
 
 <br>
 
+storyboardthat
 ## Bibliografia
 
 > Whatsapp. Disponível em: [Link para Whatsapp](https://web.whatsapp.com/). Acesso em 11 de abril de 2024. <br>
@@ -46,5 +49,5 @@ Segue abaixo na **tabela 1** as ferramentas utilizadas no projeto:
 | Versão | Data       | Descrição                    | Autor                                              | Revisor                                      |
 | ------ | ---------- | ---------------------------- | -------------------------------------------------- | -------------------------------------------- |
 | 1.0    | 04/04/2024 | Inserção de ferramentas      | [Alana Gabriele](https://github.com/alanagabriele) | [Renan Araújo](https://github.com/renantfm4) |
-| 1.1    | 04/04/2024 | Adicionando mais ferramentas | [Yasmim Rosa](https://github.com/yaskisoba)        |
-| 1.2    | 19/06/2024 | Adicionando justinmind       | [Alana Gabriele](https://github.com/alanagabriele) |                                              |
+| 1.1    | 04/04/2024 | Adicionando mais ferramentas | [Yasmim Rosa](https://github.com/yaskisoba)        | [Alana Gabriele](https://github.com/alanagabriele)                                             |
+| 1.2    | 19/06/2024 | Adicionando justinmind       | [Alana Gabriele](https://github.com/alanagabriele) | [Yasmim Rosa](https://github.com/yaskisoba)                                             |
