@@ -1130,3 +1130,4 @@ Todas as entregas e seus respectivos cronogramas estão orietados a data de entr
 | 1.11    | 22/06/2024 | Atualização das Datas | [Yasmim Rosa](https://github.com/yaskisoba) | [Gustavo Alves](https://github.com/gustaallves)   |
 | 1.12    | 24/06/2024 | Cronograma Executado Etapa 6.2 | [Yasmim Rosa](https://github.com/yaskisoba) | [Renan Araújo](https://github.com/renantfm4)   |
 | 1.12    | 03/07/2024 | Cronograma Executado Etapa 8 | [Yasmim Rosa](https://github.com/yaskisoba) | [Marco Tulio](https://github.com/MarcoTulioSoares)   |
+| 2.0    | 06/07/2024 | Adicionando collapse nos cronogramas das etapas | [Yasmim Rosa](https://github.com/yaskisoba) | [Alana Gabriele](https://github.com/alanagabriele)  |
