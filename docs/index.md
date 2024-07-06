@@ -9,7 +9,7 @@ O objetivo desta documentação é apresentar todo o trabalho realizado durante 
 
 <div style="display: flex; flex-direction: row; gap: 15px; flex-wrap: wrap; justify-content: center;" >
     <div>
-        <a href="https://github.com/alanagabriele/alanagabriele">
+        <a href="https://github.com/alanagabriele">
                 <img style="border-radius: 50%;"         src="https://github.com/alanagabriele.png" width="100px;"/>
                 <h5 class="text-center">Alana Gabriele</h5>
         </a>
