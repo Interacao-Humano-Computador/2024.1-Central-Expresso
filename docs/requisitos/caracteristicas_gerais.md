@@ -9,6 +9,8 @@ Em relação as tecnologias utilizadas, não existe uma documentação que apont
 <center>![tecnologias](image-21.png)</center>
 <font size="2"><p style="text-align: center"> Fonte: [Yasmim Rosa](https://github.com/yaskisoba)</p></font>
 
+O site da Central Expresso pode ser utilizado por qualquer navegador (Firefox, Chrome, Safari, Internet Explorer e semelhantes) por qualquer dispositivo com acesso a internet.
+
 ## Limites
 <ul>
 <li>Devido a não considerar o uso em diversos dispositivos (responsividade) limita a usabilidade do site.</li>
@@ -27,3 +29,4 @@ Em relação as tecnologias utilizadas, não existe uma documentação que apont
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | 1.0    | 11/05/2024 |  Características da Plataforma | [Yasmim Rosa](https://github.com/yaskisoba) <br>  |    [Renan Araújo](https://github.com/renantfm4) <br>  |
+| 1.1    | 14/05/2024 |  Ajustes conforme feedback | [Yasmim Rosa](https://github.com/yaskisoba) <br>  |    [Renan Araújo](https://github.com/renantfm4) <br>  |
