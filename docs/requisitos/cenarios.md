@@ -38,7 +38,6 @@ Com a função de histórico de passagens compradas, Pedro mantém um registro d
 
 Rafael, um pequeno empresário de 31 anos, reside em Luziânia e aderiu ao programa de acúmulo de pontos da Central Expresso, ele percebe os benefícios imediatos, como descontos em passagens futuras e descontos em algumas lojas parceiras. Ao acessar o site, ele facilmente encontra a aba dedicada ao programa de fidelidade "Acumule Pontos" no menu principal. Ao clicar na aba, ele é direcionado para uma página onde pode inserir seus dados pessoais para se inscrever no programa. Após preencher as informações necessárias, ele é imediatamente informado sobre a quantidade de pontos que receberá em sua passagem. Motivado pelos ganhos concretos e pela sensação de valorização como cliente, Rafael se sente incentivado a se manter como um cliente mais fiel da empresa, usando as linhas da Central Expresso com mais frequência e focando seus negócios na capital. 
 
-
 ### Acompanhar pedido de compra de passagem (Renan Araújo)
 
 Lucas, um estudante universitário de 23 anos, reside em Luziânia e está prestes a iniciar seu semestre na faculdade. Ele se prepara para sua rotina diária, que envolve o uso frequente de tecnologia para várias tarefas. Hoje, Lucas já tem uma passagem de ônibus para visitar sua família durante o fim de semana, usando o aplicativo Central Expresso.
