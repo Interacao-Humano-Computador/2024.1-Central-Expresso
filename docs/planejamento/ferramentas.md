@@ -28,7 +28,6 @@ Na **tabela 1** estão as ferramentas utilizadas neste projeto:
 
 <br>
 
-storyboardthat
 ## Bibliografia
 
 > Whatsapp. Disponível em: [Link para Whatsapp](https://web.whatsapp.com/). Acesso em 11 de abril de 2024. <br>
@@ -42,6 +41,7 @@ storyboardthat
 > This Person Does Not Exist. Disponível em: [Link para This Person Does Not Exist](https://thispersondoesnotexist.com/). Acesso em 11 de abril de 2024. <br>
 > Visual Studio Code. Disponível em: [Link para Visual Studio Code](https://code.visualstudio.com/). Acesso em 11 de abril de 2024. <br>
 > Lucidchart. Disponível em: [Link para Lucidchart](https://www.lucidchart.com/pages/pt/produto?gad_source=1&gclid=Cj0KCQjwudexBhDKARIsAI-GWYW91IcI7ZdmDOevDTNobD9ogQ_aI3CiH_HRcy9BTIxokL8l4CMgyXYaAlcjEALw_wcB&km_CPC_AdGroupID=59412157138&km_CPC_AdPosition=&km_CPC_CampaignId=1500131167&km_CPC_Country=9074205&km_CPC_Creative=294337318298&km_CPC_Device=c&km_CPC_ExtensionID=&km_CPC_Keyword=lucidchart&km_CPC_MatchType=e&km_CPC_Network=g&km_CPC_TargetID=kwd-33511936169&km_CPC_placement=&km_CPC_target=&utm_campaign=_chart_pt_allcountries_mixed_search_brand_exact_&utm_medium=cpc&utm_source=google). Acesso em 11 de abril de 2024. <br>
+>StoryboardThat. Disponível em: [Link para StoryboardThat](https://www.storyboardthat.com/pt). Acesso em 03 de junho de 2024.
 > Justinmind. Disponível em: [Link para Justinmind](https://www.justinmind.com/). Acesso em 19 de junho de 2024. <br>
 
 ## Histórico de Versões
