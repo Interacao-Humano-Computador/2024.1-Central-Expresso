@@ -23,7 +23,7 @@ Alguns pontos em relação a acessibilidade e usablidade também foram considera
 <li> Presença de ícones que não cumprem funções práticas, comprometendo a funcionalidade; </li>
 <li> Falta de recursos de acessibilidade para atender a todos os usuários; </li>
 <li> Ausência de opções para personalização de tema, limitando a adaptabilidade; </li>
-<li> Processos de interação complexos e pouco claros para o usuário. </li>
+<li> Processos de interação complexos e pouco claros para o usuário a depender do seu nível de experiência com tecnologia. </li>
 </ul>
 
 O site escolhido se encontra disponível neste [link](https://www.centralexpresso.com/).
