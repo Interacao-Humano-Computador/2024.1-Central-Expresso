@@ -16,42 +16,45 @@ Assim como instruído por Krug, com **três ou quatro** participantes é possív
 
 <details>
 <summary>Funcionalidade: Rastreamento de Ônibus em Tempo Real (Alana Gabriele)</summary>
-   <h2> Questões Identificadas </h2> 
+     <h2> Síntese das Avaliações </h2>
+
+   <h3> Questões Identificadas </h3> 
    <ul>
         <li>
-        <b>Feedback Positivo: </b> Durante a avaliação do protótipo de alta fidelidade, o usuário demonstrou facilidade ao realizar o caminho desejado para o rastreamento de ônibus em tempo real. O usuário conseguiu completar a tarefa sem enfrentar dificuldades, o que reforça a eficácia e a clareza das instruções fornecidas.
+        <b>Feedback Positivo: </b> Durante a avaliação do protótipo de alta fidelidade, os usuários demonstraram facilidade ao realizar o caminho desejado para o rastreamento de ônibus em tempo real. Os usuários conseguiram completar a tarefa sem enfrentar dificuldades, o que reforça a eficácia e a clareza das instruções fornecidas.
         </li>
         <li>
-        <b>Problema Identificado: </b> Nenhum problema foi identificado. O usuário conseguiu navegar pela interface e executar a funcionalidade sem encontrar obstáculos ou pontos de confusão.
+        <b>Problema Identificado: </b> Nenhum problema foi identificado. Os usuários conseguiram navegar pela interface e executar a funcionalidade sem encontrar obstáculos ou pontos de confusão.
         </li>
    </ul>
-   <h2> Sugestões para Melhorias </h2> 
+   <h3> Sugestões para Melhorias </h3> 
    <ul>
         <li>
        Não houve sugestão de melhoria.
         </li>
    </ul>
-   <h2> Feedback do Usuário </h2> 
+   <h3> Feedback do Usuário </h3> 
    <ul>
         <li>
-        O feedback geral do participante foi positivo. O design da interface foi elogiado por sua intuitividade e facilidade de uso, proporcionando uma experiência fluida e eficiente. Este retorno indica que a interface do protótipo de alta fidelidade é intuitiva e funcional para o rastreamento de ônibus em tempo real. As sugestões fornecidas são valiosas para aprimorar ainda mais a experiência do usuário, garantindo uma interface ainda mais eficiente e agradável.
+        O feedback geral dos participantes foi positivo. O design da interface foi elogiado por sua intuitividade e facilidade de uso, proporcionando uma experiência fluida e eficiente. Este retorno indica que a interface do protótipo de alta fidelidade é intuitiva e funcional para o rastreamento de ônibus em tempo real. As sugestões fornecidas são valiosas para aprimorar ainda mais a experiência do usuário, garantindo uma interface ainda mais eficiente e agradável.
         </li>
    </ul>
 
-   <h2> Gravação da Avaliação </h2>
+   <h2> Avaliação 1  </h2>
      <iframe width="560" height="315" src="https://www.youtube.com/embed/go4AVJI1xqI?si=aFvlS5DZl4vS21EG&amp;" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<h2> Avaliação 2  </h2>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XBgus5SDMRg?si=k74nQ6UmD89t1vn6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </details>
 
 <details>
 <summary>Funcionalidade: Acompanhamento de Passagem (Renan Araújo)</summary>
 
+ <h2> Questões Identificadas </h2>
 
- <h2> Questões Identificadas </h2> 
+<b>Entrevistado: Davi</b>
 
- 
-   <b>Entrevistado: Davi</b>
-   
-  
    <ul>
         <li>
         <b>Feedback Positivo: </b> Durante a avaliação do protótipo de alta fidelidade, o usuário demonstrou facilidade ao realizar o caminho desejado para o acompanhamento de passagem. O usuário conseguiu completar a tarefa sem enfrentar nenhuma dificuldade, o que reforça a eficácia e a clareza das instruções fornecidas.
@@ -76,12 +79,9 @@ Assim como instruído por Krug, com **três ou quatro** participantes é possív
    <h2> Gravação da Avaliação </h2>
      <iframe width="560" height="315" src="https://www.youtube.com/embed/_5y09x-x_n0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+   <h2> Questões Identificadas </h2>
 
-   <h2> Questões Identificadas </h2> 
-
-   
-  <b>Entrevistado: Leandro</b>
-   
+<b>Entrevistado: Leandro</b>
 
    <ul>
         <li>
@@ -107,10 +107,8 @@ Assim como instruído por Krug, com **três ou quatro** participantes é possív
    <h2> Gravação da Avaliação </h2>
      <iframe width="560" height="315" src="https://www.youtube.com/embed/WBpZuIqPfmY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
    <h2> Questões Identificadas </h2> 
   <b>Entrevistado: Isaque</b>
-   
 
    <ul>
         <li>
@@ -136,10 +134,7 @@ Assim como instruído por Krug, com **três ou quatro** participantes é possív
    <h2> Gravação da Avaliação </h2>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/RUN6l7vyoPw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
-
 </details>
-
 
 <details>
     <summary>Funcionalidade: Compartilhamento de Trajetos (Gustavo Alves) </summary>

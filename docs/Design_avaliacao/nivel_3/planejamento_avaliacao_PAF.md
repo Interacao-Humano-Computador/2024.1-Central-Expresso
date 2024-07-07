@@ -155,6 +155,19 @@ De acordo com Barbosa e Silva (2011), os resultados indicam tendências de probl
 Barbosa e Silva (2011) define que a realização de um estudo-piloto é uma pequena previsão para assegurar que o estudo é viável e resultará na coleta dos dados desejados para realização das análises planejadas. Com base nessa definição, o teste piloto será uma sessão de teste para verificar se a entrevista com o usuário está planejada de modo a garantir seu conforto e extrair os dados desejados. A sessão de teste piloto será realizada entre dois membros da equipe, de maneira a simular a entrevista de modo a garantir que as entrevistas ocorrerão da maneira planejada. <br>
 O teste piloto ocorrerá no dia 21 de junho de 2024 às 16h30, na FGA, sendo o papel da entrevistadora Alana Gabriele e do entrevistado Renan Araújo.
 
+## Resultado do Teste Piloto
+
+<details>
+<summary>Teste Piloto - Rastreamente de ônibus em tempo real (Alana Gabriele)</summary>
+
+<font size="2"><p style="text-align: center"> Gravação do teste piloto </font>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P1aIRHKvZlQ?si=Pp6JRqvzrTlktyZv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<font size="2"><p style="text-align: center">Fonte: <a href=""> Alana Gabriele</a></p></font>
+
+</details>
+
 ## Bibliografia
 
 > BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.

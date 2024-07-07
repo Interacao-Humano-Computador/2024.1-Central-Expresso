@@ -54,17 +54,17 @@ Antes do início das avaliações será realizado um teste piloto para verifica�
 
 <font size="2"><p style="text-align: center">Tabela 1 - Perguntas da entrevista </p></font>
 
-| Perguntas                                                                                              | Tipo de Resposta| Justificativa | Fonte | Captura de Tela |
-| ------------------------------------------------------------------------------------------------------ | --------------- | ------------- | ----- | --------------- |
-| Qual seu nome?                                                                                         | Discursiva      | Reafirmar o perfil do usuário |  Item 8.1, página 166, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.| [página 166](../analise_tarefas/fontes/image_2.png) |
-| Quantos anos você tem?                                                                                 | Discursiva      | Reafirmar o perfil do usuário |  Item 8.1, página 166, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.| [página 166](../analise_tarefas/fontes/image_2.png) |
-| Qual seu nível de experiência com tecnologias?                                                         | Discursiva      | Reafirmar o perfil do usuário |  Item 8.1, página 166, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.| [página 166](../analise_tarefas/fontes/image_2.png) |
-| Qual cidade você mora?                                                                                 | Discursiva      | Reafirmar o perfil do usuário |  Item 8.1, página 166, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.| [página 166](../analise_tarefas/fontes/image_2.png) |
-| Com qual frequência costuma pegar ônibus da Central Expresso (CT Expresso)?                            | Discursiva      | Reafirmar o perfil do usuário |  Item 8.1, página 166, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.| [página 166](../analise_tarefas/fontes/image_2.png) |
-| Com qual objetivo?                                                                                     | Discursiva      | Reafirmar o perfil do usuário |  Item 8.1, página 166, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.| [página 166](../analise_tarefas/fontes/image_2.png) |
-| Tem o costume de planejar sua semana com antecedência?                                                 | Objetiva (SIM/NÃO) |  Reafirmar o perfil do usuário |  Item 8.1, página 166, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.| [página 166](../analise_tarefas/fontes/image_2.png) |
-| Fazer a compra de passagens antes de pegar o ônibus seria uma vantagem para você?                      | Objetiva (SIM/NÃO) |  Reafirmar o perfil do usuário |  Item 8.1, página 166, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.| [página 166](../analise_tarefas/fontes/image_2.png) |
-| Costuma realizar compras online?                                                                       | Objetiva (SIM/NÃO) |  Reafirmar o perfil do usuário |  Item 8.1, página 166, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.| [página 166](../analise_tarefas/fontes/image_2.png) |
+| Perguntas                                                                                              | Tipo de Resposta   | Justificativa                 | Fonte                                                                                                                  | Captura de Tela                                     |
+| ------------------------------------------------------------------------------------------------------ | ------------------ | ----------------------------- | ---------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
+| Qual seu nome?                                                                                         | Discursiva         | Reafirmar o perfil do usuário | Item 8.1, página 166, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição. | [página 166](../analise_tarefas/fontes/image_2.png) |
+| Quantos anos você tem?                                                                                 | Discursiva         | Reafirmar o perfil do usuário | Item 8.1, página 166, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição. | [página 166](../analise_tarefas/fontes/image_2.png) |
+| Qual seu nível de experiência com tecnologias?                                                         | Discursiva         | Reafirmar o perfil do usuário | Item 8.1, página 166, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição. | [página 166](../analise_tarefas/fontes/image_2.png) |
+| Qual cidade você mora?                                                                                 | Discursiva         | Reafirmar o perfil do usuário | Item 8.1, página 166, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição. | [página 166](../analise_tarefas/fontes/image_2.png) |
+| Com qual frequência costuma pegar ônibus da Central Expresso (CT Expresso)?                            | Discursiva         | Reafirmar o perfil do usuário | Item 8.1, página 166, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição. | [página 166](../analise_tarefas/fontes/image_2.png) |
+| Com qual objetivo?                                                                                     | Discursiva         | Reafirmar o perfil do usuário | Item 8.1, página 166, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição. | [página 166](../analise_tarefas/fontes/image_2.png) |
+| Tem o costume de planejar sua semana com antecedência?                                                 | Objetiva (SIM/NÃO) | Reafirmar o perfil do usuário | Item 8.1, página 166, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição. | [página 166](../analise_tarefas/fontes/image_2.png) |
+| Fazer a compra de passagens antes de pegar o ônibus seria uma vantagem para você?                      | Objetiva (SIM/NÃO) | Reafirmar o perfil do usuário | Item 8.1, página 166, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição. | [página 166](../analise_tarefas/fontes/image_2.png) |
+| Costuma realizar compras online?                                                                       | Objetiva (SIM/NÃO) | Reafirmar o perfil do usuário | Item 8.1, página 166, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição. | [página 166](../analise_tarefas/fontes/image_2.png) |
 | Os atores presentes no storyboard são coerentes com a realidade?                                       | Objetiva (SIM/NÃO) |
 | A sequência de ações leva ao objetivo final?                                                           | Objetiva (SIM/NÃO) |
 | O storyboard propõe maneiras mais eficientes ou interessantes de os usuários atingirem seus objetivos? | Objetiva (SIM/NÃO) |
@@ -112,7 +112,19 @@ De acordo com Barbosa e Silva (2011), os resultados indicam tendências de probl
 
 ## Planejamento do Teste Piloto
 
-Barbosa e Silva (2011) define que a realização de um estudo-piloto é uma pequena previsão para assegurar que o estudo é viável e resultará na coleta dos dados desejados para realização das análises planejadas. Com base nessa definição, o teste piloto será uma sessão de teste para verificar se a entrevista com o usuário está planejada de modo a garantir seu conforto e extrair os dados desejados. A sessão de teste piloto será realizada entre dois membros da equipe, de maneira a simular a entrevista de modo a garantir que as entrevistas ocorrerão da maneira planejada. <br>
+Barbosa e Silva (2011) define que a realização de um estudo-piloto é uma pequena previsão para assegurar que o estudo é viável e resultará na coleta dos dados desejados para realização das análises planejadas. Com base nessa definição, o teste piloto será uma sessão de teste para verificar se a entrevista com o usuário está planejada de modo a garantir seu conforto e extrair os dados desejados. A sessão de teste piloto será realizada para simular a entrevista de modo a garantir que as entrevistas ocorrerão da maneira planejada. <br>
+
+## Resultado do Teste Piloto
+
+<details>
+<summary>Teste Piloto - Rastreamente de ônibus em tempo real (Alana Gabriele)</summary>
+
+<font size="2"><p style="text-align: center"> Gravação do teste piloto </font>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IAz9LLY1lNs?si=KvI7znTSkoxBHdRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<font size="2"><p style="text-align: center">Fonte: <a href=""> Alana Gabriele </a></p></font>
+
+</details>
 
 ## Bibliografia
 

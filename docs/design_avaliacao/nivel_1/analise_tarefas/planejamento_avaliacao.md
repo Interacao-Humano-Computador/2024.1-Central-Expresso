@@ -47,6 +47,7 @@ Para a realização dessa etapa, foi utilizado como referência o livro de Barbo
 O método escolhido é o de investigação por possibilitar coletas de dados sobre o design, problemas frequentes e expectativas para atualizações futuras. Para tal, serão realizadas entrevistas que serão gravadas, com o uso de questionário como roteiro.
 
 ### **I**dentificar e administrar as questões práticas da avaliação
+
 A elaboração da análise de tarefas foi realizada anteriormente usando dois métodos HTA e GOMS, o foco desta avaliação são aquelas realizadas com HTA disponíveis em [Análise de Tarefas](../../../requisitos/analise_tarefas_hta.md).
 
 Para realização da entrevista serão necessários:
@@ -65,16 +66,16 @@ Na **Tabela 1** estão as perguntas e na **Tabela 2** está o cronograma:
 <p> Tabela 1: Questões para entrevistas.</p>
 </div>
 
-| Pergunta                                                               | Tipo de Resposta      | Justificativa | Fonte | Captura de Tela |
-| ---------------------------------------------------------------------- | --------------------- | ------------- | ----- | --------------- |
-| Qual o seu nome?                                                       | Resposta discursiva   | Reafirmar o perfil do usuário |  Item 8.1, página 166, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.| [página 166](../analise_tarefas/fontes/image_2.png) |
-| Quanto anos você tem?                                                  | Resposta discursiva   | Reafirmar o perfil do usuário |  Item 8.1, página 166, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.| [página 166](../analise_tarefas/fontes/image_2.png) |
-| Qual sua ocupação ?                                                    | Resposta discursiva   | Reafirmar o perfil do usuário |  Item 8.1, página 166, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.| [página 166](../analise_tarefas/fontes/image_2.png) |
-| Qual seu grau de experiência com tecnologias?                          | Resposta discursiva   | Reafirmar o perfil do usuário | Item 8.1, página 166, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.| [página 166](../analise_tarefas/fontes/image_2.png) |
-| Com qual frequência você utiliza o site Central Expresso?              | Resposta discursiva   | Reafirmar o perfil do usuário | Item 8.1, página 166, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.| [página 166](../analise_tarefas/fontes/image_2.png) |
-| O fluxo apresentado é coerente para você? Caso não, descreva o motivo.   | Resposta discursiva   | Identificar problemas de interação  | Item 8.4.1, página 178, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.  | [página 178](../analise_tarefas/fontes/image_1.png) |
-| Você mudaria alguma coisa do fluxo? Caso sim, descreva o motivo.       | Resposta discursiva   | Identificar problemas de interação | Item 8.4.1, página 178, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição. | [página 178](../analise_tarefas/fontes/image_1.png) |
-| O fluxo atinge o seu objetivo? Caso não, descreva o motivo.            | Resposta discursiva   | Identificar problemas de interação | Item 8.4.1, página 179, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição. | [página 179](../analise_tarefas/fontes/image.png) |
+| Pergunta                                                               | Tipo de Resposta    | Justificativa                      | Fonte                                                                                                                    | Captura de Tela                                     |
+| ---------------------------------------------------------------------- | ------------------- | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------- |
+| Qual o seu nome?                                                       | Resposta discursiva | Reafirmar o perfil do usuário      | Item 8.1, página 166, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.   | [página 166](../analise_tarefas/fontes/image_2.png) |
+| Quanto anos você tem?                                                  | Resposta discursiva | Reafirmar o perfil do usuário      | Item 8.1, página 166, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.   | [página 166](../analise_tarefas/fontes/image_2.png) |
+| Qual sua ocupação ?                                                    | Resposta discursiva | Reafirmar o perfil do usuário      | Item 8.1, página 166, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.   | [página 166](../analise_tarefas/fontes/image_2.png) |
+| Qual seu grau de experiência com tecnologias?                          | Resposta discursiva | Reafirmar o perfil do usuário      | Item 8.1, página 166, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.   | [página 166](../analise_tarefas/fontes/image_2.png) |
+| Com qual frequência você utiliza o site Central Expresso?              | Resposta discursiva | Reafirmar o perfil do usuário      | Item 8.1, página 166, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.   | [página 166](../analise_tarefas/fontes/image_2.png) |
+| O fluxo apresentado é coerente para você? Caso não, descreva o motivo. | Resposta discursiva | Identificar problemas de interação | Item 8.4.1, página 178, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição. | [página 178](../analise_tarefas/fontes/image_1.png) |
+| Você mudaria alguma coisa do fluxo? Caso sim, descreva o motivo.       | Resposta discursiva | Identificar problemas de interação | Item 8.4.1, página 178, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição. | [página 178](../analise_tarefas/fontes/image_1.png) |
+| O fluxo atinge o seu objetivo? Caso não, descreva o motivo.            | Resposta discursiva | Identificar problemas de interação | Item 8.4.1, página 179, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição. | [página 179](../analise_tarefas/fontes/image.png)   |
 
 <font size="2"><p style="text-align: center">Fonte: [Alana Gabriele](https://github.com/alanagabriele) e [Gustavo Alves](https://github.com/gustaallves) </p></font>
 
@@ -123,17 +124,30 @@ Como dito por Barbosa e Silva (2011), a realização do teste-piloto em casos em
 
 <center>
 
-|        Entrevistadores         |    Data    |
-| :----------------------------: | :--------: | 
-| Alana Gabriele | 26/05/2024 |   
-| Marco Tulio    | 27/05/2024 |     
-| Pedro Henrique | 28/05/2024 |     
-| Renan Araújo   | 29/05/2024 |    
-| Yasmim Rosa    | 29/05/2024 |     
+| Entrevistadores |    Data    |
+| :-------------: | :--------: |
+| Alana Gabriele  | 26/05/2024 |
+|   Marco Tulio   | 27/05/2024 |
+| Pedro Henrique  | 28/05/2024 |
+|  Renan Araújo   | 29/05/2024 |
+|   Yasmim Rosa   | 29/05/2024 |
 
 </center>
 
 <font size="2"><p style="text-align: center">Fonte: [Alana Gabriele](https://github.com/alanagabriele) e [Gustavo Alves](https://github.com/gustaallves) </p></font>
+
+## Resultado do Teste Piloto
+
+<details>
+<summary>Teste Piloto - Rastreamente de ônibus em tempo real (Alana Gabriele)</summary>
+
+<font size="2"><p style="text-align: center"> Gravação do teste piloto </font>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EKtKLD3X6i0?si=awn_50DWRJxHvH35" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<font size="2"><p style="text-align: center">Fonte: <a href=""> Alana Gabriele </a></p></font>
+
+</details>
 
 ## Bibliografia
 
@@ -144,4 +158,4 @@ Como dito por Barbosa e Silva (2011), a realização do teste-piloto em casos em
 | Versão | Data       | Descrição              | Autor(es)                                                                                               | Revisor(es)                                 |
 | ------ | ---------- | ---------------------- | ------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
 | 1.0    | 22/05/2023 | Criação do documento   | [Alana Gabriele](https://github.com/alanagabriele) <br> [Gustavo Alves](https://github.com/gustaallves) | [Yasmim Rosa](https://github.com/yaskisoba) |
-| 2.0    | 29/05/2023 | Arrumando as perguntas | [Alana Gabriele](https://github.com/alanagabriele) |[Yasmim Rosa](https://github.com/yaskisoba) |
+| 2.0    | 29/05/2023 | Arrumando as perguntas | [Alana Gabriele](https://github.com/alanagabriele)                                                      | [Yasmim Rosa](https://github.com/yaskisoba) |

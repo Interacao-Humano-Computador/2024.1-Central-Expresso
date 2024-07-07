@@ -33,6 +33,7 @@ Para realização desta avaliação será utilizado o método de investigação 
 Serão 6 entrevistas guiadas por questionário, cada entrevista realizada por cada membro da equipe sobre seu storyboard da sua funcionalidade designada.
 
 ### I - Identificar e administrar questões práticas da avaliação
+
 Para realização da avaliação serão necessários:
 
 - Protótipo de papel da funcionalidade feito com papel;
@@ -46,22 +47,24 @@ Para realização da avaliação serão necessários:
 Cada sessão de entrevista contará com o avaliador simulador do sistema, que será o responsável por elaborar o protótipo de papel bem como garantir um bom uso do mesmo, e o avaliador observador que realizará as anotações sobre a experiência de uso. **Vale ressaltar que caso não seja possível realizar a entrevista com os dois avaliadores, apenas um realizará e fará ambos os papéis**. Na tabela 1 está o cronograma para providenciar as principais questões levantadas:
 
 <font size="2"><p style="text-align: center">Tabela 1 - Cronograma Geral </p></font>
+
 <center>
 
-| Data de Início | Data de Fim    | Atividade                            |
-| -------------- | -------------- | ------------------------------------ |
-| 02/06/2024     | 04/06/2024     | Elaborar protótipo de papel          |
-| 04/06/2024     | 04/06/2024     | Preparar TCLE                        |
-| 02/06/2024     | 05/06/2024     | Recrutamento de participantes        |
-| 02/06/2024     | 05/06/2024     | Marcação da sessão de entrevista     |
-| 05/06/2024     | 07/06/2024     | Realização das sessões de entrevista |
+| Data de Início | Data de Fim | Atividade                            |
+| -------------- | ----------- | ------------------------------------ |
+| 02/06/2024     | 04/06/2024  | Elaborar protótipo de papel          |
+| 04/06/2024     | 04/06/2024  | Preparar TCLE                        |
+| 02/06/2024     | 05/06/2024  | Recrutamento de participantes        |
+| 02/06/2024     | 05/06/2024  | Marcação da sessão de entrevista     |
+| 05/06/2024     | 07/06/2024  | Realização das sessões de entrevista |
 
 </center>
 
 <font size="2"><p style="text-align: center">Fonte: [Yasmim Rosa](https://github.com/yaskisoba) e [Renan Araújo](https://github.com/renantfm4)</p></font>
 
 ### Referência para elaboração do protótipo de papel
-O protótipo de papel deve ser elaborado de maneira tradicional, ou seja, com papel e lápis. Como o site deste projeto é um site avaliado principalmente no seu formato de visualização em computadores a folha deve estar na horizontal, devem ser elaborados elementos de interação também com papel como por exemplo: menus do tipo hambúrguer, possíveis erros e inputs. 
+
+O protótipo de papel deve ser elaborado de maneira tradicional, ou seja, com papel e lápis. Como o site deste projeto é um site avaliado principalmente no seu formato de visualização em computadores a folha deve estar na horizontal, devem ser elaborados elementos de interação também com papel como por exemplo: menus do tipo hambúrguer, possíveis erros e inputs.
 De maneira geral, os protótipos de papel devem:
 
 - Serem elaborados com a folha em formato horizontal;
@@ -69,17 +72,19 @@ De maneira geral, os protótipos de papel devem:
 - Estarem coerentes, mas não se limitar, com o fluxo da análise de tarefas elaborados com HTA.
 
 ### Entrevista
+
 Como forma de revalidação que o participante se encaixa no perfil de usuário levantado, inicialmente será realizado algumas perguntas gerais sobre o participante como pode ser observado na tabela 2.
 
 <font size="2"><p style="text-align: center">Tabela 2 - Perguntas da entrevista para confirmação do perfil do usuário </p></font>
+
 <center>
 
-| Perguntas                                          | Respostas       |
-| -------------------------------------------------- | --------------- |
-| Qual seu nome?                                     | Aberta          |
-| Quantos anos você tem?                             | Aberta          |
-| Qual é o seu nível de experiência com tecnologias? | Aberta          |
-| Em qual cidade você mora?                          | Aberta          |
+| Perguntas                                          | Respostas |
+| -------------------------------------------------- | --------- |
+| Qual seu nome?                                     | Aberta    |
+| Quantos anos você tem?                             | Aberta    |
+| Qual é o seu nível de experiência com tecnologias? | Aberta    |
+| Em qual cidade você mora?                          | Aberta    |
 
 </center>
 
@@ -88,18 +93,19 @@ Como forma de revalidação que o participante se encaixa no perfil de usuário 
 Em seguida o participante iniciará o uso do protótipo de papel, sendo anotadas os comportamentoss dele pelo avaliador-observador. Ao fim serão realizadas as perguntas da tabela 3:
 
 <font size="2"><p style="text-align: center">Tabela 3 - Questionário </p></font>
+
 <center>
 
-| Perguntas                                                                                              | Respostas       |
-| ------------------------------------------------------------------------------------------------------ | --------------- |
-| O layout do protótipo é claro e intuitivo?                                                             | SIM ( ) NÃO ( ) |
-| Você conseguiu entender como navegar pelo protótipo rapidamente?                                       | SIM ( ) NÃO ( ) |
-| As informações apresentadas são fáceis de encontrar?                                                   | SIM ( ) NÃO ( ) |
-| As funcionalidades do protótipo atendem suas expectativas?                                             | SIM ( ) NÃO ( ) |
-| Você encontrou alguma dificuldade em realizar as tarefas propostas?                                    | SIM ( ) NÃO ( ) |
-| As transições entre as telas são claras e lógicas?                                                     | SIM ( ) NÃO ( ) |
-| O protótipo representa bem o fluxo de uso esperado?                                                    | SIM ( ) NÃO ( ) |
-| Você tem alguma sugestão para melhorar o protótipo?                                                    | Aberta          |
+| Perguntas                                                           | Respostas       |
+| ------------------------------------------------------------------- | --------------- |
+| O layout do protótipo é claro e intuitivo?                          | SIM ( ) NÃO ( ) |
+| Você conseguiu entender como navegar pelo protótipo rapidamente?    | SIM ( ) NÃO ( ) |
+| As informações apresentadas são fáceis de encontrar?                | SIM ( ) NÃO ( ) |
+| As funcionalidades do protótipo atendem suas expectativas?          | SIM ( ) NÃO ( ) |
+| Você encontrou alguma dificuldade em realizar as tarefas propostas? | SIM ( ) NÃO ( ) |
+| As transições entre as telas são claras e lógicas?                  | SIM ( ) NÃO ( ) |
+| O protótipo representa bem o fluxo de uso esperado?                 | SIM ( ) NÃO ( ) |
+| Você tem alguma sugestão para melhorar o protótipo?                 | Aberta          |
 
 </center>
 <font size="2"><p style="text-align: center">Fonte: [Yasmim Rosa](https://github.com/yaskisoba) e [Renan Araújo](https://github.com/renantfm4)</p></font>
@@ -115,14 +121,13 @@ Na tabela 4, está o cronograma das entrevistas que serão realizadas:
 |        Entrevistadores         |    Data    | Horário de início e fim | Local             |
 | :----------------------------: | :--------: | :---------------------: | ----------------- |
 | Alana Gabriele e Gustavo Alves | 05/06/2024 |     17:10 até 17:20     | Faculdade do Gama |
-| Renan Araújo e Pedro Henrique  | a definir  |     a definir           | Faculdade do Gama |
+| Renan Araújo e Pedro Henrique  | a definir  |        a definir        | Faculdade do Gama |
 |  Gustavo Alves e Yasmin Rosa   | 05/06/2024 |     10:10 até 10:20     | Faculdade do Gama |
 |  Yasmin Rosa e Alana Gabriele  | 06/06/2024 |     17:10 até 17:20     | Faculdade do Gama |
-|  Pedro Henrique e Marco Tulio  | a definir  |    a definir            | Faculdade do Gama |
-|   Marco Tulio e Renan Araújo   | a definir  |     a definir           | Faculdade do Gama |
+|  Pedro Henrique e Marco Tulio  | a definir  |        a definir        | Faculdade do Gama |
+|   Marco Tulio e Renan Araújo   | a definir  |        a definir        | Faculdade do Gama |
 
 </center>
-
 
 <font size="2"><p style="text-align: center">Fonte: [Alana Gabriele](https://github.com/alanagabriele) e [Gustavo Alves](https://github.com/gustaallves) </p></font>
 
@@ -141,16 +146,34 @@ De acordo com Barbosa e Silva (2011), os resultados indicam tendências de probl
 - Lista de problemas encontrados;
 - Planejamento de reprojeto.
 
-
 ## Planejamento do Teste Piloto
 
 Barbosa e Silva (2011) define que a realização de um estudo-piloto é uma pequena previsão para assegurar que o estudo é viável e resultará na coleta dos dados desejados para realização das análises planejadas. Com base nessa definição, o teste piloto será uma sessão de teste para verificar se a entrevista com o usuário está planejada de modo a garantir seu conforto e extrair os dados desejados. A sessão de teste piloto será realizada entre dois membros da equipe, de maneira a simular a entrevista de modo a garantir que as entrevistas ocorrerão da maneira planejada. <br>
 O teste piloto ocorrerá no dia 03 de maio de 2024 às 16h30, na FGA, sendo o papel da entrevistadora Yasmim Rosa e do entrevistado Renan Araújo.
 
 ## Resultado do Teste Piloto
-No teste piloto, tudo ocorreu de maneira fluída e pode ser conferido abaixo:
+
+<details>
+<summary>Teste Piloto - Comprar Passagem (Yasmin Rosa)</summary>
+
+<font size="2"><p style="text-align: center"> Gravação do teste piloto </font>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YH75oar1mHM?si=mubCWaEhLJpw1LO1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<font size="2"><p style="text-align: center">Fonte: <a href=""> Yasmin Rosa</a></p></font>
+
+</details>
+
+<details>
+<summary>Teste Piloto - Rastreamente de ônibus em tempo real (Alana Gabriele)</summary>
+
+<font size="2"><p style="text-align: center"> Gravação do teste piloto </font>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/13eJvdD6z8c?si=qdmi6Qqh2IIwvrum" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<font size="2"><p style="text-align: center">Fonte: <a href=""> Alana Gabriele</a></p></font>
+
+</details>
 
 ## Bibliografia
 
@@ -158,6 +181,6 @@ No teste piloto, tudo ocorreu de maneira fluída e pode ser conferido abaixo:
 
 ## Histórico de Versões
 
-| Versão |    Data    | Descrição                               | Autor(es)                                                                                     | Revisor(es)                                        |
-| ------ | :--------: | --------------------------------------- | --------------------------------------------------------------------------------------------- | -------------------------------------------------- |
+| Versão |    Data    | Descrição                                       | Autor(es)                                                                                     | Revisor(es)                                           |
+| ------ | :--------: | ----------------------------------------------- | --------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
 | 1.0    | 31/05/2024 | Planejamento da Avaliação do Prototipo de Papel | [Renan Araújo](https://github.com/renantfm4) <br> [Yasmim Rosa](https://github.com/yaskisoba) | [Pedro Henrique](https://github.com/PedroHenrique061) |
