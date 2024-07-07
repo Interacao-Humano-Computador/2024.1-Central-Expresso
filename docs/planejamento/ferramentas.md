@@ -4,7 +4,7 @@ A seleção das ferramentas pode influenciar consideravelmente o andamento e o r
 
 Para o desenvolvimento deste projeto, é fundamental destacar as ferramentas que desempenharão um papel essencial em nossa jornada. Na Tabela 1, estão listadas as ferramentas que nos auxiliarão na comunicação do grupo, no controle das atividades, alocação e realização de documentos e desenvolvimento. A escolha dessas ferramentas foi feita visando otimizar a produtividade, facilitar a colaboração e garantir a qualidade do trabalho entregue.
 
-## Ferramentazs
+## Ferramentas
 
 Na **tabela 1** estão as ferramentas utilizadas neste projeto:
 
