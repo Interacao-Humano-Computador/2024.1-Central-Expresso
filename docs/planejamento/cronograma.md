@@ -67,9 +67,9 @@ Todas as entregas e seus respectivos cronogramas estão orietados a data de entr
         <tr>
             <td>Lista de sites avaliados</td>
             <td> Início : 01/04 <br>  Fim : 03/04</td>
-            <td>Pedro Henrique</td>
+            <td>Alana Gabriele, Gustavo Alves, Marco Tulio, Pedro Henrique, Renan Araújo, Yasmim Rosa</td>
             <td> Início : 04/04 <br>  Fim : 04/04</td>
-            <td>Yasmim Rosa</td>
+            <td>Pedro Henrique</td>
         </tr>
         <tr>
             <td>Escolha do site para o projeto</td>
@@ -150,9 +150,9 @@ Todas as entregas e seus respectivos cronogramas estão orietados a data de entr
     <tr>
         <td>Lista de sites avaliados</td>
         <td>Início: 01/04 <br> Fim: 05/04</td>
-        <td>Pedro Henrique</td>
+        <td>Alana Gabriele, Gustavo Alves, Marco Tulio, Pedro Henrique, Renan Araújo, Yasmim Rosa</td>
         <td>Início: 05/04 <br> Fim: 05/04</td>
-        <td>Yasmim Rosa</td>
+        <td>Pedro Henrique</td>
     </tr>
     <tr>
         <td>Escolha do site para o projeto</td>
@@ -235,9 +235,9 @@ Todas as entregas e seus respectivos cronogramas estão orietados a data de entr
             <td>Marco Tulio</td>
         </tr>
         <tr>
-            <td>Análise de tarefas (HTA)</td>
+            <td>Análise de tarefas (HTA e GOMS)</td>
             <td>Início: 12/04 <br> Fim: 14/04</td>
-            <td>Renan Araújo e Alana Gabriele</td>
+            <td>Alana Gabriele, Gustavo Alves, Marco Tulio, Pedro Henrique, Renan Araújo, Yasmim Rosa</td>
             <td>Início: 15/04 <br> Fim: 16/04</td>
             <td>Gustavo Alves</td>
         </tr>
@@ -304,9 +304,9 @@ Todas as entregas e seus respectivos cronogramas estão orietados a data de entr
             <td>Marco Tulio</td>
         </tr>
         <tr>
-            <td>Análise de tarefas (HTA)</td>
+            <td>Análise de tarefas (HTA e GOMS)</td>
             <td>Início: 12/04 <br> Fim: 04/05</td>
-            <td>Renan Araújo e Alana Gabriele</td>
+            <td>Alana Gabriele, Gustavo Alves, Marco Tulio, Pedro Henrique, Renan Araújo, Yasmim Rosa</td>
             <td>Início: 05/05 <br> Fim: 05/05</td>
             <td>Gustavo Alves</td>
         </tr>
@@ -478,10 +478,17 @@ Todas as entregas e seus respectivos cronogramas estão orietados a data de entr
             <td>Gustavo Alves</td>
         </tr>
         <tr>
-            <td>Análise de tarefas (HTA)</td>
-            <td>Início: 18/05 <br> Fim: 19/05</td>
+            <td>Planejamento da avaliação da Análise de Tarefas (HTA)</td>
+            <td>Início: 15/05 <br> Fim: 15/05</td>
             <td>Gustavo Alves e Alana Gabriele</td>
-            <td>Início: 20/05 <br> Fim: 20/05</td>
+            <td>Início: 16/05 <br> Fim: 16/05</td>
+            <td>Yasmim Rosa</td>
+        </tr>
+        <tr>
+            <td>Planejamento do relato dos resultados da avaliação da Análise de Tarefas (HTA)</td>
+            <td>Início: 17/05 <br> Fim: 17/05</td>
+            <td>Renan Araújo e Gustavo Alves</td>
+            <td>Início: 18/05 <br> Fim: 18/05</td>
             <td>Yasmim Rosa</td>
         </tr>
         <tr>
@@ -533,10 +540,17 @@ Todas as entregas e seus respectivos cronogramas estão orietados a data de entr
             <td>Gustavo Alves</td>
         </tr>
         <tr>
-            <td>Análise de tarefas (HTA)</td>
-            <td>Início: 18/05 <br> Fim: 19/05</td>
+            <td>Planejamento da avaliação da Análise de Tarefas (HTA)</td>
+            td>Início: 15/05 <br> Fim: 17/05</td>
             <td>Gustavo Alves e Alana Gabriele</td>
-            <td>Início: 20/05 <br> Fim: 20/05</td>
+            <td>Início: 18/05 <br> Fim: 18/05</td>
+            <td>Yasmim Rosa</td>
+        </tr>
+        <tr>
+            <td>Planejamento do relato dos resultados da avaliação da Análise de Tarefas (HTA)</td>
+            <td>Início: 18/05 <br> Fim: 18/05</td>
+            <td>Renan Araújo e Gustavo Alves</td>
+           <td>Início: 19/05 <br> Fim: 19/05</td>
             <td>Yasmim Rosa</td>
         </tr>
         <tr>
