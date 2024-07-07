@@ -235,4 +235,4 @@ Este artefato é uma síntese dos vídeos das apresentações realizadas em cada
 
 | Versão | Data       | Descrição            | Autor                                              | Revisor                                     |
 | ------ | ---------- | -------------------- | -------------------------------------------------- | ------------------------------------------- |
-| 1.0    | 07/06/2024 | Criação do documento | [Alana Gabriele](https://github.com/alanagabriele) | [Yasmim Rosa](https://github.com/yaskisoba) |
+| 1.0    | 07/07/2024 | Criação do documento | [Alana Gabriele](https://github.com/alanagabriele) | [Yasmim Rosa](https://github.com/yaskisoba) |
