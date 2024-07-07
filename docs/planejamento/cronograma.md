@@ -595,7 +595,7 @@ Todas as entregas e seus respectivos cronogramas estão orietados a data de entr
         <tr>
             <td>Relato dos resultados da avaliação do Storyboard</td>
             <td>Início: 25/05 <br> Fim: 26/05</td>
-            <td>Marco Tulio e Alana Gabriele</td>
+            <td>Alana Gabriele, Gustavo Alves, Marco Tulio, Pedro Henrique, Renan Araújo, Yasmim Rosa</td>
             <td>Início: 27/05 <br> Fim: 27/05</td>
             <td>Gustavo Alves</td>
         </tr>
@@ -650,7 +650,7 @@ Todas as entregas e seus respectivos cronogramas estão orietados a data de entr
         <tr>
             <td>Relato dos resultados da avaliação do Storyboard</td>
             <td>Início: 29/05 <br> Fim: 31/05</td>
-            <td>Marco Tulio e Alana Gabriele</td>
+            <td>Alana Gabriele, Gustavo Alves, Marco Tulio, Pedro Henrique, Renan Araújo, Yasmim Rosa</td>
             <td>Início: 01/06 <br> Fim: 01/06</td>
             <td>Gustavo Alves</td>
         </tr>
@@ -709,14 +709,14 @@ Todas as entregas e seus respectivos cronogramas estão orietados a data de entr
         <tr>
             <td>Verificação dos artefatos da Análise de Requisitos</td>
             <td>Início: 04/06 <br> Fim: 06/06</td>
-            <td>Gustavo Alves e Marco Tulio</td>
+            <td>Alana Gabriele, Gustavo Alves, Marco Tulio, Pedro Henrique, Renan Araújo, Yasmim Rosa</td>
             <td>Início: 07/06 <br> Fim: 07/06</td>
             <td>Yasmim Rosa</td>
         </tr>
         <tr>
             <td>Verificação dos artefatos do Design, Avaliação e Desenvolvimento</td>
             <td>Início: 04/06 <br> Fim: 06/06</td>
-            <td>Alana Gabriele e Pedro Henrique</td>
+            <td>Alana Gabriele, Gustavo Alves, Marco Tulio, Pedro Henrique, Renan Araújo, Yasmim Rosa</td>
             <td>Início: 07/06 <br> Fim: 07/06</td>
             <td>Gustavo Alves</td>
         </tr>
@@ -757,14 +757,14 @@ Todas as entregas e seus respectivos cronogramas estão orietados a data de entr
         <tr>
             <td>Verificação dos artefatos da Análise de Requisitos</td>
             <td>Início: 08/06 <br> Fim: 10/06</td>
-            <td>Gustavo Alves e Marco Tulio</td>
+            <td>Alana Gabriele, Gustavo Alves, Marco Tulio, Pedro Henrique, Renan Araújo, Yasmim Rosa</td>
             <td>Início: 11/06 <br> Fim: 11/06</td>
             <td>Yasmim Rosa</td>
         </tr>
         <tr>
             <td>Verificação dos artefatos do Design, Avaliação e Desenvolvimento</td>
             <td>Início: 08/06 <br> Fim: 10/06</td>
-            <td>Alana Gabriele e Pedro Henrique</td>
+            <td>Alana Gabriele, Gustavo Alves, Marco Tulio, Pedro Henrique, Renan Araújo, Yasmim Rosa</td>
             <td>Início: 11/06 <br> Fim: 11/06</td>
             <td>Gustavo Alves</td>
         </tr>
@@ -809,14 +809,14 @@ Todas as entregas e seus respectivos cronogramas estão orietados a data de entr
         <tr>
             <td>Verificação dos artefatos da Análise de Requisitos</td>
             <td>Início: 22/06 <br> Fim: 24/06</td>
-            <td>Alana Gabriele e Yasmim Rosa</td>
+            <td>Alana Gabriele, Gustavo Alves, Marco Tulio, Pedro Henrique, Renan Araújo, Yasmim Rosa</td>
             <td>Início: 24/06 <br> Fim: 24/06</td>
             <td>Gustavo Alves</td>
         </tr>
         <tr>
             <td>Verificação dos artefatos do Design, Avaliação e Desenvolvimento</td>
             <td>Início: 22/06 <br> Fim: 24/06</td>
-            <td>Gustavo Alves e Renan Araújo</td>
+            <td>Alana Gabriele, Gustavo Alves, Marco Tulio, Pedro Henrique, Renan Araújo, Yasmim Rosa</td>
             <td>Início: 24/06 <br> Fim: 24/06</td>
             <td>Alana Gabriele</td>
         </tr>
@@ -857,14 +857,14 @@ Todas as entregas e seus respectivos cronogramas estão orietados a data de entr
         <tr>
             <td>Verificação dos artefatos da Análise de Requisitos</td>
             <td>Início: 24/06 <br> Fim: 26/06</td>
-            <td>Alana Gabriele e Yasmim Rosa</td>
+            <td>Alana Gabriele, Gustavo Alves, Marco Tulio, Pedro Henrique, Renan Araújo, Yasmim Rosa</td>
             <td>Início: 26/06 <br> Fim: 26/06</td>
             <td>Gustavo Alves</td>
         </tr>
         <tr>
             <td>Verificação dos artefatos do Design, Avaliação e Desenvolvimento</td>
             <td>Início: 24/06 <br> Fim: 26/06</td>
-            <td>Gustavo Alves e Renan Araújo</td>
+            <td>Alana Gabriele, Gustavo Alves, Marco Tulio, Pedro Henrique, Renan Araújo, Yasmim Rosa</td>
             <td>Início: 26/06 <br> Fim: 26/06</td>
             <td>Alana Gabriele</td>
         </tr>
@@ -909,7 +909,7 @@ Todas as entregas e seus respectivos cronogramas estão orietados a data de entr
         <tr>
             <td>Relato dos resultados do Protótipo de Papel</td>
             <td>Início: 11/06 <br> Fim: 12/06</td>
-            <td>Alana Gabriele e Marco Tulio</td>
+            <td>Alana Gabriele, Gustavo Alves, Marco Tulio, Pedro Henrique, Renan Araújo, Yasmim Rosa</td>
             <td>Início: 13/06 <br> Fim: 13/06</td>
             <td>Yasmim Rosa</td>
         </tr>
@@ -964,7 +964,7 @@ Todas as entregas e seus respectivos cronogramas estão orietados a data de entr
         <tr>
             <td>Relato dos resultados do Protótipo de Papel</td>
             <td>Início: 14/06 <br> Fim: 18/06</td>
-            <td>Alana Gabriele e Marco Tulio</td>
+            <td>Alana Gabriele, Gustavo Alves, Marco Tulio, Pedro Henrique, Renan Araújo, Yasmim Rosa</td>
             <td>Início: 18/06 <br> Fim: 18/06</td>
             <td>Yasmim Rosa</td>
         </tr>
@@ -1023,7 +1023,7 @@ Todas as entregas e seus respectivos cronogramas estão orietados a data de entr
         <tr>
             <td>Relato dos resultados do Protótipo de alta fidelidade.</td>
             <td>Início: 26/06 <br> Fim: 29/06</td>
-            <td>Pedro Henrique e Renan Araújo</td>
+            <td>Alana Gabriele, Gustavo Alves, Marco Tulio, Pedro Henrique, Renan Araújo, Yasmim Rosa</td>
             <td>Início: 30/06 <br> Fim: 30/06</td>
             <td>Yasmim Rosa</td>
         </tr>
@@ -1078,7 +1078,7 @@ Todas as entregas e seus respectivos cronogramas estão orietados a data de entr
         <tr>
             <td>Relato dos resultados do Protótipo de alta fidelidade.</td>
             <td>Início: 30/06 <br> Fim: 03/07</td>
-            <td>Pedro Henrique e Renan Araújo</td>
+            <td>Alana Gabriele, Gustavo Alves, Marco Tulio, Pedro Henrique, Renan Araújo, Yasmim Rosa</td>
             <td>Início: 03/07 <br> Fim: 03/07</td>
             <td>Yasmim Rosa</td>
         </tr>
