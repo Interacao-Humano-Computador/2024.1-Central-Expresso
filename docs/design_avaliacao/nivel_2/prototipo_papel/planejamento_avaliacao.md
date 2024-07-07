@@ -139,12 +139,15 @@ Na condução da avaliação, é necessário garantir o respeito pelos direitos 
 
 De acordo com Barbosa e Silva (2011), os resultados indicam tendências de problemas e sua consolidação deve buscar responder as perguntas que motivaram a avaliação. O relato dos resultados será elaborado contendo os seguintes tópicos adaptados propostos por Barbosa e Silva (2011):
 
-- Objetivo;
-- Metodologia;
-- Perfil de usuários e avaliadores;
-- Relato da interpretação e análise de dados, incluindo gráficos e tabelas;
-- Lista de problemas encontrados;
-- Planejamento de reprojeto.
+- Propósito e alcance da avaliação
+- Método de avaliação
+- Escolha dos participantes
+- Questões identificadas
+- Sugestões para melhorias
+- Feedback dos usuários
+- Análise e interpretação das respostas dos usuários
+- Resumo das principais conclusões
+- Plano de aprimoramento do projeto
 
 ## Planejamento do Teste Piloto
 

@@ -122,14 +122,26 @@ Na tabela 4, está o cronograma das entrevistas que serão realizadas:
 
 <center>
 
-| Entrevistadores |    Data    | Horário de início e fim | Local             |
-| :-------------: | :--------: | :---------------------: | ----------------- |
-| Alana Gabriele  | 24/06/2024 |     17:10 até 17:20     | Faculdade do Gama |
-|  Renan Araújo   | 24/06/2024 |     17:20 até 17:30     | Faculdade do Gama |
-|  Gustavo Alves  | 25/06/2024 |     10:10 até 10:20     | Faculdade do Gama |
-|   Yasmim Rosa   | 24/06/2024 |     17:10 até 17:20     | Faculdade do Gama |
-| Pedro Henrique  | 25/06/2024 |     12:10 até 12:20     | Faculdade do Gama |
-|   Marco Tulio   | 25/06/2024 |     17:10 até 17:20     | Faculdade do Gama |
+| Entrevistador  |    Data    | Horário de início e fim | Local                   |
+| :------------: | :--------: | :---------------------: | ----------------------- |
+| Alana Gabriele | 02/07/2024 |     16:10 até 16:30     | Faculdade do Gama       |
+| Alana Gabriele | 02/07/2024 |     17:30 até 17:50     | Faculdade do Gama       |
+| Alana Gabriele | 02/07/2024 |     11:20 até 11:40     | Faculdade do Gama       |
+| Gustavo Alves  | 02/07/2024 |     17:10 até 17:30     | Faculdade do Gama       |
+| Gustavo Alves  | 03/07/2024 |     11:25 até 11:35     | Faculdade do Gama       |
+| Gustavo Alves  | 03/07/2024 |     14:00 até 14:20     | Faculdade do Gama       |
+| Marco Tulio    | 01/07/2024 |     10:00 até 10:20     | Faculdade do Gama       |
+| Marco Tulio    | 02/07/2024 |     11:00 até 11:20     | Faculdade do Gama       |
+| Marco Tulio    | 02/07/2024 |     12:00 até 12:20     | Faculdade do Gama       |
+| Pedro Henrique  | 02/07/2024 |     09:00 até 09:20     | Faculdade do Gama       |
+| Pedro Henrique  | 02/07/2024 |     10:00 até 10:20     | Faculdade do Gama       |
+| Pedro Henrique  | 03/07/2024 |     11:00 até 11:20     | Faculdade do Gama       |
+| Renan Araújo   | 02/07/2024 |     08:00 até 08:20     | Faculdade do Gama       |
+| Renan Araújo   | 02/07/2024 |     09:00 até 09:20     | Faculdade do Gama       |
+| Renan Araújo   | 02/07/2024 |     10:00 até 10:20     | Faculdade do Gama       |
+| Yasmim Rosa    | 01/07/2024 |     17:10 até 17:30     | Faculdade do Gama       |
+| Yasmim Rosa    | 01/07/2024 |     12:25 até 12:50     | Faculdade do Gama       |
+| Yasmim Rosa    | 02/07/2024 |     14:25 até 14:50     | Faculdade do Gama       |
 
 </center>
 
@@ -143,12 +155,15 @@ Na condução da avaliação, é necessário garantir o respeito pelos direitos 
 
 De acordo com Barbosa e Silva (2011), os resultados indicam tendências de problemas e sua consolidação deve buscar responder as perguntas que motivaram a avaliação. O relato dos resultados será elaborado contendo os seguintes tópicos adaptados propostos por Barbosa e Silva (2011):
 
-- Objetivo;
-- Metodologia;
-- Perfil de usuários e avaliadores;
-- Relato da interpretação e análise de dados, incluindo gráficos e tabelas;
-- Lista de problemas encontrados;
-- Planejamento de reprojeto.
+- Propósito e alcance da avaliação
+- Método de avaliação
+- Escolha dos participantes
+- Questões identificadas
+- Sugestões para melhorias
+- Feedback dos usuários
+- Análise e interpretação das respostas dos usuários
+- Resumo das principais conclusões
+- Plano de aprimoramento do projeto
 
 ## Planejamento do Teste Piloto
 

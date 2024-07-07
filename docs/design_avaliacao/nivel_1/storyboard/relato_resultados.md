@@ -46,7 +46,7 @@ O método escolhido foi o de investigação por possibilitar coletas de dados so
 
 ### Escolha dos participantes
 
-Foram selecionados 6 usuários para a realização da avaliação, cada um recrutado por um avaliador e com base no [perfil de usuário]() previamente estabelecido neste projeto.
+Foram selecionados 6 usuários para a realização da avaliação, cada um recrutado por um avaliador e com base no [perfil de usuário](../../../requisitos/perfil_usuarios.md) previamente estabelecido neste projeto.
 
 ### Avaliações
 <details>

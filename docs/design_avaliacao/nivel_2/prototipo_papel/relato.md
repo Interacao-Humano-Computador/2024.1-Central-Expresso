@@ -2,11 +2,49 @@
 O relato da avaliação abrange principalmente a interpretação dos dados coletados, devendo analisar os dados individuais de cada usuário para posteriormente buscar uma interpretação mais generalista.
 
 ## Metodologia
-A metodologia para a avaliação foi de investigação por meio de uma entrevista, a estrutura deste artefato é a estabelecida no planejamento do relato da avaliação.
+A abordagem a ser utilizada, com base nos temas mencionados, seguindo a perspectiva de Barbosa e Silva (2011, p.279), adaptada para este contexto, compreenderá os seguintes elementos:
 
-## Objetivos e Escopo
-O objetivo dessa avaliação foi identificar problemas na interação e na interface e cada membro ficou responsável por sua funcionalidade anteriormente elegida.
+- Propósito e alcance da avaliação
+- Método de avaliação
+- Escolha dos participantes
+- Questões identificadas
+- Sugestões para melhorias
+- Feedback dos usuários
+- Análise e interpretação das respostas dos usuários
+- Resumo das principais conclusões
+- Plano de aprimoramento do projeto
 
+### Propósito e alcance da avaliação
+
+Utilizando storyboards, a avaliação busca visualizar e planejar a interação do usuário com o sistema, garantindo que as funcionalidades atendam às necessidades e expectativas dos usuários de maneira eficaz.
+
+Ao todo foram realizadas seis entrevistas com seis participantes.
+
+O cronograma executado das entrevistas está na tabela 1.
+
+<font size="2"><p style="text-align: center">Tabela 1 - Cronograma Executado de Entrevistas </p></font>
+
+<center>
+
+| Entrevistador  |    Data    | Horário de início e fim | Local                   |
+| :------------: | :--------: | :---------------------: | ----------------------- |
+| Alana Gabriele e Renan Artaújo | 17/06/2024 |     17:10 até 17:20     | Faculdade do Gama       |
+|  Renan Araújo e Alana Gabriela  | 17/06/2024 |     17:30 até 17:46     | Faculdade do Gama       |
+| Gustavo Alves e Yasmim Rosa  | 18/06/2024	 |     11:24 até 11:36    | Faculdade do Gama       |
+|  Yasmim Rosa   | 18/06/2024 |     17:10 até 17:20	 | Faculdade do Gama       |
+| Pedro Henrique | 18/06/2024 |     12:25 até 12:36     | Faculdade do Gama       |
+|  Marco Tulio e Yasmim Rosa  | 18/06/2024 |     14:26 até 14:46     | Faculdade do Gama       |
+
+</center>
+<font size="2"><p style="text-align: center">Fonte: [Yasmim Rosa](https://github.com/yaskisoba) </p></font>
+
+### Método de avaliação
+
+O método escolhido foi o de investigação por possibilitar coletas de dados sobre o design, problemas frequentes e expectativas para atualizações futuras. Para tal, foram realizadas entrevistas juntamente a um questionário.
+
+### Escolha dos participantes
+
+Foram selecionados 6 usuários para a realização da avaliação, cada um recrutado por um avaliador e com base no [perfil de usuário](../../../requisitos/perfil_usuarios.md) previamente estabelecido neste projeto.
 
 ## Avaliações
 <details>
@@ -182,6 +220,11 @@ O objetivo dessa avaliação foi identificar problemas na interação e na inter
 </details>
 
 ## Análise e Interpretação das Respostas dos Usuários
+Os usuários acharam as interfaces intuitivas e fáceis de usar, sem grandes dificuldades para realizar as tarefas. No entanto, eles deram algumas sugestões para melhorar a clareza e a funcionalidade das interfaces, assim como a navegação e a segurança dos dados.
+
+Uma participante sugeriu que, no carrinho de compras, antes de iniciar o processo de compra, seria útil ter um botão para fechar o pop-up e a opção de remover itens da lista. Mas todos os participantes concluíram a tarefa com facilidade, sem encontrar problemas. Isso mostra que as interfaces com protótipo de papel são intuitivas e funcionais. 
+
+## Resumo das principais conclusões
 Os usuários, de modo geral, consideraram as interfaces intuitivas e fáceis de usar, não encontrando grandes dificuldades durante a realização das tarefas propostas. No entanto, algumas sugestões de melhorias foram apresentadas para aumentar a clareza e a funcionalidade das interfaces. Houve também recomendações específicas para aprimorar a navegação e a segurança dos dados.
 
 ## Plano de Aprimoramento

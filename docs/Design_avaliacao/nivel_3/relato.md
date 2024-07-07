@@ -3,14 +3,61 @@
 O relato da avaliação abrange principalmente a interpretação dos dados coletados, devendo analisar os dados individuais de cada usuário para posteriormente buscar uma interpretação mais generalista.
 
 ## Metodologia
+A abordagem a ser utilizada, com base nos temas mencionados, seguindo a perspectiva de Barbosa e Silva (2011, p.279), adaptada para este contexto, compreenderá os seguintes elementos:
 
-A metodologia para a avaliação foi de investigação por meio de uma entrevista, a estrutura deste artefato é a estabelecida no planejamento do relato da avaliação.
+- Propósito e alcance da avaliação
+- Método de avaliação
+- Escolha dos participantes
+- Questões identificadas
+- Sugestões para melhorias
+- Feedback dos usuários
+- Análise e interpretação das respostas dos usuários
+- Resumo das principais conclusões
+- Plano de aprimoramento do projeto
 
-## Objetivos e Escopo
+### Propósito e alcance da avaliação
+
+Utilizando protótipos de alta fidelidade, a avaliação busca visualizar e entender a interação do usuário com o sistema, garantindo que as funcionalidades atendam às necessidades e expectativas dos usuários de maneira eficaz.
+
+Ao todo foram realizadas 18 entrevistas com 18 participantes.
+
+O cronograma executado das entrevistas está na tabela 1.
+
+<font size="2"><p style="text-align: center">Tabela 1 - Cronograma Executado de Entrevistas </p></font>
+
+<center>
+
+| Entrevistador  |    Data    | Horário de início e fim | Local                   |
+| :------------: | :--------: | :---------------------: | ----------------------- |
+| Alana Gabriele | 02/07/2024 |     17:10 até 17:20     | Faculdade do Gama       |
+| Alana Gabriele | 08/07/2024 |     17:30 até 17:46     | Faculdade do Gama       |
+| Alana Gabriele | 08/07/2024 |     11:24 até 11:36     | Faculdade do Gama       |
+| Gustavo Alves  | 02/07/2024 |     17:10 até 17:20     | Faculdade do Gama       |
+| Gustavo Alves  | 03/07/2024 |     12:25 até 12:36     | Faculdade do Gama       |
+| Gustavo Alves  | 03/07/2024 |     14:26 até 14:46     | Faculdade do Gama       |
+| Marco Tulio    | 03/07/2024 |     10:00 até 10:20     | Faculdade do Gama       |
+| Marco Tulio    | 08/07/2024 |     11:00 até 11:20     | Faculdade do Gama       |
+| Marco Tulio    | 08/07/2024 |     12:00 até 12:20     | Faculdade do Gama       |
+| Pedro Henrique  | 02/07/2024 |     09:00 até 09:20     | Faculdade do Gama       |
+| Pedro Henrique  | 02/07/2024 |     10:00 até 10:20     | Faculdade do Gama       |
+| Pedro Henrique  | 03/07/2024 |     11:00 até 11:20     | Faculdade do Gama       |
+| Renan Araújo   | 02/07/2024 |     08:00 até 08:20     | Faculdade do Gama       |
+| Renan Araújo   | 02/07/2024 |     09:00 até 09:20     | Faculdade do Gama       |
+| Renan Araújo   | 02/07/2024 |     10:00 até 10:20     | Faculdade do Gama       |
+| Yasmim Rosa    | 03/07/2024 |     17:10 até 17:20     | Faculdade do Gama       |
+| Yasmim Rosa    | 08/07/2024 |     12:25 até 12:50     | Faculdade do Gama       |
+| Yasmim Rosa    | 08/07/2024 |     14:26 até 14:46     | Faculdade do Gama       |
+
+</center>
+<font size="2"><p style="text-align: center">Fonte: [Yasmim Rosa](https://github.com/yaskisoba) </p></font>
 
 O objetivo dessa avaliação foi identificar problemas na interação e na interface e cada membro ficou responsável por sua funcionalidade anteriormente elegida.
 
 Assim como instruído por Krug, com **três ou quatro** participantes é possível detectar a maioria dos problemas e permite fazer a análise no mesmo dia. O pesquisador acrescenta ainda que realizar com **um** participante é 100% melhor do que não realizar com nenhum.
+
+### Método de avaliação
+
+O método escolhido foi o de investigação por possibilitar coletas de dados sobre o design, problemas frequentes e expectativas para atualizações futuras. Para tal, foram realizadas entrevistas juntamente a um questionário.
 
 ## Avaliações
 
@@ -364,11 +411,9 @@ Assim como instruído por Krug, com **três ou quatro** participantes é possív
 
 ## Análise e Interpretação das Respostas dos Usuários
 
-Os usuários, de modo geral, consideraram as interfaces intuitivas e fáceis de usar, não encontrando grandes dificuldades durante a realização das tarefas propostas. No entanto, algumas sugestões de melhorias foram apresentadas para aumentar a clareza e a funcionalidade das interfaces. Houve também recomendações específicas para aprimorar a navegação e a segurança dos dados.
+## Resumo das principais conclusões
 
 ## Plano de Aprimoramento
-
-Os usuários avaliaram positivamente a interface atual, destacando a facilidade de uso e a intuição das funcionalidades. No entanto, algumas sugestões de melhorias foram identificadas para otimizar a experiência do usuário, portanto, se faz necessário um cronograma para ajustes antes da elaboração do protótipo de alta fidelidade.
 
 ## Bibliografia
 
