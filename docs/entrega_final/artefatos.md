@@ -203,6 +203,16 @@ Em cada etapa foram produzidos diversos artefatos, aqui possui uma tabela que re
             <th>Autor(es)</th>
             <th>Revisor(es)</th>
         </tr>
+        <tr>
+            <td>Verificação dos artefatos da Análise de Requisitos</td> 
+            <td>Alana Gabriele, Gustavo Alves, Marco Tulio, Pedro Henrique, Renan Araújo, Yasmim Rosa</td>
+            <td>Yasmim Rosa</td>
+        </tr>
+        <tr>
+            <td>Verificação dos artefatos do Design, Avaliação e Desenvolvimento</td> 
+            <td>Alana Gabriele, Gustavo Alves, Marco Tulio, Pedro Henrique, Renan Araújo, Yasmim Rosa</td>
+            <td>Gustavo Alves</td>
+        </tr>
     </table>
     </center>
     <font size="2"><p style="text-align: center">Fonte: <a>Yasmim Rosa</a></p></font>
@@ -218,6 +228,16 @@ Em cada etapa foram produzidos diversos artefatos, aqui possui uma tabela que re
             <th>Artefato</th>
             <th>Autor(es)</th>
             <th>Revisor(es)</th>
+        </tr>
+        <tr>
+            <td>Verificação dos artefatos da Análise de Requisitos</td> 
+            <td>Alana Gabriele, Gustavo Alves, Marco Tulio, Pedro Henrique, Renan Araújo, Yasmim Rosa</td>
+            <td>Gustavo Alves</td>
+        </tr>
+        <tr>
+            <td>Verificação dos artefatos do Design, Avaliação e Desenvolvimento</td> 
+            <td>Alana Gabriele, Gustavo Alves, Marco Tulio, Pedro Henrique, Renan Araújo, Yasmim Rosa</td>
+            <td>Alana Gabriela</td>
         </tr>
     </table>
     </center>
@@ -235,6 +255,21 @@ Em cada etapa foram produzidos diversos artefatos, aqui possui uma tabela que re
             <th>Autor(es)</th>
             <th>Revisor(es)</th>
         </tr>
+        <tr>
+            <td>Relato dos resultados do Protótipo de Papel	</td> 
+            <td>Alana Gabriele, Gustavo Alves, Marco Tulio, Pedro Henrique, Renan Araújo, Yasmim Rosa</td>
+            <td>Yasmim Rosa</td>
+        </tr>
+        <tr>
+            <td>Planejamento da Avaliação do protótipo de alta fidelidade</td> 
+            <td>Gustavo Alves <br> Pedro Henrique</td>
+            <td>Renan Araújo</td>
+        </tr>
+        <tr>
+            <td>Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade</td> 
+            <td>Renan Araújo <br> Yasmim Rosa</td>
+            <td>Alana Gabriela</td>
+        </tr>
     </table>
     </center>
     <font size="2"><p style="text-align: center">Fonte: <a>Yasmim Rosa</a></p></font>
@@ -250,6 +285,11 @@ Em cada etapa foram produzidos diversos artefatos, aqui possui uma tabela que re
             <th>Artefato</th> 
             <th>Autor(es)</th>
             <th>Revisor(es)</th>
+        </tr>
+        <tr>
+            <td>Relato dos resultados do Protótipo de alta fidelidade.</td> 
+            <td>Alana Gabriele, Gustavo Alves, Marco Tulio, Pedro Henrique, Renan Araújo, Yasmim Rosa</td>
+            <td>Yasmim Rosa</td>
         </tr>
     </table>
     </center>
