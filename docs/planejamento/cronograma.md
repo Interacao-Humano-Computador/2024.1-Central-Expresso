@@ -18,6 +18,7 @@ Todas as entregas e seus respectivos cronogramas estão orietados a data de entr
 | 6.2    | <ul> <li>Verificação dos Artefatos das etapas de Análise de Requisitos e Design, Avaliação e Desenvolvimento do Grupo</li>  </ul>| 26/06/2024 | 27/06/2024 |
 | 7    | <ul><li>Relato dos resultados do Protótipo de Papel</li> <li>Planejamento da Avaliação do protótipo de alta fidelidade</li> <li>Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade</li></ul> | 19/06/2024 | 20/06/2024 |
 | 8    | <ul> <li>Relato dos resultados do Protótipo de alta fidelidade.</li> </ul>| 03/07/2024 | 04/07/2024 |
+|  FINAL    | <ul> <li>Entrega do Projeto Final da Disciplina</li> </ul>| 08/07/2024 | 09/07/2024 |
 
 <font size="2"><p style="text-align: center">Fonte: [Plano de Ensino](https://aprender3.unb.br/pluginfile.php/2843624/mod_resource/content/48/Plano_de_Ensino%20FIHC%20012024%20Turma%201.pdf)</p></font>
 
@@ -82,7 +83,7 @@ Todas as entregas e seus respectivos cronogramas estão orietados a data de entr
             <td> Início : 02/04 <br>  Fim : 03/04</td>
             <td>Renan Araújo</td>
             <td> Início : 04/04 <br>  Fim : 04/04</td>
-            <td>Yasmim</td>
+            <td>Yasmim Rosa</td>
         </tr>
         <tr>
             <td>Inserção das atividades no Gitpages</td>
@@ -172,7 +173,7 @@ Todas as entregas e seus respectivos cronogramas estão orietados a data de entr
         <td>Início: 04/04 <br> Fim: 08/04</td>
         <td>Alana Gabriele, Gustavo Alves, Marco Tulio, Pedro Henrique, Renan Araújo, Yasmim Rosa</td>
         <td>Início: 08/04 <br> Fim: 08/04</td>
-        <td></td>
+        <td>Yasmim Rosa</td>
     </tr>
     <tr>
         <td>Gravar vídeo de apresentação</td>
@@ -1101,6 +1102,78 @@ Todas as entregas e seus respectivos cronogramas estão orietados a data de entr
             <td>Yasmim Rosa e Renan Araújo</td>
             <td>Início: 06/07 <br> Fim: 06/07</td>
             <td>Alana Gabriele</td>
+        </tr>
+    </table>
+    <font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/yaskisoba">Yasmim Rosa</a></p></font>
+</details>
+
+<details>
+    <summary>Entrega Final</summary>
+    <h2>Cronograma Planejado</h2>
+    <p>Na <b>Tabela 20</b>  está o cronograma planejado da etapa.</p>
+    <font size="2"><p style="text-align: center">Tabela 20 - Cronograma planejado de atividades da Entrega Final </p></font>
+    <table border="1">
+        <tr>
+            <th>Atividade</th>
+            <th>Período para o desenvolvimento da atividade</th>
+            <th>Responsáveis</th>
+            <th>Período da revisão</th>
+            <th>Revisores</th>
+        </tr>
+        <tr>
+            <td>Ajustes dos artefatos verificadoss</td>
+            <td>Início: 05/07 <br> Fim: 07/07</td>
+            <td>Alana Gabriele, Gustavo Alves, Marco Tulio, Pedro Henrique, Renan Araújo, Yasmim Rosa</td>
+            <td>Início: 08/07 <br> Fim: 08/07</td>
+            <td>Yasmim Rosa</td>
+        </tr>
+        <tr>
+            <td>Inserção das atividades no Gitpages</td>
+            <td>Início: 05/06 <br> Fim: 07/07</td>
+            <td>Alana Gabriele, Gustavo Alves, Marco Tulio, Pedro Henrique, Renan Araújo, Yasmim Rosa</td>
+            <td>Início: 08/07 <br> Fim: 08/07</td>
+            <td>Alana Gabriele</td>
+        </tr>
+        <tr>
+            <td>Gravar vídeo de apresentação</td>
+            <td>Início: 08/07 <br> Fim: 08/07</td>
+            <td>Pedro Henrique e Alana Gabriele</td>
+            <td>Início: 08/07 <br> Fim: 08/07</td>
+            <td>Marco Tulio</td>
+        </tr>
+    </table>
+    <font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/yaskisoba">Yasmim Rosa</a></p></font>
+     <h2>Cronograma Executado</h2>
+     <p>Na <b>Tabela 21</b>  está o cronograma executado da etapa.</p>
+    <font size="2"><p style="text-align: center">Tabela 21 - Cronograma executado de atividades da Entrega Final </p></font>
+   <table border="1">
+        <tr>
+            <th>Atividade</th>
+            <th>Período para o desenvolvimento da atividade</th>
+            <th>Responsáveis</th>
+            <th>Período da revisão</th>
+            <th>Revisores</th>
+        </tr>
+        <tr>
+            <td>Ajustes dos artefatos verificadoss</td>
+            <td>Início: 05/07 <br> Fim: 07/07</td>
+            <td>Alana Gabriele, Gustavo Alves, Marco Tulio, Pedro Henrique, Renan Araújo, Yasmim Rosa</td>
+            <td>Início: 08/07 <br> Fim: 08/07</td>
+            <td>Yasmim Rosa</td>
+        </tr>
+        <tr>
+            <td>Inserção das atividades no Gitpages</td>
+            <td>Início: 05/06 <br> Fim: 07/07</td>
+            <td>Alana Gabriele, Gustavo Alves, Marco Tulio, Pedro Henrique, Renan Araújo, Yasmim Rosa</td>
+            <td>Início: 08/07 <br> Fim: 08/07</td>
+            <td>Alana Gabriele</td>
+        </tr>
+        <tr>
+            <td>Gravar vídeo de apresentação</td>
+            <td>Início: 08/07 <br> Fim: 08/07</td>
+            <td>Pedro Henrique e Alana Gabriele</td>
+            <td>Início: 08/07 <br> Fim: 08/07</td>
+            <td>Marco Tulio</td>
         </tr>
     </table>
     <font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/yaskisoba">Yasmim Rosa</a></p></font>
