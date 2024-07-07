@@ -47,24 +47,34 @@ Para a realização dessa etapa, foi utilizado como referência o livro de Barbo
 O método escolhido é o de investigação por possibilitar coletas de dados sobre o design, problemas frequentes e expectativas para atualizações futuras. Para tal, serão realizadas entrevistas que serão gravadas, com o uso de questionário como roteiro.
 
 ### **I**dentificar e administrar as questões práticas da avaliação
+A elaboração da análise de tarefas foi realizada anteriormente usando dois métodos HTA e GOMS, o foco desta avaliação são aquelas realizadas com HTA disponíveis em [Análise de Tarefas](../../../requisitos/analise_tarefas_hta.md).
 
-Para realizar o recrutamento baseado no perfil do usuário e nas Personas definidas, serão enviados convites a usuários reais do sistema. Está planejado realizar seis entrevistas presenciais, que serão conduzidas na Faculdade do Gama da Universidade de Brasília. Cada entrevista contará com a participação de dois membros do grupo de Interação Humano-Computador (IHC): um responsável por conduzir a entrevista e outro por registrar as informações coletadas. Não haverá custos associados a essas reuniões, uma vez que tanto os avaliadores quanto os entrevistados são estudantes da universidade. Na tabela 1 estão as perguntas e na tabela 2 está o cronograma:
+Para realização da entrevista serão necessários:
+
+- Análise de Tarefa da Funcionalidae;
+- Recrutamento do participante com base no [Perfil do Usuário](../../../requisitos/perfil_usuarios.md);
+- Termo de consentimento livre e esclarecido (TCLE);
+- Aparelho eletrônico para filmagem;
+- Sala para realização da entrevista.
+
+Está planejado realizar seis entrevistas presenciais, que serão conduzidas na Faculdade do Gama da Universidade de Brasília. Cada entrevista contará com a participação de um único membro do grupo de Interação Humano-Computador (IHC) responsável por conduzir a entrevista e por registrar as informações coletadas. Não haverá custos associados a essas entrevistas, uma vez que tanto os avaliadores quanto os entrevistados são estudantes da universidade.
+
+Na **Tabela 1** estão as perguntas e na **Tabela 2** está o cronograma:
 
 <div style="text-align: center">
 <p> Tabela 1: Questões para entrevistas.</p>
 </div>
 
-| Ordenação | Pergunta                                                               | Resposta possível     |
-| --------- | ---------------------------------------------------------------------- | --------------------- |
-| 1         | Qual o seu nome?                                                       | Resposta discursiva   |
-| 2         | Quanto anos você tem?                                                  | Resposta discursiva   |
-| 3         | Qual sua ocupação ?                                                    | Resposta discursiva   |
-| 4         | Qual seu grau de experiência com tecnologias?                          | Resposta discursiva   |
-| 5         | Com qual frequência você utiliza o site Central Expresso?              | Resposta discursiva   |
-| 6         | O fluxo apresentado é coerente para você? Caso não, descreva o motivo. | - Sim <br> - Não <br> |
-| 7         | Você mudaria alguma coisa do fluxo? Caso sim, descreva o motivo.       | Resposta discursiva   |
-| 8         | O fluxo atinge o seu objetivo? Caso não, descreva o motivo.            | - Sim <br> - Não <br> |
-
+| Pergunta                                                               | Tipo de Resposta      | Justificativa | Fonte | Captura de Tela |
+| ---------------------------------------------------------------------- | --------------------- | ------------- | ----- | --------------- |
+| Qual o seu nome?                                                       | Resposta discursiva   | Reafirmar o perfil do usuário |  Item 8.1, página 166, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.| [página 166](../analise_tarefas/fontes/image_2.png) |
+| Quanto anos você tem?                                                  | Resposta discursiva   | Reafirmar o perfil do usuário |  Item 8.1, página 166, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.| [página 166](../analise_tarefas/fontes/image_2.png) |
+| Qual sua ocupação ?                                                    | Resposta discursiva   | Reafirmar o perfil do usuário |  Item 8.1, página 166, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.| [página 166](../analise_tarefas/fontes/image_2.png) |
+| Qual seu grau de experiência com tecnologias?                          | Resposta discursiva   | Reafirmar o perfil do usuário | Item 8.1, página 166, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.| [página 166](../analise_tarefas/fontes/image_2.png) |
+| Com qual frequência você utiliza o site Central Expresso?              | Resposta discursiva   | Reafirmar o perfil do usuário | Item 8.1, página 166, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.| [página 166](../analise_tarefas/fontes/image_2.png) |
+| O fluxo apresentado é coerente para você? Caso não, descreva o motivo.   | Resposta discursiva   | Identificar problemas de interação  | Item 8.4.1, página 178, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.  | [página 178](../analise_tarefas/fontes/image_1.png) |
+| Você mudaria alguma coisa do fluxo? Caso sim, descreva o motivo.       | Resposta discursiva   | Identificar problemas de interação | Item 8.4.1, página 178, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição. | [página 178](../analise_tarefas/fontes/image_1.png) |
+| O fluxo atinge o seu objetivo? Caso não, descreva o motivo.            | Resposta discursiva   | Identificar problemas de interação | Item 8.4.1, página 179, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição. | [página 179](../analise_tarefas/fontes/image.png) |
 
 <font size="2"><p style="text-align: center">Fonte: [Alana Gabriele](https://github.com/alanagabriele) e [Gustavo Alves](https://github.com/gustaallves) </p></font>
 
@@ -81,11 +91,13 @@ Para realizar o recrutamento baseado no perfil do usuário e nas Personas defini
 |  Pedro Henrique e Marco Tulio  | 30/05/2024 |     12:00 até 12:10     | Faculdade do Gama |
 |   Marco Tulio e Renan Araújo   | 30/05/2024 |     17:00 até 17:10     | Faculdade do Gama |
 
+</center>
+
 <font size="2"><p style="text-align: center">Fonte: [Alana Gabriele](https://github.com/alanagabriele) e [Gustavo Alves](https://github.com/gustaallves) </p></font>
 
 ### **D**ecidir como lidar com as questões éticas
 
-Antes de iniciar as entrevistas, serão abordadas as questões éticas envolvidas, garantindo que todos os participantes assinem o termo de consentimento informado, encontrado na seção [Aspectos éticos]("../../../../../requisitos/etica.md"). Este documento é importante para estabelecer uma relação de confiança e transparência com o entrevistado.
+Antes de iniciar as entrevistas, serão abordadas as questões éticas envolvidas, garantindo que todos os participantes assinem o termo de consentimento informado, encontrado na seção [Aspectos éticos](../../../requisitos/etica.md). Este documento é importante para estabelecer uma relação de confiança e transparência com o entrevistado.
 
 ### **E**valuate (Avaliar), interpretar e apresentar os dados
 
@@ -103,13 +115,25 @@ Após a avaliação do site Central Expresso, é crucial analisar e apresentar o
 
 ### Planejamento do teste piloto
 
-O teste piloto será conduzido por dois avaliadores e tem como objetivo simular a entrevista real. Essa simulação ajudará a verificar se as ferramentas utilizadas estão em conformidade com o planejado e se os dados coletados serão relevantes para alcançar os objetivos da entrevista.
+O teste piloto será conduzido por cada um dos avaliadores e tem como objetivo simular a entrevista real. Essa simulação ajudará a verificar se as ferramentas utilizadas estão em conformidade com o planejado e se os dados coletados serão relevantes para alcançar os objetivos da entrevista.
 
-### Resultado do teste piloto
+Como dito por Barbosa e Silva (2011), a realização do teste-piloto em casos em que se tem um número reduzido de participantes pode ser realizado com pessoass próximas ao avaliador.
 
-No teste piloto foi observado a necessidade de reformulação das perguntas, que foram ajustadas conforme a necessidade da avaliação.
+<font size="2"><p style="text-align: center">Tabela 3 - Cronograma dos testes-piloto </p></font>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EKtKLD3X6i0?si=DWRsyupecPOgUqLF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<center>
+
+|        Entrevistadores         |    Data    |
+| :----------------------------: | :--------: | 
+| Alana Gabriele | 26/05/2024 |   
+| Marco Tulio    | 27/05/2024 |     
+| Pedro Henrique | 28/05/2024 |     
+| Renan Araújo   | 29/05/2024 |    
+| Yasmim Rosa    | 29/05/2024 |     
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Alana Gabriele](https://github.com/alanagabriele) e [Gustavo Alves](https://github.com/gustaallves) </p></font>
 
 ## Bibliografia
 
@@ -120,4 +144,4 @@ No teste piloto foi observado a necessidade de reformulação das perguntas, que
 | Versão | Data       | Descrição              | Autor(es)                                                                                               | Revisor(es)                                 |
 | ------ | ---------- | ---------------------- | ------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
 | 1.0    | 22/05/2023 | Criação do documento   | [Alana Gabriele](https://github.com/alanagabriele) <br> [Gustavo Alves](https://github.com/gustaallves) | [Yasmim Rosa](https://github.com/yaskisoba) |
-| 2.0    | 29/05/2023 | Arrumando as perguntas | [Alana Gabriele](https://github.com/alanagabriele)                                                      |                                             |
+| 2.0    | 29/05/2023 | Arrumando as perguntas | [Alana Gabriele](https://github.com/alanagabriele) |[Yasmim Rosa](https://github.com/yaskisoba) |
