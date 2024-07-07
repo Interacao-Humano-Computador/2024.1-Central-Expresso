@@ -26,8 +26,11 @@ Aplicação no Design e Desenvolvimento:
 Os benefícios das personas são muitos, ela garante que a avaliação se concentre nas necessidades reais dos usuários, levando a tomar decisões certas em relação ao site, possibilitando a personalização. Facilita também a comunicação dos resultados da avaliação com stakeholders e membros da equipe, através de representações concretas dos usuários. Usando tomada de decisões baseada em dados é possível fornecer uma base sólida para decisões de design e desenvolvimento, baseadas nas necessidades e expectativas reais dos usuários. Os avaliadores eles se colocam no lugar do usuário e compreendem melhor suas frustrações, crucial para ter um site realmente útil e agradável. Ao focar em problemas reais identificados pelas personas, é possível reduzir retrabalhos e correções de funcionalidades que não atendem às necessidades dos usuários, economizando tempo e recursos.
 
 ## **Perfis**
-Segundo Barbosa e Silva (2011), o elenco de personas deve ter entre três e doze personas para articular a população de usuários. <br>
-No caso deste projeto, temos três personas e uma antipersona. <br>
+O elenco de personas, segundo Barbosa e Silva (2011), recomenda que se tenha entre três e doze personas para representar adequadamente a diversidade da população de usuários. Esta faixa é considerada ideal porque permite capturar uma ampla gama de características, comportamentos e necessidades dos usuários de um sistema ou projeto. Com um número mínimo de três personas, é possível abordar diferentes perfis de usuários de forma significativa, enquanto um máximo de doze personas garante que a representação não se torne excessivamente complexa ou difícil de gerenciar.
+
+No contexto deste projeto, a escolha de três personas primárias e uma persona secundária foi baseada na análise dos dados coletados sobre os usuários de Luziânia. Essas personas foram desenvolvidas para refletir características demográficas, comportamentais e tecnológicas comuns entre os usuários-alvo. Portanto, a quantidade e diversidade das personas são justificadas pela necessidade de compreender profundamente os diferentes perfis de usuários e suas expectativas em relação ao sistema em desenvolvimento. Isso permite que as decisões de design e desenvolvimento sejam orientadas pelas necessidades reais dos usuários, melhorando a usabilidade e a eficácia do projeto.
+<br>
+
 **Na tabela 1** estão as características gerais usadas na criação das personas derivada do [perfil do usuário](./perfil_usuarios.md).
 
 <font size="2"><p style="text-align: center"> Tabela 1 - Características das personas </p></font>
@@ -146,3 +149,4 @@ Para conseguir as imagens, foi utilizado o site [This person does not exist](htt
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | 1.0    | 28/04/2024 | Personas |  [Renan Araújo](https://github.com/renantfm4) <br> [Gustavo Alves](https://github.com/gustaallves)  | [Alana Gabriele](https://github.com/alanagabriele/) |
 | 1.1   | 03/05/2024 | Finalizando Personas |  [Renan Araújo](https://github.com/renantfm4) <br> [Gustavo Alves](https://github.com/gustaallves)  | [Alana Gabriele](https://github.com/alanagabriele/)  |
+| 1.2   | 03/05/2024 | Inclusão da motivação da escolha |  [Gustavo Alves](https://github.com/gustaallves)  | [Alana Gabriele](https://github.com/alanagabriele/)  |
