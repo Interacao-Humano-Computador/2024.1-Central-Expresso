@@ -67,3 +67,9 @@ Na figura 6 está o storyboard da funcionalidade.
 ![comprar_passagem](comprar-passagem-highres.png)
 
 <font size="2"><p style="text-align: center">Fonte: [Yasmim Rosa](https://github.com/yaskisoba) </p></font>
+
+## Histórico de Versão
+
+| Versão | Data       | Descrição              | Autor(es)                                                                                               | Revisor(es)                                 |
+| ------ | ---------- | ---------------------- | ------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
+| 1.0    | 22/05/2023 | Criação do artefato   | [Yasmim Rosa](https://github.com/yaskisoba) | [Gustavo Alves](https://github.com/gustaallves)  |

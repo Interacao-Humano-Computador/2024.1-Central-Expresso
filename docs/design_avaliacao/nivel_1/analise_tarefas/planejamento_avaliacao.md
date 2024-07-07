@@ -51,7 +51,7 @@ A elaboração da análise de tarefas foi realizada anteriormente usando dois m�
 
 Para realização da entrevista serão necessários:
 
-- Análise de Tarefa da Funcionalidae;
+- Análise de Tarefa da Funcionalidade;
 - Recrutamento do participante com base no [Perfil do Usuário](../../../requisitos/perfil_usuarios.md);
 - Termo de consentimento livre e esclarecido (TCLE);
 - Aparelho eletrônico para filmagem;

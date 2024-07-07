@@ -48,137 +48,182 @@ O método escolhido foi o de investigação por possibilitar coletas de dados so
 
 Foram selecionados 6 usuários para a realização da avaliação, cada um recrutado por um avaliador e com base no [perfil de usuário]() previamente estabelecido neste projeto.
 
-### Rastreamento de Ônibus em Tempo Real
+### Avaliações
+<details>
+<summary>Funcionalidade: Rastreamento de Ônibus em Tempo Real (Alana Gabriele)</summary>
+<p>O StoryBoard tem como objetivo garantir que o rastreamento de um ônibus em tempo real atendam às necessidades e expectativas dos usuários.
+</p>
+   <h2> Questões Identificadas </h2> 
+   <ul>
+        <li>
+        <b>Feedback Positivo: </b> O usuário demonstrou compreensão das etapas e completou a tarefa de rastreamento de ônibus em tempo real sem dificuldades.
+        </li>
+        <li>
+        <b>Problema Identificado: </b> Não foram identificados problemas durante a avaliação.
+        </li>
+   </ul>
+   <h2> Sugestões para Melhorias </h2> 
+   <ul>
+        <li>
+        Não foram identificados problemas durante a avaliação.
+        </li>
+   </ul>
+   <h2> Feedback do Usuário </h2> 
+   <ul>
+        <li>
+        O processo de compartilhamento de trajeto foi validado como intuitivo e eficaz pelo usuário. Durante a avaliação, o participante afirmou conseguir completar essa tarefa sem dificuldades, indicando que a interface e o fluxo de trabalho são bem projetados e fáceis de usar. O usuário conseguiu entender o storyboard com sucesso, indicando que as ações seguem uma ordem coesa que atende às necessidades. A clareza e a lógica das sequências de ações propostas no storyboard foram confirmadas, demonstrando que o design da interação é compreensível e adequado para o público-alvo.
+        </li>
+   </ul>
 
-O [StoryBoard](./storyboard.md) tem como objetivo garantir que o rastreamento de um ônibus em tempo real atendam às necessidades e expectativas dos usuários.
+   <h2> Gravação da Avaliação </h2>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/wxX3kqSl4XY?si=y3RDF7p2tt2GzVQR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</details>
 
-A gravação da entrevista pode ser conferida a seguir:
+<details>
+    <summary>Funcionalidade: Compartilhamento de Trajetos (Gustavo Alves) </summary>
+    <p>O StoryBoard tem como objetivo garantir que o compartilhamento de trajeto atendam às necessidades e expectativas dos usuários.</p>
+   <h2> Questões Identificadas </h2> 
+   <ul>
+        <li>
+        <b>Feedback Positivo: </b> O usuário demonstrou compreensão das etapas e completou a tarefa de compartilhamento de trajeto sem dificuldades.
+        </li>
+        <li>
+        <b>Problema Identificado: </b> Não foram identificados problemas durante a avaliação.
+        </li>
+   </ul>
+   <h2> Sugestões para Melhorias </h2> 
+   <ul>
+        <li>
+        Não foram identificados problemas durante a avaliação.
+        </li>
+   </ul>
+   <h2> Feedback do Usuário </h2> 
+   <ul>
+        <li>
+        O processo de compartilhamento de trajeto foi validado como intuitivo e eficaz pelo usuário. Durante a avaliação, o participante conseguiu completar essa tarefa sem dificuldades, indicando que a interface e o fluxo de trabalho são bem projetados e fáceis de usar. O usuário conseguiu entender o storyboard com sucesso, indicando que as ações seguem uma ordem coesa que atende às necessidades. A clareza e a lógica das sequências de ações propostas no storyboard foram confirmadas, demonstrando que o design da interação é compreensível e adequado para o público-alvo.
+        </li>
+   </ul>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wxX3kqSl4XY?si=y3RDF7p2tt2GzVQR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+   <h2> Gravação da Avaliação </h2>
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/nzfQtleDvyI?si=SDcg-y47mokcwGtB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-#### Questões identificadas
+</details>
 
-- Feedback Positivo: O usuário demonstrou compreensão das etapas e completou a tarefa de rastreamento de ônibus em tempo real sem dificuldades.
-- Problema Identificado: Não foram identificados problemas durante a avaliação.
+<details>
+    <summary> Funcionalidade: Histórico de passagens compradas (Marco Tulio) </summary>
+    <p>O StoryBoard tem como objetivo garantir que o histórico de passagens compradas atendam às necessidades e expectativas dos usuários.</p>
+    <h2> Questões Identificadas </h2> 
+   <ul>
+        <li>
+        <b>Feedback Positivo: </b>  O usuário demonstrou compreensão das etapas e completou a tarefa de compartilhamento de trajeto sem dificuldades.
+        </li>
+        <li>
+        <b>Problema Identificado: </b> Não foram identificados problemas durante a avaliação
+        </li>
+   </ul>
+   <h2> Sugestões para Melhorias </h2> 
+   <ul>
+        <li>
+        Tendo em vista que a entrevista ocorreu com bastante êxito, ainda não existe nenhuma sugestão de melhoria.
+        </li>
+   </ul>
+   <h2> Feedback do Usuário </h2> 
+   <ul>
+        <li>
+        O processo de acompanhamento de trajeto foi validado como intuitivo e eficaz pelo usuário. O usuário conseguiu entender o storyboard com sucesso, indicando que as ações seguem uma ordem coesa que atende às necessidades.
+        </li>
+   </ul>
 
-#### Sugestões para melhorias
+<h2> Gravação da Avaliação </h2>
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/FG6oky-GIFs?si=7tPGflGEz4aL88ey" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</details>
 
-- Nenhum Problema Identificado. Não foram identificados problemas durante a avaliação.
+<details>
+    <summary>Funcionalidade: Acúmulo de Pontos por Trajeto (Pedro Henrique)</summary>
+    <p>O StoryBoard tem como objetivo garantir que o Acúmulo de Pontos por Trajeto atendam às necessidades e expectativas dos usuários.</p>
+    <h2> Questões Identificadas </h2> 
+   <ul>
+        <li>
+        <b>Feedback Positivo: </b> O usuário demonstrou compreensão das etapas e completou a tarefa de compartilhamento de trajeto sem dificuldades.
+        </li>
+        <li>
+        <b>Problema Identificado: </b> Não foram identificados problemas durante a avaliação.
+        </li>
+   </ul>
+   <h2> Sugestões para Melhorias </h2> 
+   <ul>
+        <li>
+        O processo de acúmulo de pontos por trajeto foi validado como intuitivo e eficaz pelo usuário. O usuário conseguiu entender o storyboard com sucesso, indicando que as ações seguem uma ordem coesa que atende às necessidades.
+        </li>
+   </ul>
+   <h2> Feedback do Usuário </h2> 
+   <ul>
+        <li>
+        O usuário validou o design atual do processo de acompanhamento de trajeto, indicando eficácia e usabilidade satisfatória e conseguiu entender e realizar a tarefa com sucesso, demonstrando que os passos atuais atendem às suas necessidades.
+        </li>
+   </ul>
 
-#### Feedback dos usuários
+<h2> Gravação da Avaliação </h2>
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/-Ssve0xELtM?si=_vpwkVFMPpEXTHA1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</details>
 
-- Validação da Usabilidade: O processo de compartilhamento de trajeto foi validado como intuitivo e eficaz pelo usuário. Durante a avaliação, o participante conseguiu completar essa tarefa sem dificuldades, indicando que a interface e o fluxo de trabalho são bem projetados e fáceis de usar.
+<details>
+    <summary> Funcionalidade: Acompanhar compra de passagem (Renan Araújo)</summary>
+    <p>O StoryBoard tem como objetivo garantir que o acompanhamento da compra de passagem atendam às necessidades e expectativas dos usuários.</p>
+    <h2> Questões Identificadas </h2> 
+   <ul>
+        <li>
+        <b>Feedback Positivo: </b> O usuário demonstrou compreensão das etapas e completou a tarefa de compartilhamento de trajeto sem dificuldades.
+        </li>
+        <li>
+        <b>Problema Identificado: </b> Não foram identificados problemas durante a avaliação.
+        </li>
+   </ul>
+   <h2> Sugestões para Melhorias </h2> 
+   <ul>
+        <li>
+        O usuário não sugeriu nenhuma melhoria para a funcionalidade.
+   </ul>
+   <h2> Feedback do Usuário </h2> 
+   <ul>
+        <li>
+      O processo de acompanhamento de trajeto foi validado como intuitivo e eficaz pelo usuário. O usuário conseguiu entender o storyboard com sucesso, indicando que as ações seguem uma ordem coesa que atende às necessidades.
+        </li>
+   </ul>
 
-- Confirmação da Eficácia: O usuário conseguiu entender o storyboard com sucesso, indicando que as ações seguem uma ordem coesa que atende às necessidades. A clareza e a lógica das sequências de ações propostas no storyboard foram confirmadas, demonstrando que o design da interação é compreensível e adequado para o público-alvo.
+<h2> Gravação da Avaliação </h2>
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/I9Dg8BnD7w8?si=pDU_gqF9tyX5sknB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</details>
 
-### Compartilhamento de Trajeto
+<details>
+    <summary> Funcionalidade: Comprar passagem (Yasmim Rosa)  </summary>
+    <p>O StoryBoard tem como objetivo garantir que comprar passagem atendam às necessidades e expectativas dos usuários.</p>
+       <h2> Questões Identificadas </h2> 
+   <ul>
+        <li>
+        <b>Feedback Positivo: </b> O storyboard da forma em que foi elaborado é claro e com um fluxo de ações que pareceram coesas para a participante com início, meio e fim bem construídos. 
+        </li>
+        <li>
+        <b>Problema Identificado: </b> As ações não são realizadas de maneira eficiente em especial devido a necessidade de mandar o comprovante de pagamento pelo email, na visão da participante essa etapa é desnecessária e demanda mais tempo que o necessário para a conclusão da tarefa.
 
-O [StoryBoard](./storyboard.md) tem como objetivo garantir que o compartilhamento de trajeto atendam às necessidades e expectativas dos usuários.
+        </li>
+   </ul>
+   <h2> Sugestões para Melhorias </h2> 
+   <ul>
+        <li>
+        Na funcionalidade, a etapa de envio do email com o comprovante de pagamento deve ser substituída por uma maneira que centralize essa etapa final da tarefa no site do Central Expresso, de modo a melhorar a sua eficiência.
+        </li>
+   </ul>
+   <h2> Feedback do Usuário </h2> 
+   <ul>
+        <li>
+        Assim como citado, no que diz a construção da história o storyboard cumpre seu papel, mas em relação a eficiência na realização da tarefa poderia ser realizado de maneira melhor e mais interessante na etapa de enviar um email de confirmação com o pagamento realizado.
+        </li>
+   </ul>
 
-A gravação da entrevista pode ser conferida a seguir:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nzfQtleDvyI?si=lRgGTtunRNYaszeF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-#### Questões identificadas
-
-- Feedback Positivo: O usuário demonstrou compreensão das etapas e completou a tarefa de compartilhamento de trajeto sem dificuldades.
-- Problema Identificado: Não foram identificados problemas durante a avaliação.
-
-#### Sugestões para melhorias
-
-- Nenhum Problema Identificado. Não foram identificados problemas durante a avaliação.
-
-#### Feedback dos usuários
-
-- Validação da Usabilidade: O processo de compartilhamento de trajeto foi validado como intuitivo e eficaz pelo usuário. Durante a avaliação, o participante conseguiu completar essa tarefa sem dificuldades, indicando que a interface e o fluxo de trabalho são bem projetados e fáceis de usar.
-
-- Confirmação da Eficácia: O usuário conseguiu entender o storyboard com sucesso, indicando que as ações seguem uma ordem coesa que atende às necessidades. A clareza e a lógica das sequências de ações propostas no storyboard foram confirmadas, demonstrando que o design da interação é compreensível e adequado para o público-alvo.
-
-### Histórico de passagens compradas
-
-O [StoryBoard](./storyboard.md) tem como objetivo garantir que o histórico de passagens compradas atendam às necessidades e expectativas dos usuários.
-
-A gravação da entrevista pode ser conferida a seguir:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FG6oky-GIFs?si=7tPGflGEz4aL88ey" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-#### Questões identificadas
-
-- Feedback Positivo: O usuário demonstrou compreensão das etapas e completou a tarefa de compartilhamento de trajeto sem dificuldades.
-- Problema Identificado: Não foram identificados problemas durante a avaliação
-
-#### Sugestões para melhorias
-
-- Nenhum Problema Identificado. Não foram identificados problemas durante a avaliação.
-
-#### Feedback dos usuários
-
-- Validação da Usabilidade: O processo de acompanhamento de trajeto foi validado como intuitivo e eficaz pelo usuário.
-- Confirmação da Eficácia: O usuário conseguiu entender o storyboard com sucesso, indicando que as ações seguem uma ordem coesa que atende às necessidades.
-
-### Acúmulo de Pontos por Trajeto
-
-O [StoryBoard](./storyboard.md) tem como objetivo garantir que o Acúmulo de Pontos por Trajeto atendam às necessidades e expectativas dos usuários.
-
-A gravação da entrevista pode ser conferida a seguir:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Ssve0xELtM?si=_vpwkVFMPpEXTHA1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-#### Questões identificadas
-
-- Feedback Positivo: O usuário demonstrou compreensão das etapas e completou a tarefa de compartilhamento de trajeto sem dificuldades.
-- Problema Identificado: Não foram identificados problemas durante a avaliação
-
-#### Sugestões para melhorias
-
-- Nenhum Problema Identificado. Não foram identificados problemas durante a avaliação.
-
-#### Feedback dos usuários
-
-- Validação da Usabilidade: O processo de acompanhamento de trajeto foi validado como intuitivo e eficaz pelo usuário.
-- Confirmação da Eficácia: O usuário conseguiu entender o storyboard com sucesso, indicando que as ações seguem uma ordem coesa que atende às necessidades.
-
-### Acompanhar compra de passagem
-
-O [StoryBoard](./storyboard.md) tem como objetivo garantir que o acompanhamento da compra de passagem atendam às necessidades e expectativas dos usuários.
-
-A gravação da entrevista pode ser conferida a seguir:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/I9Dg8BnD7w8?si=pDU_gqF9tyX5sknB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-#### Questões identificadas
-
-- Feedback Positivo: O usuário demonstrou compreensão das etapas e completou a tarefa de compartilhamento de trajeto sem dificuldades.
-- Problema Identificado: Não foram identificados problemas durante a avaliação
-
-#### Sugestões para melhorias
-
-- Nenhum Problema Identificado. Não foram identificados problemas durante a avaliação.
-
-#### Feedback dos usuários
-
-- Validação da Usabilidade: O processo de acompanhamento de trajeto foi validado como intuitivo e eficaz pelo usuário.
-- Confirmação da Eficácia: O usuário conseguiu entender o storyboard com sucesso, indicando que as ações seguem uma ordem coesa que atende às necessidades.
-
-### Comprar Passagem
-
-O [StoryBoard](./storyboard.md) tem como objetivo garantir que comprar passagem atendam às necessidades e expectativas dos usuários.
-
-A gravação da entrevista pode ser conferida a seguir:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/59KJsFMs0D0?si=gEW0LyFZCzwAD1ML" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-#### Questões identificadas
-
-O storyboard da forma em que foi elaborado é claro e com um fluxo de ações que pareceram coesas para a participante com início, meio e fim bem construídos. No entanto, as ações não são realizadas de maneira eficiente em especial devido a necessidade de mandar o comprovante de pagamento pelo email, na visão da participante essa etapa é desnecessária e demanda mais tempo que o necessário para a conclusão da tarefa.
-
-#### Sugestões para melhorias
-
-Na funcionalidade, a etapa de envio do email com o comprovante de pagamento deve ser substituída por uma maneira que centralize essa etapa final da tarefa no site do Central Expresso, de modo a melhorar a sua eficiência.
-
-#### Feedback dos usuários
-
-Assim como citado no sumário, no que diz a construção da história o storyboard cumpre seu papel, mas em relação a eficiência na realização da tarefa poderia ser realizado de maneira melhor e mais interessante na etapa de enviar um email de confirmação com o pagamento realizado.
+   <h2> Gravação da Avaliação </h2>
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/59KJsFMs0D0?si=gEW0LyFZCzwAD1ML" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</details>
 
 ## Análise e Interpretação das Respostas dos Usuários
 
@@ -212,3 +257,4 @@ Este plano visa não apenas corrigir os problemas identificados, mas também for
 | Versão |    Data    | Descrição                         | Autor(es)                                          | Revisor(es)                                     |
 | ------ | :--------: | --------------------------------- | -------------------------------------------------- | ----------------------------------------------- |
 | 1.0    | 03/06/2024 | Relato da Avaliação do StoryBoard | [Alana Gabriele](https://github.com/alanagabriele) | [Gustavo Alves](https://github.com/gustaallves) |
+| 2.0    | 06/06/2024 | Ajuste no formato do relato | [Yasmim Rosa](https://github.com/yaskisoba) | [Gustavo Alves](https://github.com/gustaallves) |

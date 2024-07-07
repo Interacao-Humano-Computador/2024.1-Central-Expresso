@@ -50,7 +50,7 @@ Foram selecionados 6 usuários para a realização da avaliação, cada um recru
 
 Antes de cada entrevista esse perfil de usuário foi revalidado por algumas perguntas simples sobre o participante.
 
-### Entrevistas
+### Avaliações
 <details>
 <summary>Funcionalidade: Rastreamento de Ônibus em Tempo Real (Alana Gabriele)</summary>
 <p>Nesta funcionalidade, assim como descrito no HTA (Hierarchical Task Analysis) realizado na análise de tarefas, tem como objetivo rastrear o trajeto de um ônibus em tempo real.</p>

@@ -42,6 +42,14 @@ Serão 6 entrevistas com seus devidos questionários, cada entrevista realizada 
 
 O recrutamento para realização das entrevistas e questionários será com base no perfil do usuário definido e cada membro da equipe será responsável pelo contato com um usuário para realização da avaliação, bem como definição de um horário adequado, local e preparação do storyboard a ser avaliado, sendo essas atividades sem custos a serem sanados.
 
+Para realização da entrevista serão necessários:
+
+- [Storyboard](storyboard.md) da Funcionalidade;
+- Recrutamento do participante com base no [Perfil do Usuário](../../../requisitos/perfil_usuarios.md);
+- Termo de consentimento livre e esclarecido (TCLE);
+- Aparelho eletrônico para filmagem;
+- Sala para realização da entrevista.
+
 Antes do início das avaliações será realizado um teste piloto para verificação dos materiais e do roteiro das entrevistas, bem como as perguntas do questionário. As perguntas do questionário que será realizado na entrevista podem ser conferidas na tabela 1.
 
 <font size="2"><p style="text-align: center">Tabela 1 - Perguntas da entrevista </p></font>
