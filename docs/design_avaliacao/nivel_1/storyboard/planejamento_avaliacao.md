@@ -126,6 +126,16 @@ Barbosa e Silva (2011) define que a realização de um estudo-piloto é uma pequ
 
 </details>
 
+<details>
+<summary>Teste Piloto - Compartilhamento de Trajeto (Gustavo Alves)</summary>
+
+<font size="2"><p style="text-align: center"> Gravação do teste piloto </font>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rqc5pM6MB-o?si=yUEXBFS4m8OGVf8n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<font size="2"><p style="text-align: center">Fonte: <a href=""> Gustavo Alves </a></p></font>
+
+</details>
+
 ## Bibliografia
 
 > BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
