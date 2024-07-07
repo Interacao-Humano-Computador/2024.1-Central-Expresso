@@ -13,12 +13,15 @@ Este artefato é uma síntese dos vídeos das apresentações realizadas em cada
 
 <h2>Participantes</h2>
 
-[Alana Gabriele](https://github.com/alanagabriele)
-[Gustavo Alves](https://github.com/gustaallves)
-[Marco Tulio](https://github.com/MarcoTulioSoares)
-[Pedro Henrique](https://github.com/PedroHenrique061)
-[Renan Araújo](https://github.com/renantfm4)
-[Yasmim Rosa](https://github.com/yaskisoba)
+<p>Todos os integrantes do grupo estavam presentes.</p>
+<ul>
+<li>Alana Gabriele </li>
+<li>Gustavo Alves</li>
+<li>Marco Tulio</li>
+<li>Pedro Henrique</li>
+<li>Renan Araújo</li>
+<li>Yasmim Rosa</li>
+</ul>
 
 </details>
 
@@ -31,12 +34,15 @@ Este artefato é uma síntese dos vídeos das apresentações realizadas em cada
 
 <h2>Participantes</h2>
 
-[Alana Gabriele](https://github.com/alanagabriele)
-[Gustavo Alves](https://github.com/gustaallves)
-[Marco Tulio](https://github.com/MarcoTulioSoares)
-[Pedro Henrique](https://github.com/PedroHenrique061)
-[Renan Araújo](https://github.com/renantfm4)
-[Yasmim Rosa](https://github.com/yaskisoba)
+<p>Todos os integrantes do grupo estavam presentes.</p>
+<ul>
+<li>Alana Gabriele </li>
+<li>Gustavo Alves</li>
+<li>Marco Tulio</li>
+<li>Pedro Henrique</li>
+<li>Renan Araújo</li>
+<li>Yasmim Rosa</li>
+</ul>
 
 </details>
 
@@ -49,12 +55,15 @@ Este artefato é uma síntese dos vídeos das apresentações realizadas em cada
 
 <h2>Participantes</h2>
 
-[Alana Gabriele](https://github.com/alanagabriele)
-[Gustavo Alves](https://github.com/gustaallves)
-[Marco Tulio](https://github.com/MarcoTulioSoares)
-[Pedro Henrique](https://github.com/PedroHenrique061)
-[Renan Araújo](https://github.com/renantfm4)
-[Yasmim Rosa](https://github.com/yaskisoba)
+<p>Todos os integrantes do grupo estavam presentes.</p>
+<ul>
+<li>Alana Gabriele </li>
+<li>Gustavo Alves</li>
+<li>Marco Tulio</li>
+<li>Pedro Henrique</li>
+<li>Renan Araújo</li>
+<li>Yasmim Rosa</li>
+</ul>
 
 </details>
 
@@ -66,13 +75,15 @@ Este artefato é uma síntese dos vídeos das apresentações realizadas em cada
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Mkz2BPCi0t4?si=iCUNWC47_HDSscxA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <h2>Participantes</h2>
-
-[Alana Gabriele](https://github.com/alanagabriele)
-[Gustavo Alves](https://github.com/gustaallves)
-[Marco Tulio](https://github.com/MarcoTulioSoares)
-[Pedro Henrique](https://github.com/PedroHenrique061)
-[Renan Araújo](https://github.com/renantfm4)
-[Yasmim Rosa](https://github.com/yaskisoba)
+<p>Todos os integrantes do grupo estavam presentes.</p>
+<ul>
+<li>Alana Gabriele </li>
+<li>Gustavo Alves</li>
+<li>Marco Tulio</li>
+<li>Pedro Henrique</li>
+<li>Renan Araújo</li>
+<li>Yasmim Rosa</li>
+</ul>
 
 </details>
 
@@ -85,12 +96,15 @@ Este artefato é uma síntese dos vídeos das apresentações realizadas em cada
 
 <h2>Participantes</h2>
 
-[Alana Gabriele](https://github.com/alanagabriele)
-[Gustavo Alves](https://github.com/gustaallves)
-[Marco Tulio](https://github.com/MarcoTulioSoares)
-[Pedro Henrique](https://github.com/PedroHenrique061)
-[Renan Araújo](https://github.com/renantfm4)
-[Yasmim Rosa](https://github.com/yaskisoba)
+<p>Todos os integrantes do grupo estavam presentes.</p>
+<ul>
+<li>Alana Gabriele </li>
+<li>Gustavo Alves</li>
+<li>Marco Tulio</li>
+<li>Pedro Henrique</li>
+<li>Renan Araújo</li>
+<li>Yasmim Rosa</li>
+</ul>
 
 </details>
 
@@ -103,12 +117,15 @@ Este artefato é uma síntese dos vídeos das apresentações realizadas em cada
 
 <h2>Participantes</h2>
 
-[Alana Gabriele](https://github.com/alanagabriele)
-[Gustavo Alves](https://github.com/gustaallves)
-[Marco Tulio](https://github.com/MarcoTulioSoares)
-[Pedro Henrique](https://github.com/PedroHenrique061)
-[Renan Araújo](https://github.com/renantfm4)
-[Yasmim Rosa](https://github.com/yaskisoba)
+<p>Todos os integrantes do grupo estavam presentes.</p>
+<ul>
+<li>Alana Gabriele </li>
+<li>Gustavo Alves</li>
+<li>Marco Tulio</li>
+<li>Pedro Henrique</li>
+<li>Renan Araújo</li>
+<li>Yasmim Rosa</li>
+</ul>
 
 </details>
 
@@ -121,12 +138,15 @@ Este artefato é uma síntese dos vídeos das apresentações realizadas em cada
 
 <h2>Participantes</h2>
 
-[Alana Gabriele](https://github.com/alanagabriele)
-[Gustavo Alves](https://github.com/gustaallves)
-[Marco Tulio](https://github.com/MarcoTulioSoares)
-[Pedro Henrique](https://github.com/PedroHenrique061)
-[Renan Araújo](https://github.com/renantfm4)
-[Yasmim Rosa](https://github.com/yaskisoba)
+<p>Todos os integrantes do grupo estavam presentes.</p>
+<ul>
+<li>Alana Gabriele </li>
+<li>Gustavo Alves</li>
+<li>Marco Tulio</li>
+<li>Pedro Henrique</li>
+<li>Renan Araújo</li>
+<li>Yasmim Rosa</li>
+</ul>
 
 </details>
 
@@ -139,12 +159,15 @@ Este artefato é uma síntese dos vídeos das apresentações realizadas em cada
 
 <h2>Participantes</h2>
 
-[Alana Gabriele](https://github.com/alanagabriele)
-[Gustavo Alves](https://github.com/gustaallves)
-[Marco Tulio](https://github.com/MarcoTulioSoares)
-[Pedro Henrique](https://github.com/PedroHenrique061)
-[Renan Araújo](https://github.com/renantfm4)
-[Yasmim Rosa](https://github.com/yaskisoba)
+<p>Todos os integrantes do grupo estavam presentes.</p>
+<ul>
+<li>Alana Gabriele </li>
+<li>Gustavo Alves</li>
+<li>Marco Tulio</li>
+<li>Pedro Henrique</li>
+<li>Renan Araújo</li>
+<li>Yasmim Rosa</li>
+</ul>
 
 </details>
 
@@ -157,12 +180,15 @@ Este artefato é uma síntese dos vídeos das apresentações realizadas em cada
 
 <h2>Participantes</h2>
 
-[Alana Gabriele](https://github.com/alanagabriele)
-[Gustavo Alves](https://github.com/gustaallves)
-[Marco Tulio](https://github.com/MarcoTulioSoares)
-[Pedro Henrique](https://github.com/PedroHenrique061)
-[Renan Araújo](https://github.com/renantfm4)
-[Yasmim Rosa](https://github.com/yaskisoba)
+<p>Todos os integrantes do grupo estavam presentes.</p>
+<ul>
+<li>Alana Gabriele </li>
+<li>Gustavo Alves</li>
+<li>Marco Tulio</li>
+<li>Pedro Henrique</li>
+<li>Renan Araújo</li>
+<li>Yasmim Rosa</li>
+</ul>
 
 </details>
 
@@ -173,12 +199,15 @@ Este artefato é uma síntese dos vídeos das apresentações realizadas em cada
 
 <h2>Participantes</h2>
 
-[Alana Gabriele](https://github.com/alanagabriele)
-[Gustavo Alves](https://github.com/gustaallves)
-[Marco Tulio](https://github.com/MarcoTulioSoares)
-[Pedro Henrique](https://github.com/PedroHenrique061)
-[Renan Araújo](https://github.com/renantfm4)
-[Yasmim Rosa](https://github.com/yaskisoba)
+<p>Todos os integrantes do grupo estavam presentes.</p>
+<ul>
+<li>Alana Gabriele </li>
+<li>Gustavo Alves</li>
+<li>Marco Tulio</li>
+<li>Pedro Henrique</li>
+<li>Renan Araújo</li>
+<li>Yasmim Rosa</li>
+</ul>
 
 </details>
 
