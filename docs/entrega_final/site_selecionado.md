@@ -53,8 +53,7 @@ Para cada membro da equipe foi escolhida uma funcionalidade do site, sendo um si
 
 ## Histórico de Versões
 
-| Versão |    Data    | Descrição                                         | Autor(es)                                       | Revisor(es)                                        |
-| ------ | :--------: | ------------------------------------------------- | ----------------------------------------------- | -------------------------------------------------- |
-| 1.0    | 04/04/2024 | Adição dos tópicos do site escolhido e introdução | [Marco Tulio](https://github.com/MarcoTulioSoares) | [Renan Araújo](https://github.com/renantfm4) |
-| 1.2    | 01/05/2024 | Ajustes de acordo com feedback | [Yasmim Rosa](https://github.com/yaskisoba) | [Pedro Henrique](https://github.com/PedroHenrique061) |
-| 1.3    | 01/05/2024 | Adicionando funcionalidades por membro da equipe | [Yasmim Rosa](https://github.com/yaskisoba) |  |
+
+| Versão | Data       | Descrição            | Autor                                              | Revisor                                     |
+| ------ | ---------- | -------------------- | -------------------------------------------------- | ------------------------------------------- |
+| 1.0    | 07/07/2024 | Criação do documento | [Renan Araújo](https://github.com/renantfm4) | [Alana Gabriele](https://github.com/alanagabriele) |
