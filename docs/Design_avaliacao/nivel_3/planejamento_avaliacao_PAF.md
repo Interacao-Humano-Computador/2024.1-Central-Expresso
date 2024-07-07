@@ -183,6 +183,16 @@ O teste piloto ocorrerá no dia 21 de junho de 2024 às 16h30, na FGA, sendo o p
 
 </details>
 
+<details>
+<summary>Teste Piloto - Compartilhamento de Trajeto (Gustavo Alves)</summary>
+
+<font size="2"><p style="text-align: center"> Gravação do teste piloto </font>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4G6k2RXBkRg?si=qqjN47RkN8l3Z8CZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<font size="2"><p style="text-align: center">Fonte: <a href=""> Gustavo Alves </a></p></font>
+
+</details>
+
 ## Bibliografia
 
 > BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
