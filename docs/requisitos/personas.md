@@ -149,4 +149,4 @@ Para conseguir as imagens, foi utilizado o site [This person does not exist](htt
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | 1.0    | 28/04/2024 | Personas |  [Renan Araújo](https://github.com/renantfm4) <br> [Gustavo Alves](https://github.com/gustaallves)  | [Alana Gabriele](https://github.com/alanagabriele/) |
 | 1.1   | 03/05/2024 | Finalizando Personas |  [Renan Araújo](https://github.com/renantfm4) <br> [Gustavo Alves](https://github.com/gustaallves)  | [Alana Gabriele](https://github.com/alanagabriele/)  |
-| 1.2   | 03/05/2024 | Inclusão da motivação da escolha |  [Gustavo Alves](https://github.com/gustaallves)  | [Alana Gabriele](https://github.com/alanagabriele/)  |
+| 1.2   | 06/07/2024 | Inclusão da motivação da escolha |  [Gustavo Alves](https://github.com/gustaallves)  | [Alana Gabriele](https://github.com/alanagabriele/)  |
