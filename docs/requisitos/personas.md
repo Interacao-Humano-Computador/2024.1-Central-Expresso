@@ -53,13 +53,13 @@ Para conseguir as imagens, foi utilizado o site [This person does not exist](htt
 
 + **Lucas**
 
-<font size="2"><p style="text-align: center"> Tabela 2 - Persona Lucas </p></font>
+<font size="2"><p style="text-align: center"> Tabela 2 - Persona Lucas Silva </p></font>
 
 |    |    |
 | :----: | :---------------------: |
-|  Nome  |   Lucas   |
+|  Nome  |   Lucas Silva  |
 |  Foto  |   ![alt text](Persona1.png)  |
-| Descrição | Lucas, 23 anos, estudante de ensino superior, reside em Luziânia | 
+| Descrição | Lucas Silva, 23 anos, estudante de ensino superior, reside em Luziânia | 
 | Tipo | Persona primária |
 | Relacionamentos | Lucas tem um forte vínculo com sua família e amigos próximos. Além disso, ele estabeleceu uma relação significativa com Henrique, seu principal professor durante a graduação, que o influenciou positivamente em sua trajetória acadêmica e pessoal.   |
 | Informações | Lucas é um estudante universitário residente em Luziânia, cursando seu ensino superior, ainda não concluído. Com 23 anos, ele é uma pessoa dinâmica e independente, com habilidades sólidas em tecnologia. Ele utiliza frequentemente meios digitais para suas atividades diárias, incluindo consultas online, compras e algumas interações com serviços de transporte público. |
@@ -73,11 +73,11 @@ Para conseguir as imagens, foi utilizado o site [This person does not exist](htt
 
 + **Pedro**
 
-<font size="2"><p style="text-align: center"> Tabela 3 - Persona Pedro </p></font>
+<font size="2"><p style="text-align: center"> Tabela 3 - Persona Pedro Santos</p></font>
 
 |    |    |
 | :----: | :---------------------: |
-|  Nome  |   Pedro  |
+|  Nome  |   Pedro Santos |
 |  Foto  |   ![alt text](Persona2.png)  |
 | Descrição | Pedro é um estudante universitário de 25 anos que vive em Luziânia. Ele é proativo, autodidata e valoriza a praticidade proporcionada pela tecnologia em sua rotina agitada. | 
 | Tipo | Persona primária |
@@ -93,12 +93,12 @@ Para conseguir as imagens, foi utilizado o site [This person does not exist](htt
 
 + **Mariana**
 
-<font size="2"><p style="text-align: center"> Tabela 4 - Persona Mariana </p></font>
+<font size="2"><p style="text-align: center"> Tabela 4 - Persona Mariana Oliveira </p></font>
 
 
 |    |    |
 | :----: | :---------------------: |
-|  Nome  |   Mariana   |
+|  Nome  |   Mariana Oliveira  |
 |  Foto  |  ![alt text](Persona3.png) |
 | Descrição | Mariana é uma jovem de 29 anos, profissional autônoma que trabalha como designer gráfica e vive em Luziânia. Ela é criativa, detalhista e preza pela eficiência em todas as ferramentas que utiliza para trabalho e vida pessoal. | 
 | Tipo | Persona primária |
@@ -114,12 +114,12 @@ Para conseguir as imagens, foi utilizado o site [This person does not exist](htt
 
 + **Rafael**
 
-<font size="2"><p style="text-align: center"> Tabela 5 - Persona Rafael </p></font>
+<font size="2"><p style="text-align: center"> Tabela 5 - Persona Rafael Pereira</p></font>
 
 
 |    |    |
 | :----: | :---------------------: |
-|  Nome  |   Rafael   |
+|  Nome  |   Rafael Pereira  |
 |  Foto  |   ![alt text](Persona4.png) |
 | Descrição | Rafael, 31 anos, é um empresário que possui uma pequena loja de eletrônicos em Luziânia. Ele é prático e busca sempre a eficiência em seus processos, tanto pessoais quanto profissionais. | 
 | Tipo | Persona secundária |
