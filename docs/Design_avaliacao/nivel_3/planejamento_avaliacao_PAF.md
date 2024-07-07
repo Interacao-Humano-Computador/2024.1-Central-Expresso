@@ -72,12 +72,12 @@ Como forma de revalidação que o participante se encaixa no perfil de usuário 
 
 <center>
 
-| Perguntas                                          | Respostas |
-| -------------------------------------------------- | --------- |
-| Qual seu nome?                                     | Aberta    |
-| Quantos anos você tem?                             | Aberta    |
-| Qual é o seu nível de experiência com tecnologias? | Aberta    |
-| Em qual cidade você mora?                          | Aberta    |
+| Perguntas                                          | Tipo de Resposta | Justificativa | Fonte | Captura de Tela |
+| -------------------------------------------------- | --------- | -------------------- | ----- | ---------------- |
+| Qual seu nome?                                     | Discursiva    | Reafirmar o perfil do usuário | Item 8.1, página 166, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição. | [página 166](../../design_avaliacao/nivel_1/analise_tarefas/fontes/image_2.png) |
+| Quantos anos você tem?                             | Discursiva    | Reafirmar o perfil do usuário | Item 8.1, página 166, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição. | [página 166](../../design_avaliacao/nivel_1/analise_tarefas/fontes/image_2.png) |
+| Qual é o seu nível de experiência com tecnologias? | Discursiva    | Reafirmar o perfil do usuário | Item 8.1, página 166, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição. | [página 166](../../design_avaliacao/nivel_1/analise_tarefas/fontes/image_2.png) |
+| Em qual cidade você mora?                          | Discursiva    | Reafirmar o perfil do usuário | Item 8.1, página 166, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição. | [página 166](../../design_avaliacao/nivel_1/analise_tarefas/fontes/image_2.png) |
 
 </center>
 
@@ -89,25 +89,25 @@ Em seguida o participante iniciará o uso do protótipo de alta fidelidade, send
 
 <center>
 
-| Pergunta                                                                                       | Resposta (Tipo de resposta esperada)     |
-| ---------------------------------------------------------------------------------------------- | ---------------------------------------- |
-| Quando você começou a usar o protótipo, foi fácil entender por onde começar?                   | Sim/Não, com comentários adicionais      |
-| As instruções iniciais eram claras e suficientes?                                              | Sim/Não, com comentários adicionais      |
-| Em cada etapa, ficou claro para você o que deveria ser feito em seguida?                       | Sim/Não, com exemplos específicos        |
-| Houve algum momento em que você ficou confuso sobre qual ação tomar?                           | Sim/Não, descreva o momento e a confusão |
-| Como você descreveria sua experiência geral com o protótipo?                                   | Descrição aberta                         |
-| Quais elementos da interface você achou mais agradáveis ou úteis?                              | Lista de elementos e comentários         |
-| Teve alguma parte da interface que você achou particularmente frustrante ou confusa?           | Sim/Não, com descrição das partes        |
-| O que você mudaria ou melhoraria na interface?                                                 | Sugestões específicas                    |
-| Você conseguiu completar as tarefas propostas usando o protótipo?                              | Sim/Não, com detalhes de dificuldades    |
-| Quanto tempo você levou para completar cada tarefa?                                            | Tempo estimado para cada tarefa          |
-| Como você avaliaria a facilidade de uso do protótipo em uma escala de 1 a 5?                   | Avaliação numérica e justificativa       |
-| Houve alguma parta da funcionalidade que você achou difícil de usar ou de encontrar?           | Sim/Não, com detalhes específicos        |
-| Todos os elementos da interface estavam claramente rotulados e eram facilmente compreensíveis? | Sim/Não, com exemplos específicos        |
-| Você conseguiu entender para que serve cada elemento do protótipo?                             | Sim/Não, com detalhes dos elementos      |
-| Houve algum elemento que você achou desnecessário ou que não entendeu a utilidade?             | Sim/Não, com descrição dos elementos     |
-| Como você avaliaria a estética visual do protótipo?                                            | Descrição aberta                         |
-| Você sentiu que o protótipo respondia de forma eficiente às suas ações?                        | Sim/Não, com detalhes específicos        |
+| Pergunta                                                                                       | Tipo de Resposta    | Justificativa | Fonte | Captura de Tela |
+| ---------------------------------------------------------------------------------------------- | ---------------------------------------- | ------------------ | ---------- | ------------------- |
+| Quando você começou a usar o protótipo, foi fácil entender por onde começar?                   | Discursiva      | Identificar problemas de interação     | Item 3.2.4, página 53, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição. | [página 53](../nivel_3/fontes/image_2.png) |
+| As instruções iniciais eram claras e suficientes?                                              | Discursiva      | Identificar problemas de interação      | Item 3.1.1, página 32, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição. | [página 32](../nivel_3/fontes/image.png) |
+| Em cada etapa, ficou claro para você o que deveria ser feito em seguida?                       | Discursiva  | Identificar problemas de interação      | Item 3.1.1, página 32, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição. | [página 32](../nivel_3/fontes/image.png) |
+| Houve algum momento em que você ficou confuso sobre qual ação tomar?                           | Discursiva | Identificar problemas de interação |Item 3.1.1, página 32, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição. | [página 32](../nivel_3/fontes/image_1.png) 
+| Como você descreveria sua experiência geral com o protótipo?                                   | Discursiva                         |
+| Quais elementos da interface você achou mais agradáveis ou úteis?                              | Discursiva  | Identificar problemas de interação       | Item 3.1.1, página 32, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição. | [página 32](../nivel_3/fontes/image.png) |
+| Teve alguma parte da interface que você achou particularmente frustrante ou confusa?           | Discursiva        | Identificar problemas de interação      | Item 3.2.2.3, página 41, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição. | [página 41](../nivel_3/fontes/image_5.png) |
+| O que você mudaria ou melhoraria na interface?                                                 | Discursiva                    |
+| Você conseguiu completar as tarefas propostas usando o protótipo?                              | Discursiva    | Identificar problemas de interação    | Item 3.1.1, página 29, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição. | [página 29](../nivel_3/fontes/image_4.png) |
+| Quanto tempo você levou para completar cada tarefa?                                            | Discursiva          | Identificar problemas de interação      | Item 3.2.1, página 36, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição. | [página 36](../nivel_3/fontes/image_6.png) |
+| Como você avaliaria a facilidade de uso do protótipo em uma escala de 1 a 5?                   | Escala de 1 a 5       | Identificar problemas de interação      | Item 3.2.1, página 36, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição. | [página 36](../nivel_3/fontes/image_6.png)
+| Houve alguma parte da funcionalidade que você achou difícil de usar ou de encontrar?           | Discursiva        | Identificar problemas de interação      | Item 3.2.2.3, página 41, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição. | [página 41](../nivel_3/fontes/image_5.png) |
+| Todos os elementos da interface estavam claramente rotulados e eram facilmente compreensíveis? | Discursiva  | Identificar problemas de interação       | Item 3.1.1, página 32, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição. | [página 32](../nivel_3/fontes/image.png) |
+| Você conseguiu entender para que serve cada elemento do protótipo?                             | Discursiva | Identificar problemas de interação     | Item 3.1.1, página 32, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição. | [página 32](../nivel_3/fontes/image.png) |
+| Houve algum elemento que você achou desnecessário ou que não entendeu a utilidade?             | Discursiva | Identificar problemas de interação    | Item 3.1.1, página 32, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição. | [página 32](../nivel_3/fontes/image.png) |
+| Como você avaliaria a estética visual do protótipo?                                            | Discursiva     | Identificar problemas de interação    | Item 4.3.2, página 69, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição. | [página 69](../nivel_3/fontes/image_3.png) |
+| Você sentiu que o protótipo respondia de forma eficiente às suas ações?                        | Discursiva        | Identificar problemas de interação    | Item 3.1.1, página 29, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição. | [página 29](../nivel_3/fontes/image_4.png) |
 
 </center>
 <font size="2"><p style="text-align: center">Fonte: [Yasmim Rosa](https://github.com/yaskisoba) e [Renan Araújo](https://github.com/renantfm4)</p></font>
