@@ -35,4 +35,4 @@ AWS. O que é Scrum. Disponível em: <https://aws.amazon.com/pt/what-is/scrum/>.
 
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| 1.0    | 07/04/2024 | Metodologia e Heatmap | [Yasmim Rosa](https://github.com/yaskisoba) |   [Gustavo Alves](https://github.com/gustaallves) |
+| 1.0    | 07/04/2024 | Metodologia e Heatmap | [Gustavo Alves](https://github.com/gustaallves)  |  [Yasmim Rosa](https://github.com/yaskisoba)   |

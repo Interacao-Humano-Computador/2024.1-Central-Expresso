@@ -90,7 +90,7 @@ Todas as entregas e seus respectivos cronogramas estão orietados a data de entr
             <td> Início : 04/04 <br>  Fim : 06/04</td>
             <td>Alana Gabriele, Gustavo Alves, Marco Tulio, Pedro Henrique, Renan Araújo, Yasmim Rosa</td>
             <td> Início : 06/04 <br>  Fim : 07/04</td>
-            <td></td>
+            <td>Marco Tulio</td>
         </tr>
         <tr>
             <td>Gravar vídeo de apresentação</td>

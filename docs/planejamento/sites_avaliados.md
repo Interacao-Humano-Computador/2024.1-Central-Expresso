@@ -205,4 +205,4 @@ Site destinado a turistas brasileiros que desejam emitir seu visto para visitar 
 | Versão |    Data    | Descrição          | Autor(es)                                             | Revisor(es)                                 |
 | ------ | :--------: | ------------------ | ----------------------------------------------------- | ------------------------------------------- |
 | 1.0    | 05/04/2024 | Sites avaliados    | [Pedro Henrique](https://github.com/PedroHenrique061) | [Yasmim Rosa](https://github.com/yaskisoba) |
-| 1.1    | 06/07/2024 | Adicionando Imagem | [Alana Gabriele](https://github.com/alanagabriele)    | []()                                        |
+| 1.1    | 06/07/2024 | Adicionando Imagem | [Alana Gabriele](https://github.com/alanagabriele)    | [Yasmim Rosa](https://github.com/yaskisoba)                                        |

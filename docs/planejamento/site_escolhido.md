@@ -57,4 +57,4 @@ Para cada membro da equipe foi escolhida uma funcionalidade do site, sendo um si
 | ------ | :--------: | ------------------------------------------------- | ----------------------------------------------- | -------------------------------------------------- |
 | 1.0    | 04/04/2024 | Adição dos tópicos do site escolhido e introdução | [Marco Tulio](https://github.com/MarcoTulioSoares) | [Renan Araújo](https://github.com/renantfm4) |
 | 1.2    | 01/05/2024 | Ajustes de acordo com feedback | [Yasmim Rosa](https://github.com/yaskisoba) | [Pedro Henrique](https://github.com/PedroHenrique061) |
-| 1.3    | 01/05/2024 | Adicionando funcionalidades por membro da equipe | [Yasmim Rosa](https://github.com/yaskisoba) |  |
+| 1.3    | 01/05/2024 | Adicionando funcionalidades por membro da equipe | [Yasmim Rosa](https://github.com/yaskisoba) | [Pedro Henrique](https://github.com/PedroHenrique061)  |
