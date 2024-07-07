@@ -37,6 +37,15 @@ A memorização é relativa a facilidade do usuário de lembrar de qual maneira 
 #### No sistema
 Assim como citado no aprendizado, dependendo das limitações pode ser menos fácil para o usuário, mas de maneira geral é um sistema simples.
 
+## Conclusão
+
+A partir da análise das metas de usabilidade, determinamos as metas que serão utilizadas no projeto: 
+
+- Eficácia: Garantir que os usuários possam concluir suas tarefas e alcançar seus objetivos, minimizando frustrações como a descentralização do envio de - comprovantes.
+- Eficiência: Reduzir o tempo e o esforço necessários para completar tarefas, especialmente com a otimização de fluxos de trabalho e suporte a usuários com limitações.
+- Utilidade: Assegurar que o sistema ofereça funcionalidades essenciais de forma centralizada e útil para os usuários, melhorando a experiência de compra.
+- Aprendizado: Facilitar o aprendizado do uso do sistema para novos usuários, tornando a interface intuitiva e acessível, e fornecendo materiais de suporte adequados.
+
 ## Bibliografia
 > BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011. <br>
 > As 6 metas de usabilidade, disponível em: https://medium.com/difournier-uxr/as-6-metas-de-usabilidade-9491442fd56a. Acesso em: 10/05/2024.

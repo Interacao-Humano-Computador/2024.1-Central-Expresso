@@ -79,12 +79,12 @@ Como forma de revalidação que o participante se encaixa no perfil de usuário 
 
 <center>
 
-| Perguntas                                          | Respostas |
-| -------------------------------------------------- | --------- |
-| Qual seu nome?                                     | Aberta    |
-| Quantos anos você tem?                             | Aberta    |
-| Qual é o seu nível de experiência com tecnologias? | Aberta    |
-| Em qual cidade você mora?                          | Aberta    |
+| Perguntas                                          | Tipo de Resposta | Justificativa | Fonte | Captura de Tela |
+| -------------------------------------------------- | --------- | -------- | ---------- | ----------------------- |
+| Qual seu nome?                                     | Discursiva    | Reafirmar o perfil do usuário | Item 8.1, página 166, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição. | [página 166](../../nivel_1/analise_tarefas/fontes/image_2.png) |
+| Quantos anos você tem?                             | Discursiva    | Reafirmar o perfil do usuário | Item 8.1, página 166, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição. | [página 166](../../nivel_1/analise_tarefas/fontes/image_2.png) |
+| Qual é o seu nível de experiência com tecnologias? | Discursiva    | Reafirmar o perfil do usuário | Item 8.1, página 166, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição. | [página 166](../../nivel_1/analise_tarefas/fontes/image_2.png) |
+| Em qual cidade você mora?                          | Discursiva    | Reafirmar o perfil do usuário | Item 8.1, página 166, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição. | [página 166](../../nivel_1/analise_tarefas/fontes/image_2.png) |
 
 </center>
 
@@ -96,16 +96,16 @@ Em seguida o participante iniciará o uso do protótipo de papel, sendo anotadas
 
 <center>
 
-| Perguntas                                                           | Respostas       |
-| ------------------------------------------------------------------- | --------------- |
-| O layout do protótipo é claro e intuitivo?                          | SIM ( ) NÃO ( ) |
-| Você conseguiu entender como navegar pelo protótipo rapidamente?    | SIM ( ) NÃO ( ) |
-| As informações apresentadas são fáceis de encontrar?                | SIM ( ) NÃO ( ) |
-| As funcionalidades do protótipo atendem suas expectativas?          | SIM ( ) NÃO ( ) |
-| Você encontrou alguma dificuldade em realizar as tarefas propostas? | SIM ( ) NÃO ( ) |
-| As transições entre as telas são claras e lógicas?                  | SIM ( ) NÃO ( ) |
-| O protótipo representa bem o fluxo de uso esperado?                 | SIM ( ) NÃO ( ) |
-| Você tem alguma sugestão para melhorar o protótipo?                 | Aberta          |
+| Perguntas                                                           | Tipo de Resposta   | Justificativa | Fonte | Captura de Tela |
+| ------------------------------------------------------------------- | ---------------    | -------------- | ----- | -------------- |
+| O layout do protótipo é claro e intuitivo?                          | Objetiva (SIM/NÃO) | Identificar problemas de interação | 
+| Você conseguiu entender como navegar pelo protótipo rapidamente?    | Objetiva (SIM/NÃO) | Identificar problemas de interação |
+| As informações apresentadas são fáceis de encontrar?                | Objetiva (SIM/NÃO) | Identificar problemas de interação |
+| As funcionalidades do protótipo atendem suas expectativas?          | Objetiva (SIM/NÃO) | Identificar problemas de interação |
+| Você encontrou alguma dificuldade em realizar as tarefas propostas? | Objetiva (SIM/NÃO) | Identificar problemas de interação |
+| As transições entre as telas são claras e lógicas?                  | Objetiva (SIM/NÃO) | Identificar problemas de interação |
+| O protótipo representa bem o fluxo de uso esperado?                 | Objetiva (SIM/NÃO) | Identificar problemas de interação |
+| Você tem alguma sugestão para melhorar o protótipo?                 | Discursiva         | Identificar problemas de interação |
 
 </center>
 <font size="2"><p style="text-align: center">Fonte: [Yasmim Rosa](https://github.com/yaskisoba) e [Renan Araújo](https://github.com/renantfm4)</p></font>
@@ -133,7 +133,7 @@ Na tabela 4, está o cronograma das entrevistas que serão realizadas:
 
 ### D - Decidir questões éticas
 
-Na condução da avaliação, é necessário garantir o respeito pelos direitos dos participantes. Para isso, as entrevistas e questionários com os usuários serão conduzidas somente após o preenchimento do termo de consentimento disponível no documento dedicado aos aspectos éticos.
+Na condução da avaliação, é necessário garantir o respeito pelos direitos dos participantes. Para isso, as entrevistas e questionários com os usuários serão conduzidas somente após o preenchimento do termo de consentimento disponível no documento dedicado aos [aspectos éticos](../../../requisitos/etica.md).
 
 ### E - Avaliar, interpretar e apresentar dados
 
@@ -154,6 +154,16 @@ O teste piloto ocorrerá no dia 03 de maio de 2024 às 16h30, na FGA, sendo o pa
 ## Resultado do Teste Piloto
 
 <details>
+<summary>Teste Piloto - Rastreamente de ônibus em tempo real (Alana Gabriele)</summary>
+
+<font size="2"><p style="text-align: center"> Gravação do teste piloto </font>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/13eJvdD6z8c?si=qdmi6Qqh2IIwvrum" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<font size="2"><p style="text-align: center">Fonte: <a href=""> Alana Gabriele</a></p></font>
+
+</details>
+<details>
 <summary>Teste Piloto - Comprar Passagem (Yasmin Rosa)</summary>
 
 <font size="2"><p style="text-align: center"> Gravação do teste piloto </font>
@@ -164,16 +174,6 @@ O teste piloto ocorrerá no dia 03 de maio de 2024 às 16h30, na FGA, sendo o pa
 
 </details>
 
-<details>
-<summary>Teste Piloto - Rastreamente de ônibus em tempo real (Alana Gabriele)</summary>
-
-<font size="2"><p style="text-align: center"> Gravação do teste piloto </font>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/13eJvdD6z8c?si=qdmi6Qqh2IIwvrum" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<font size="2"><p style="text-align: center">Fonte: <a href=""> Alana Gabriele</a></p></font>
-
-</details>
 
 ## Bibliografia
 
