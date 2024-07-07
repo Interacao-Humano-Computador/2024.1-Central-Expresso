@@ -149,6 +149,16 @@ Como dito por Barbosa e Silva (2011), a realização do teste-piloto em casos em
 
 </details>
 
+<details>
+<summary>Teste Piloto - Compartilhamento de Trajeto (Gustavo Alves)</summary>
+
+<font size="2"><p style="text-align: center"> Gravação do teste piloto </font>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3L3TsOuWD5M?si=ha7rpNv9qtANXddH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<font size="2"><p style="text-align: center">Fonte: <a href=""> Gustavo Alves </a></p></font>
+
+</details>
+
 ## Bibliografia
 
 > BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
