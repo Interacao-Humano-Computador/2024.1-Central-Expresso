@@ -47,6 +47,13 @@ Para cada membro da equipe foi escolhida uma funcionalidade do site, sendo um si
 <li> Yasmim Rosa: Comprar passagem. </li>
 </ul>
 
+## Aspectos que serão trabalhados
+
+- **Navegação:** Melhorar a estrutura de navegação do site para facilitar a experiência do usuário.
+- **Design:** Telas vão ser alteradas com o intuito de melhorar a experiência do usuário.
+- **Funcionalidades:** Com o intuito de melhorar a experiência dos usuários e oferecer mais serviços, será adicionado um conjunto de novas funcionalidades.
+
+
 ## Bibliografia
 > BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
