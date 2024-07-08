@@ -55,6 +55,35 @@ Os elementos de interface são apresentados na figura 1.
 
 <font size="2"><p style="text-align: center"> Fonte: [Alana Gabriele](https://github.com/alanagabriele) e [Marco Túlio](https://github.com/MarcoTulioSoares).</p></font>
 
+<details>
+    <summary>Central Expresso (Figuras)</summary>
+    Nas figuras 2, 3, 4, 5, 6, 7, 8 e 9 estão os elementos de interface
+    <font size="2"><p style="text-align: center"> Figura 2 - Cores </font>
+    <img src="../Cores.png">
+    <font size="2"><p style="text-align: center">Fonte: <a href=""> Gustavo Alves </a></p></font> 
+    <font size="2"><p style="text-align: center"> Figura 3 - Ícones </font><br>
+    <img src="../icones.png">
+    <font size="2"><p style="text-align: center">Fonte: <a href=""> Gustavo Alves </a></p></font>
+    <font size="2"><p style="text-align: center"> Figura 4 - Logo </font><br>
+    <img src="../logo.png">
+    <font size="2"><p style="text-align: center">Fonte: <a href=""> Gustavo Alves </a></p></font>
+    <font size="2"><p style="text-align: center"> Figura 5 - Tipografia </font><br>
+    <img src="../Tipografia.png">
+    <font size="2"><p style="text-align: center">Fonte: <a href=""> Gustavo Alves </a></p></font>
+    <font size="2"><p style="text-align: center"> Figura 6 - Grid do Sistema </font><br>
+    <img src="../grid_sistema.png">
+    <font size="2"><p style="text-align: center">Fonte: <a href=""> Gustavo Alves </a></p></font>
+    <font size="2"><p style="text-align: center"> Figura 7 - Tela 1 </font><br>
+    <img src="../Tela1.png">
+    <font size="2"><p style="text-align: center">Fonte: <a href=""> Gustavo Alves </a></p></font>
+    <font size="2"><p style="text-align: center"> Figura 8 - Tela 2 </font><br>
+    <img src="../Tela2.png">
+    <font size="2"><p style="text-align: center">Fonte: <a href=""> Gustavo Alves </a></p></font>
+    <font size="2"><p style="text-align: center"> Figura 9 - Tela 3 </font><br>
+    <img src="../Tela3.png">
+    <font size="2"><p style="text-align: center">Fonte: <a href=""> Gustavo Alves </a></p></font>
+</details>
+
 ## Elementos de Interação
 
 **Estilos de interação:**
@@ -108,3 +137,4 @@ Mensagens de confirmação em pop-ups, com botões de ação claros ("Sim", "Nã
 | Versão |    Data    | Descrição      | Autor(es)                                                                                                   | Revisor(es)                                  |
 | ------ | :--------: | -------------- | ----------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
 | 1.0    | 13/05/2024 | Guia de Estilo | [Alana Gabriele](https://github.com/alanagabriele/) <br> [Marco Túlio](https://github.com/MarcoTulioSoares) | [Renan Araújo](https://github.com/renantfm4) |
+| 1.1    | 08/07/2024 | Figuras | [Gustavo Alves](https://github.com/gustaallves)  | [Renan Araújo](https://github.com/renantfm4)  |
