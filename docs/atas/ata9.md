@@ -63,4 +63,4 @@ Usar checklist de verificação:<br>
 | Versão |    Data    | Descrição | Autor(es)                                          | Revisor(es)                                 |
 | ------ | :--------: | --------- | -------------------------------------------------- | ------------------------------------------- |
 | 1.0    | 12/06/2024 | Ata 9     | [Alana Gabriele](https://github.com/alanagabriele) | [Yasmim Rosa](https://github.com/yaskisoba) |
-| 1.0    | 08/07/2024 | Ajuste na formatação | [Gustavo Alves](https://github.com/gustaallves)  | [Alana Gabriele](https://github.com/alanagabriele)  |
+| 1.1    | 08/07/2024 | Ajuste na formatação | [Gustavo Alves](https://github.com/gustaallves)  | [Alana Gabriele](https://github.com/alanagabriele)  |

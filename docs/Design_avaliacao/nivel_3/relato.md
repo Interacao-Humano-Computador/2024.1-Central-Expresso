@@ -3,6 +3,7 @@
 O relato da avaliação abrange principalmente a interpretação dos dados coletados, devendo analisar os dados individuais de cada usuário para posteriormente buscar uma interpretação mais generalista.
 
 ## Metodologia
+
 A abordagem a ser utilizada, com base nos temas mencionados, seguindo a perspectiva de Barbosa e Silva (2011, p.279), adaptada para este contexto, compreenderá os seguintes elementos:
 
 - Propósito e alcance da avaliação
@@ -27,26 +28,26 @@ O cronograma executado das entrevistas está na tabela 1.
 
 <center>
 
-| Entrevistador  |    Data    | Horário de início e fim | Local                   |
-| :------------: | :--------: | :---------------------: | ----------------------- |
-| Alana Gabriele | 02/07/2024 |     17:10 até 17:20     | Faculdade do Gama       |
-| Alana Gabriele | 08/07/2024 |     17:30 até 17:46     | Faculdade do Gama       |
-| Alana Gabriele | 08/07/2024 |     11:24 até 11:36     | Faculdade do Gama       |
-| Gustavo Alves  | 02/07/2024 |     17:10 até 17:20     | Faculdade do Gama       |
-| Gustavo Alves  | 03/07/2024 |     12:25 até 12:36     | Faculdade do Gama       |
-| Gustavo Alves  | 03/07/2024 |     14:26 até 14:46     | Faculdade do Gama       |
-| Marco Tulio    | 03/07/2024 |     10:00 até 10:20     | Faculdade do Gama       |
-| Marco Tulio    | 08/07/2024 |     11:00 até 11:20     | Faculdade do Gama       |
-| Marco Tulio    | 08/07/2024 |     12:00 até 12:20     | Faculdade do Gama       |
-| Pedro Henrique  | 02/07/2024 |     09:00 até 09:20     | Faculdade do Gama       |
-| Pedro Henrique  | 02/07/2024 |     10:00 até 10:20     | Faculdade do Gama       |
-| Pedro Henrique  | 03/07/2024 |     11:00 até 11:20     | Faculdade do Gama       |
-| Renan Araújo   | 02/07/2024 |     08:00 até 08:20     | Faculdade do Gama       |
-| Renan Araújo   | 02/07/2024 |     09:00 até 09:20     | Faculdade do Gama       |
-| Renan Araújo   | 02/07/2024 |     10:00 até 10:20     | Faculdade do Gama       |
-| Yasmim Rosa    | 03/07/2024 |     17:10 até 17:20     | Faculdade do Gama       |
-| Yasmim Rosa    | 08/07/2024 |     12:25 até 12:50     | Faculdade do Gama       |
-| Yasmim Rosa    | 08/07/2024 |     14:26 até 14:46     | Faculdade do Gama       |
+| Entrevistador  |     Data      | Horário de início e fim | Local             |
+| :------------: | :-----------: | :---------------------: | ----------------- |
+| Alana Gabriele |  02/07/2024   |     17:10 até 17:20     | Faculdade do Gama |
+| Alana Gabriele |  08/07/2024   |     17:30 até 17:46     | Faculdade do Gama |
+| Alana Gabriele |  08/07/2024   |     11:24 até 11:36     | Faculdade do Gama |
+| Gustavo Alves  |  02/07/2024   |     17:10 até 17:20     | Faculdade do Gama |
+| Gustavo Alves  |  03/07/2024   |     12:25 até 12:36     | Faculdade do Gama |
+| Gustavo Alves  |  03/07/2024   |     14:26 até 14:46     | Faculdade do Gama |
+|  Marco Tulio   |  03/07/2024   |     10:00 até 10:20     | Faculdade do Gama |
+|  Marco Tulio   |  08/07/2024   |     11:00 até 11:20     | Faculdade do Gama |
+|  Marco Tulio   |  08/07/2024   |     12:00 até 12:20     | Faculdade do Gama |
+| Pedro Henrique |  02/07/2024   |     09:00 até 09:20     | Faculdade do Gama |
+| Pedro Henrique |  02/07/2024   |     10:00 até 10:20     | Faculdade do Gama |
+| Pedro Henrique |  03/07/2024   |     11:00 até 11:20     | Faculdade do Gama |
+|  Renan Araújo  |  02/07/2024   |     08:00 até 08:20     | Faculdade do Gama |
+|  Renan Araújo  |  02/07/2024   |     09:00 até 09:20     | Faculdade do Gama |
+|  Renan Araújo  |  02/07/2024   |     10:00 até 10:20     | Faculdade do Gama |
+|  Yasmim Rosa   |  03/07/2024   |     17:10 até 17:20     | Faculdade do Gama |
+|  Yasmim Rosa   |  08/07/2024   |     12:25 até 12:50     | Faculdade do Gama |
+|  Yasmim Rosa   | NÃO REALIZADO |                         |                   |
 
 </center>
 <font size="2"><p style="text-align: center">Fonte: [Yasmim Rosa](https://github.com/yaskisoba) </p></font>
@@ -92,7 +93,11 @@ O método escolhido foi o de investigação por possibilitar coletas de dados so
 
 <h2> Avaliação 2  </h2>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XBgus5SDMRg?si=k74nQ6UmD89t1vn6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XBgus5SDMRg?si=k74nQ6UmD89t1vn6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-ßwhen-cross-origin" allowfullscreen></iframe>
+
+<h2> Avaliação 3  </h2>ß
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V2sbm1oIgw8?si=jU33Rwft_x9bisZ_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </details>
 
 <details>
@@ -383,7 +388,8 @@ O método escolhido foi o de investigação por possibilitar coletas de dados so
 
 <details>
     <summary> Funcionalidade: Comprar passagem (Yasmim Rosa)  </summary>
-       <h2> Questões Identificadas </h2> 
+     <h2> Entrevistado 1 </h2>
+       <h3> Questões Identificadas </h3> 
    <ul>
         <li>
         <b>Feedback Positivo: </b> A  participante achou a interface agradável quanto a escolha das cores, fontes e etc.
@@ -392,21 +398,48 @@ O método escolhido foi o de investigação por possibilitar coletas de dados so
         <b>Problema Identificado: </b> A participante encontrou várias dificuldades ao interagir com o protótipo. A interface inicial para selecionar a passagem foi descrita como confusa e frustrante. A falta de uma descrição clara sobre a funcionalidade do botão no início do processo e a ausência de um guia ou ajuda visível dificultaram a navegação. Além disso, a falta de feedback ao longo das etapas deixou a participante insegura sobre se estava no caminho certo. Ela mencionou que algumas interações demoraram mais do que o esperado, cerca de 20 a 30 segundos a mais. A participante também destacou que a interface poderia ser difícil de usar para pessoas com deficiência, devido à falta de acessibilidade digital, como uma descrição clara das funcionalidades e assistência em Libras ou audiodescrição. Além disso, a presença de botões iniciando com letra minúscula foi um ponto negativo.
         </li>
    </ul>
-   <h2> Sugestões para Melhorias </h2> 
+   <h3> Sugestões para Melhorias </h3> 
    <ul>
         <li>
         A participante sugeriu várias melhorias para o protótipo. Primeiramente, melhorar a navegabilidade e a descrição das etapas seria essencial. Incluir um guia ou ajuda visível para orientar os usuários durante o processo também foi recomendado. Fornecer feedback claro em cada etapa do processo ajudaria a aumentar a confiança do usuário de que está no caminho certo. Além disso, assegurar que os botões e outros elementos estejam em conformidade com as preferências dos usuários, como iniciar com letra maiúscula, poderia melhorar a experiência geral. Finalmente, considerar a acessibilidade para pessoas com deficiência, garantindo que todas as funcionalidades sejam descritas de forma clara e acessível, seria crucial para tornar a interface mais inclusiva.
         </li>
    </ul>
-   <h2> Feedback do Usuário </h2> 
+   <h3> Feedback do Usuário </h3> 
    <ul>
         <li>
         A participante forneceu um feedback detalhado sobre o protótipo, destacando vários pontos de melhoria. Ela achou a interface inicial confusa, especialmente na seleção da passagem e início do processo, devido à falta de descrições claras e instruções inadequadas. A ausência de um guia ou ajuda visível e a falta de feedback ao longo das etapas também foram mencionadas como problemas. Ela indicou que a experiência poderia ser ainda mais difícil para pessoas com deficiência. A participante sugeriu a inclusão de um modo escuro e apontou que botões com letras minúsculas a incomodaram. Apesar desses problemas, ela achou o protótipo esteticamente agradável com cores claras.
         </li>
    </ul>
 
-   <h2> Gravação da Avaliação </h2>
+   <h3> Gravação da Avaliação </h3>
    <iframe width="560" height="315" src="https://www.youtube.com/embed/9b86bbQIEyo?si=Pl2ly1-oZgDeO0h-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+   <h2> Entrevistado 2 </h2>
+       <h3> Questões Identificadas </h3> 
+   <ul>
+        <li>
+        <b>Feedback Positivo: </b> O participante achou a interface agradável e a experiência também.
+        </li>
+        <li>
+        <b>Problema Identificado: </b> O participante, de maneira geral, pareceu confiante durante a execução da tarefa de comprar passagem, apenas chamou atenção para a quantidade de telas e consecutivos "avançar" que poderiam, em sua concepção, serem atividades realizadas em uma única tela.
+        </li>
+   </ul>
+   <h3> Sugestões para Melhorias </h3> 
+   <ul>
+        <li>
+        O participante acredita que as atividades de selecionar quantidade, forma de pagamento e demais possam ser realizadas em uma única página de forma que fique menos exaustivo e mais claro as etapas sendo realizadas.
+        </li>
+   </ul>
+   <h3> Feedback do Usuário </h3> 
+   <ul>
+        <li>
+        O participante achou a interface agradável, não teve problemas ao realizar as tarefas ou entender o propósito dos elementos em cada tela.
+        </li>
+   </ul>
+
+   <h3> Gravação da Avaliação </h3>
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/dVJd_VhpYSM?si=C0e_OUSA47sV-oEj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+   <h2> Entrevistado 3 </h2>
+   <p> Não realizado </p>
 </details>
 
 ## Análise e Interpretação das Respostas dos Usuários
@@ -427,8 +460,8 @@ Com base nas análises realizadas, o plano de aprimoramento se concentra em refi
 
 ## Histórico de Versões
 
-| Versão |    Data    | Descrição             | Autor(es)                                          | Revisor(es)     |
-| ------ | :--------: | --------------------- | -------------------------------------------------- | --------------- |
+| Versão |    Data    | Descrição             | Autor(es)                                          | Revisor(es)                                 |
+| ------ | :--------: | --------------------- | -------------------------------------------------- | ------------------------------------------- |
 | 1.0    | 03/07/2024 | Criação do Documento  | [Gustavo Alves](https://github.com/gustaallves)    | [Yasmim Rosa](https://github.com/yaskisoba) |
 | 1.1    | 03/07/2024 | Relato - Rastreamento | [Alana Gabriele](https://github.com/alanagabriele) | [Yasmim Rosa](https://github.com/yaskisoba) |
-| 1.2    | 08/07/2024 | Conclusão Geral | [Gustavo Alves](https://github.com/gustaallves)    | [Yasmim Rosa](https://github.com/yaskisoba) |
+| 1.2    | 08/07/2024 | Conclusão Geral       | [Gustavo Alves](https://github.com/gustaallves)    | [Yasmim Rosa](https://github.com/yaskisoba) |

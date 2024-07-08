@@ -169,12 +169,12 @@ Em cada etapa foram produzidos diversos artefatos, aqui possui uma tabela que re
         </tr>
         <tr>
             <td>Relato dos resultados da avaliação do Storyboard</td>
-            <td>Yasmim Rosa </td>
+            <td>Alana Gabriele, Gustavo Alves, Marco Tulio, Pedro Henrique, Renan Araújo, Yasmim Rosa</td>
             <td>Renan Araújo</td>
         </tr>
         <tr>
             <td>Relato dos resultados da avaliação da Análise de Tarefas (HTA)</td>
-            <td>Pedro Henrique <br> Gustavo Alves</td>
+            <td>Alana Gabriele, Gustavo Alves, Marco Tulio, Pedro Henrique, Renan Araújo, Yasmim Rosa</td>
             <td>Yasmim Rosa</td>
         </tr>
         <tr>
