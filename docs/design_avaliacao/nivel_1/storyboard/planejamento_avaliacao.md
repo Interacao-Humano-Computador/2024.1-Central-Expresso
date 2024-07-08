@@ -136,6 +136,15 @@ Barbosa e Silva (2011) define que a realização de um estudo-piloto é uma pequ
 
 </details>
 
+<details>
+<summary>Teste Piloto - Acúmulo de Pontos (Pedro Henrique)</summary>
+
+<font size="2"><p style="text-align: center"> Gravação do teste piloto </font>
+
+<iframe></iframe>
+
+<font size="2"><p style="text-align: center">Fonte: <a href=""> Pedro Henrique  </a></p></font>
+
 ## Bibliografia
 
 > BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.

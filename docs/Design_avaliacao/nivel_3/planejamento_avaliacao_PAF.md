@@ -202,6 +202,15 @@ O teste piloto ocorrerá no dia 21 de junho de 2024 às 16h30, na FGA, sendo o p
 
 <font size="2"><p style="text-align: center">Fonte: <a href=""> Renan Araújo </a></p></font>
 
+<details>
+<summary>Teste Piloto - Acúmulo de Pontos (Pedro Henrique)</summary>
+
+<font size="2"><p style="text-align: center"> Gravação do teste piloto </font>
+
+<iframe></iframe>
+
+<font size="2"><p style="text-align: center">Fonte: <a href=""> Pedro Henrique  </a></p></font>
+
 </details>
 
 

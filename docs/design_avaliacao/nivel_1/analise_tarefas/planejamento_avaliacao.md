@@ -168,6 +168,15 @@ Como dito por Barbosa e Silva (2011), a realização do teste-piloto em casos em
 
 <font size="2"><p style="text-align: center">Fonte: <a href=""> Renan Araújo </a></p></font>
 
+<details>
+<summary>Teste Piloto - Acúmulo de Pontos (Pedro Henrique)</summary>
+
+<font size="2"><p style="text-align: center"> Gravação do teste piloto </font>
+
+<iframe></iframe>
+
+<font size="2"><p style="text-align: center">Fonte: <a href=""> Pedro Henrique  </a></p></font>
+
 </details>
 
 ## Bibliografia
