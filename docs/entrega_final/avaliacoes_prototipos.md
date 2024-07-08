@@ -8,3 +8,8 @@
 | <ul><li> O feedback geral do participante foi positivo. Ele demonstrou facilidade ao realizar a tarefa indicada, não encontrando problemas no processo. Este retorno indica que a interface do protótipo de papel é intuitiva e funcional para o acúmulo de pontos.</li> <li> O usuário sugeriu que, no momento de fazer login no site, poderia ser implementada uma verificação em duas etapas, adicionando uma camada extra de proteção no processo de login para aumentar a segurança dos dados. </li></ul> | Pedro | 1 | Lucas |
 | <ul><li> O feedback geral do usuário foi positivo, ele não apresentou nenhuma dificuldade ao utilizar a funcionalidade indicada, sem encontrar nenhum problema ao realizá-la. Isso traz um bom retorno que a interface do protótipo de papel é coesa e intuitiva para poder acompanhar a passagem do ônibus.</li></ul> | Renan | 1 | João |
 | <ul><li> O feedback da participante foi positivo, a experiência foi tranquila e ocorreu conforme o planejado, além de não demonstrar dificuldade no uso do protótipo de baixa fidelidade. </li> <li> A participante indicou que no carrinho de compras antes de se iniciar o processo de compra, seria melhor que houvesse um botão que fechasse o pop-up aberto além da lista mostrada ter a opção de retirar itens. </li></ul> | Yasmin | 1 | Júlia |
+
+<font size="2"><p style="text-align: center">Tabela 2 - Avaliação Protótipo de Alta Fidelidade </p></font>
+
+| Avaliação| Entrevistador (a) | Número de Entrevistados (as) | Nome do Entrevistado(a) |
+|-----------------------------------------------------------------------------------------------------------------|--------------|--------------|--------------|
