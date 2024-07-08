@@ -138,3 +138,4 @@ Mensagens de confirmação em pop-ups, com botões de ação claros ("Sim", "Nã
 | ------ | :--------: | -------------- | ----------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
 | 1.0    | 13/05/2024 | Guia de Estilo | [Alana Gabriele](https://github.com/alanagabriele/) <br> [Marco Túlio](https://github.com/MarcoTulioSoares) | [Renan Araújo](https://github.com/renantfm4) |
 | 1.1    | 08/07/2024 | Figuras | [Gustavo Alves](https://github.com/gustaallves)  | [Renan Araújo](https://github.com/renantfm4)  |
+
