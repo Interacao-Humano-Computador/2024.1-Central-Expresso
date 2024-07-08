@@ -173,7 +173,7 @@ O teste piloto ocorrerá no dia 03 de maio de 2024 às 16h30, na FGA, sendo o pa
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YH75oar1mHM?si=mubCWaEhLJpw1LO1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<font size="2"><p style="text-align: center">Fonte: <a href=""> Yasmin Rosa</a></p></font>
+<font size="2"><p style="text-align: center">Fonte: <a href=""> Yasmim Rosa</a></p></font>
 
 </details>
 
@@ -205,6 +205,8 @@ O teste piloto ocorrerá no dia 03 de maio de 2024 às 16h30, na FGA, sendo o pa
 <iframe width="560" height="315" src="https://www.youtube.com/embed/blcyyKBI5GA?si=igfReKcEwWXBY9sR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <font size="2"><p style="text-align: center">Fonte: <a href=""> Pedro Henrique  </a></p></font>
+</details>
+
 
 
 ## Bibliografia

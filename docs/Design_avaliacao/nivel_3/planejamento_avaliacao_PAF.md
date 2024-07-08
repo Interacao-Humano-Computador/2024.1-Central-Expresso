@@ -202,6 +202,8 @@ O teste piloto ocorrerá no dia 21 de junho de 2024 às 16h30, na FGA, sendo o p
 
 <font size="2"><p style="text-align: center">Fonte: <a href=""> Renan Araújo </a></p></font>
 
+</details>
+
 <details>
 <summary>Teste Piloto - Acúmulo de Pontos (Pedro Henrique)</summary>
 
@@ -210,6 +212,17 @@ O teste piloto ocorrerá no dia 21 de junho de 2024 às 16h30, na FGA, sendo o p
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Iu6GhXX4XwE?si=iAFDm3XAgGDv3fDi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <font size="2"><p style="text-align: center">Fonte: <a href=""> Pedro Henrique  </a></p></font>
+
+</details>
+
+<details>
+<summary>Teste Piloto - Comprar passagem (Yasmim Rosa)</summary>
+
+<font size="2"><p style="text-align: center"> Gravação do teste piloto </font>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wpWlN8aIDOc?si=6vLqZks5Bt56zWrW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<font size="2"><p style="text-align: center">Fonte: <a href=""> Yasmim Rosa  </a></p></font>
 
 </details>
 
