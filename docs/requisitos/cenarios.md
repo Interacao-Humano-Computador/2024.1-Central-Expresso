@@ -57,4 +57,4 @@ Pedro, uma pessoa que busca facilitar seu dia a dia com a tecnologia, prefere co
 
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| 1.0    | 05/05/2024 | Cenários | [Yasmim Rosa](https://github.com/yaskisoba) <br>  |     |
+| 1.0    | 05/05/2024 | Cenários | [Yasmim Rosa](https://github.com/yaskisoba) <br>  |  [Gustavo Alves](https://github.com/gustaallves)  |
