@@ -11,5 +11,6 @@
 
 <font size="2"><p style="text-align: center">Tabela 2 - Avaliação Protótipo de Alta Fidelidade </p></font>
 
-| Avaliação| Entrevistador (a) | Número de Entrevistados (as) | Nome do Entrevistado(a) |
+| Avaliação| Entrevistador (a) | Número de Entrevistados (as) | Nome dos Entrevistados(as) |
 |-----------------------------------------------------------------------------------------------------------------|--------------|--------------|--------------|
+| <ul><li> O feedback geral do participante foi positivo. O design da interface foi elogiado por sua intuitividade e facilidade de uso, proporcionando uma experiência fluida e eficiente. Este retorno indica que a interface do protótipo de alta fidelidade é intuitiva e funcional para o rastreamento de ônibus em tempo real. As sugestões fornecidas são valiosas para aprimorar ainda mais a experiência do usuário, garantindo uma interface ainda mais eficiente e agradável. </li></ul> | Alana | 1 | Carlos |
