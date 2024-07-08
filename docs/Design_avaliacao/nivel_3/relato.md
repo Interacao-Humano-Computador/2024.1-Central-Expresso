@@ -3,6 +3,7 @@
 O relato da avaliação abrange principalmente a interpretação dos dados coletados, devendo analisar os dados individuais de cada usuário para posteriormente buscar uma interpretação mais generalista.
 
 ## Metodologia
+
 A abordagem a ser utilizada, com base nos temas mencionados, seguindo a perspectiva de Barbosa e Silva (2011, p.279), adaptada para este contexto, compreenderá os seguintes elementos:
 
 - Propósito e alcance da avaliação
@@ -27,26 +28,26 @@ O cronograma executado das entrevistas está na tabela 1.
 
 <center>
 
-| Entrevistador  |    Data    | Horário de início e fim | Local                   |
-| :------------: | :--------: | :---------------------: | ----------------------- |
-| Alana Gabriele | 02/07/2024 |     17:10 até 17:20     | Faculdade do Gama       |
-| Alana Gabriele | 08/07/2024 |     17:30 até 17:46     | Faculdade do Gama       |
-| Alana Gabriele | 08/07/2024 |     11:24 até 11:36     | Faculdade do Gama       |
-| Gustavo Alves  | 02/07/2024 |     17:10 até 17:20     | Faculdade do Gama       |
-| Gustavo Alves  | 03/07/2024 |     12:25 até 12:36     | Faculdade do Gama       |
-| Gustavo Alves  | 03/07/2024 |     14:26 até 14:46     | Faculdade do Gama       |
-| Marco Tulio    | 03/07/2024 |     10:00 até 10:20     | Faculdade do Gama       |
-| Marco Tulio    | 08/07/2024 |     11:00 até 11:20     | Faculdade do Gama       |
-| Marco Tulio    | 08/07/2024 |     12:00 até 12:20     | Faculdade do Gama       |
-| Pedro Henrique  | 02/07/2024 |     09:00 até 09:20     | Faculdade do Gama       |
-| Pedro Henrique  | 02/07/2024 |     10:00 até 10:20     | Faculdade do Gama       |
-| Pedro Henrique  | 03/07/2024 |     11:00 até 11:20     | Faculdade do Gama       |
-| Renan Araújo   | 02/07/2024 |     08:00 até 08:20     | Faculdade do Gama       |
-| Renan Araújo   | 02/07/2024 |     09:00 até 09:20     | Faculdade do Gama       |
-| Renan Araújo   | 02/07/2024 |     10:00 até 10:20     | Faculdade do Gama       |
-| Yasmim Rosa    | 03/07/2024 |     17:10 até 17:20     | Faculdade do Gama       |
-| Yasmim Rosa    | 08/07/2024 |     12:25 até 12:50     | Faculdade do Gama       |
-| Yasmim Rosa    | NÃO REALIZADO |         |       |
+| Entrevistador  |     Data      | Horário de início e fim | Local             |
+| :------------: | :-----------: | :---------------------: | ----------------- |
+| Alana Gabriele |  02/07/2024   |     17:10 até 17:20     | Faculdade do Gama |
+| Alana Gabriele |  08/07/2024   |     17:30 até 17:46     | Faculdade do Gama |
+| Alana Gabriele |  08/07/2024   |     11:24 até 11:36     | Faculdade do Gama |
+| Gustavo Alves  |  02/07/2024   |     17:10 até 17:20     | Faculdade do Gama |
+| Gustavo Alves  |  03/07/2024   |     12:25 até 12:36     | Faculdade do Gama |
+| Gustavo Alves  |  03/07/2024   |     14:26 até 14:46     | Faculdade do Gama |
+|  Marco Tulio   |  03/07/2024   |     10:00 até 10:20     | Faculdade do Gama |
+|  Marco Tulio   |  08/07/2024   |     11:00 até 11:20     | Faculdade do Gama |
+|  Marco Tulio   |  08/07/2024   |     12:00 até 12:20     | Faculdade do Gama |
+| Pedro Henrique |  02/07/2024   |     09:00 até 09:20     | Faculdade do Gama |
+| Pedro Henrique |  02/07/2024   |     10:00 até 10:20     | Faculdade do Gama |
+| Pedro Henrique |  03/07/2024   |     11:00 até 11:20     | Faculdade do Gama |
+|  Renan Araújo  |  02/07/2024   |     08:00 até 08:20     | Faculdade do Gama |
+|  Renan Araújo  |  02/07/2024   |     09:00 até 09:20     | Faculdade do Gama |
+|  Renan Araújo  |  02/07/2024   |     10:00 até 10:20     | Faculdade do Gama |
+|  Yasmim Rosa   |  03/07/2024   |     17:10 até 17:20     | Faculdade do Gama |
+|  Yasmim Rosa   |  08/07/2024   |     12:25 até 12:50     | Faculdade do Gama |
+|  Yasmim Rosa   | NÃO REALIZADO |                         |                   |
 
 </center>
 <font size="2"><p style="text-align: center">Fonte: [Yasmim Rosa](https://github.com/yaskisoba) </p></font>
@@ -92,7 +93,11 @@ O método escolhido foi o de investigação por possibilitar coletas de dados so
 
 <h2> Avaliação 2  </h2>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XBgus5SDMRg?si=k74nQ6UmD89t1vn6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XBgus5SDMRg?si=k74nQ6UmD89t1vn6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-ßwhen-cross-origin" allowfullscreen></iframe>
+
+<h2> Avaliação 3  </h2>ß
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V2sbm1oIgw8?si=jU33Rwft_x9bisZ_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </details>
 
 <details>
@@ -455,8 +460,8 @@ Com base nas análises realizadas, o plano de aprimoramento se concentra em refi
 
 ## Histórico de Versões
 
-| Versão |    Data    | Descrição             | Autor(es)                                          | Revisor(es)     |
-| ------ | :--------: | --------------------- | -------------------------------------------------- | --------------- |
+| Versão |    Data    | Descrição             | Autor(es)                                          | Revisor(es)                                 |
+| ------ | :--------: | --------------------- | -------------------------------------------------- | ------------------------------------------- |
 | 1.0    | 03/07/2024 | Criação do Documento  | [Gustavo Alves](https://github.com/gustaallves)    | [Yasmim Rosa](https://github.com/yaskisoba) |
 | 1.1    | 03/07/2024 | Relato - Rastreamento | [Alana Gabriele](https://github.com/alanagabriele) | [Yasmim Rosa](https://github.com/yaskisoba) |
-| 1.2    | 08/07/2024 | Conclusão Geral | [Gustavo Alves](https://github.com/gustaallves)    | [Yasmim Rosa](https://github.com/yaskisoba) |
+| 1.2    | 08/07/2024 | Conclusão Geral       | [Gustavo Alves](https://github.com/gustaallves)    | [Yasmim Rosa](https://github.com/yaskisoba) |
