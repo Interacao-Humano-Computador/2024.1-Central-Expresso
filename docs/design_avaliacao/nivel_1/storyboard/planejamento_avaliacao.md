@@ -163,7 +163,7 @@ Barbosa e Silva (2011) define que a realização de um estudo-piloto é uma pequ
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-4JUhbeo36k?si=u_osHwVn6l4ScNsF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<font size="2"><p style="text-align: center">Fonte: <a href=""> Yasmim Rosa  </a></p></font>
+<font size="2"><p style="text-align: center">Fonte: <a href=""> Marco Tulio Soares  </a></p></font>
 </details>
 
 ## Bibliografia
