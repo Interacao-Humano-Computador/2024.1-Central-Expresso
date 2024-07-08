@@ -2,7 +2,7 @@ Ao longo deste projeto de Interação Humano-Computador (IHC), exploramos divers
 
 Gerenciar o tempo de forma eficaz foi essencial para cumprir com as metas estabelecidas, adaptando-nos às mudanças ao longo do semestre. A documentação detalhada, incentivada pelo professor Dr. André Barros, foi fundamental para garantir a transparência e a continuidade do trabalho, facilitando futuras melhorias.
 
-Em suma, este projeto não apenas nos permitiu aplicar conceitos teóricos em um contexto prático, mas também nos ensinou lições valiosas sobre trabalho em equipe, gerenciamento de projetos e design centrado no usuário. Estamos orgulhosos dos resultados alcançados e agradecemos profundamente ao Professor Dr. André Barros e à monitora Mayara pelo apoio constante e orientação ao longo deste percurso.
+Em suma, este projeto não apenas nos permitiu aplicar conceitos teóricos em um contexto prático, mas também nos ensinou lições valiosas sobre trabalho em equipe, gerenciamento de projetos e design centrado no usuário. Estamos orgulhosos dos resultados alcançados e agradecemos profundamente ao professor Dr. André Barros e à monitora Mayara pelo apoio constante e orientação ao longo deste percurso.
 
 ## Histórico de Versões
 
