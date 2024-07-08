@@ -156,6 +156,7 @@ Barbosa e Silva (2011) define que a realização de um estudo-piloto é uma pequ
 
 <font size="2"><p style="text-align: center">Fonte: <a href=""> Yasmim Rosa  </a></p></font>
 </details>
+<details>
 <summary>Teste Piloto - Comprar Passagem (Marco Tulio Soares)</summary>
 
 <font size="2"><p style="text-align: center"> Gravação do teste piloto </font>
