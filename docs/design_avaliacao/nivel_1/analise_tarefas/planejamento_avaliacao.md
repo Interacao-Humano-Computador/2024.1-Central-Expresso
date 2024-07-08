@@ -199,7 +199,7 @@ Como dito por Barbosa e Silva (2011), a realização do teste-piloto em casos em
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oiK8lUtrSHc?si=TiCyvJBJ6MYFa12T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<font size="2"><p style="text-align: center">Fonte: <a href=""> Yasmim Rosas  </a></p></font>
+<font size="2"><p style="text-align: center">Fonte: <a href=""> Marco Tulio Soares  </a></p></font>
 
 </details>
 

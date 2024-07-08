@@ -153,3 +153,4 @@ Para resolver essa violação, o botão de compra deve ser reposicionado em uma 
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | 1.0    | 09/05/2024 | Princípios Gerais | [Pedro Henrique](https://github.com/PedroHenrique061) <br> [Gustavo Alves](https://github.com/gustaallves)   |  [Yasmim Rosa](https://github.com/yaskisoba)     |
 | 1.1    | 08/07/2024 | Proposta de solução | [Gustavo Alves](https://github.com/gustaallves) |  [Pedro Henrique](https://github.com/PedroHenrique061) |
+| 1.2    | 08/07/2024 | Ajustes Figuras | [Gustavo Alves](https://github.com/gustaallves)  | [Renan Araújo](https://github.com/renantfm4)  |
