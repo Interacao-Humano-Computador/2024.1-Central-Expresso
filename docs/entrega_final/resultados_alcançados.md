@@ -53,6 +53,19 @@ A interface do sistema foi redesenhada para ser mais intuitiva e acessível, fac
 - Feedback Constante: Ajustes e melhorias contínuas.
 - Trabalho em Equipe: Melhoria na colaboração e tomada de decisão.
 
+## Facilidades e dificuldades encontradas para a realização do projeto
+### Facilidades
+- Criação dos protótipos; 
+- Grupo teve boa comunicação;
+- Criação dos relatos;
+- Organizar apresentações.
+
+### Dificuldades
+- Achar pessoas para serem entrevistadas; 
+- Identificar horários que o grupo teria em comum; 
+- Evitar sobrecarga de alguns membros do grupo;
+- Lidar com as demandas da matéria dentro do prazo estabelecido. 
+
 ## Conclusão
 
 Os resultados alcançados com a execução do projeto demonstram que as metas estabelecidas foram atingidas com sucesso. A colaboração e o trabalho em grupo desempenharam um papel crucial, permitindo que os membros do grupo alavancassem suas habilidades e conhecimentos para atingir os objetivos do projeto. As melhorias propostas não apenas aumentaram a eficácia e eficiência do sistema, mas também tornaram-no mais útil e fácil de aprender para os usuários. Essas mudanças resultaram em uma experiência de usuário significativamente positiva, cumprindo os objetivos do projeto de IHC.
