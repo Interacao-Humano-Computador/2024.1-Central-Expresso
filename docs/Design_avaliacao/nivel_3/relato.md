@@ -411,9 +411,15 @@ O método escolhido foi o de investigação por possibilitar coletas de dados so
 
 ## Análise e Interpretação das Respostas dos Usuários
 
+A análise das respostas dos usuários revelou insights valiosos sobre a experiência de interação com a interface desenvolvida. Observamos que os usuários demonstraram uma recepção geral positiva em relação à facilidade de uso e à clareza das funcionalidades disponíveis. As principais áreas de destaque incluíram a intuitividade na navegação, a eficácia das ferramentas e a simplicidade no processo de cada tarefa.
+
 ## Resumo das principais conclusões
 
+Os feedbacks coletados apontaram para uma experiência satisfatória no uso do sistema, com poucas sugestões críticas para melhorias. Pontos destacados foram a necessidade de ajustes mínimos na visibilidade de botões específicos e a clareza adicional em instruções detalhadas. A maioria dos usuários apreciou a funcionalidade existente, destacando sua utilidade.
+
 ## Plano de Aprimoramento
+
+Com base nas análises realizadas, o plano de aprimoramento se concentra em refinamentos específicos para otimizar ainda mais a experiência do usuário. Isso inclui ajustes na visibilidade e na acessibilidade de elementos da interface, como botões e menus, além da implementação de pequenos ajustes para melhorar a orientação do usuário em áreas específicas.
 
 ## Bibliografia
 
@@ -423,5 +429,6 @@ O método escolhido foi o de investigação por possibilitar coletas de dados so
 
 | Versão |    Data    | Descrição             | Autor(es)                                          | Revisor(es)     |
 | ------ | :--------: | --------------------- | -------------------------------------------------- | --------------- |
-| 1.0    | 03/07/2024 | Criação do Documento  | [Gustavo Alves](https://github.com/gustaallves)    | [Yasmim Rosa]() |
-| 1.1    | 03/07/2024 | Relato - Rastreamento | [Alana Gabriele](https://github.com/alanagabriele) | [Yasmim Rosa]() |
+| 1.0    | 03/07/2024 | Criação do Documento  | [Gustavo Alves](https://github.com/gustaallves)    | [Yasmim Rosa](https://github.com/yaskisoba) |
+| 1.1    | 03/07/2024 | Relato - Rastreamento | [Alana Gabriele](https://github.com/alanagabriele) | [Yasmim Rosa](https://github.com/yaskisoba) |
+| 1.2    | 08/07/2024 | Conclusão Geral | [Gustavo Alves](https://github.com/gustaallves)    | [Yasmim Rosa](https://github.com/yaskisoba) |
