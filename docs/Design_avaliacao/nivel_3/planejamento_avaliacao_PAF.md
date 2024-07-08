@@ -194,7 +194,7 @@ O teste piloto ocorrerá no dia 21 de junho de 2024 às 16h30, na FGA, sendo o p
 </details>
 
 <details>
-<summary>Teste Piloto - Acompanhar Passagem (Renan Araújo(</summary>
+<summary>Teste Piloto - Acompanhar Passagem (Renan Araújo)</summary>
 
 <font size="2"><p style="text-align: center"> Gravação do teste piloto </font>
 
