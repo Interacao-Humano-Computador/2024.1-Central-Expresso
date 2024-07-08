@@ -36,7 +36,7 @@ Fazer checklist de verificação: <br>
 <li>Relato dos resultados do Storyboard (Gustavo)</li>
 <li>Relato dos resultados da Análise de tarefas (Gustavo)</li>
 <li>Planejamento da Avaliação do Protótipo de Papel (Yasmim)<li>
-<li>Planejamento do relato dos resultados da avaliação do <li>Protótipo de Papel (Marco)</li>
+Planejamento do relato dos resultados da avaliação do Protótipo de Papel (Marco)</li>
 </ul>
 
 Usar checklist de verificação:<br>
@@ -55,7 +55,7 @@ Usar checklist de verificação:<br>
 <li>Relato dos resultados do Storyboard (Alana)</li>
 <li>Relato dos resultados da Análise de tarefas (Yasmim)</li>
 <li>Planejamento da Avaliação do Protótipo de Papel (Alana)</li>
-<li>Planejamento do relato dos resultados da avaliação do <li>Protótipo de Papel (Renan)</li>
+<li>Planejamento do relato dos resultados da avaliação do Protótipo de Papel (Renan)</li>
 </ul>
 
 ## Histórico de Versões
@@ -63,3 +63,4 @@ Usar checklist de verificação:<br>
 | Versão |    Data    | Descrição | Autor(es)                                          | Revisor(es)                                 |
 | ------ | :--------: | --------- | -------------------------------------------------- | ------------------------------------------- |
 | 1.0    | 12/06/2024 | Ata 9     | [Alana Gabriele](https://github.com/alanagabriele) | [Yasmim Rosa](https://github.com/yaskisoba) |
+| 1.0    | 08/07/2024 | Ajuste na formatação | [Gustavo Alves](https://github.com/gustaallves)  | [Alana Gabriele](https://github.com/alanagabriele)  |
