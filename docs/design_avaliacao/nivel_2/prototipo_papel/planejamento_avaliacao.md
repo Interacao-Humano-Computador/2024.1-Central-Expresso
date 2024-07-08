@@ -187,6 +187,16 @@ O teste piloto ocorrerá no dia 03 de maio de 2024 às 16h30, na FGA, sendo o pa
 
 </details>
 
+<details>
+<summary>Teste Piloto - Acompanhar Passagem (Renan Araújo)</summary>
+
+<font size="2"><p style="text-align: center"> Gravação do teste piloto </font>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H0W77q9mcA4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<font size="2"><p style="text-align: center">Fonte: <a href="">Renan Araújo </a></p></font>
+
+</details>
+
 
 ## Bibliografia
 
