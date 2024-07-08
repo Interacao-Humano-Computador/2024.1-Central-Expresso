@@ -793,6 +793,14 @@ As perguntas foram elaboradas seguindo as definições e passos sugeridos por Ba
 
 </details>
 
+## Resumo da Verificação
+<ul>
+<li>Dos 11 artefatos avaliados, 45% passaram por todos os itens da sua respectiva lista de verificação.</li>
+<li>Dos 4 planejamentos do relato, 3 cumpriram todos os itens das suas listas de verificação</li>
+<li>Nos planejamentos das avaliações, a definição de uma estrutura e estratégia para análise dos dados foi um item incompleto comum a maioria.</li>
+<li>Nos relatos, os recursos necessários para o reprojeto foi um item ausente frequente.</li>
+</ul>
+
 ## Bibliografia
 
 > REINEHR, Sheila. Engenharia de requisitos. Grupo A, 2020. E-book. ISBN 9786556900674. Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9786556900674/. Acesso em: 11 jun. 2024.

@@ -681,6 +681,13 @@ O responsável pela verificação deste artefato é o <b>Renan Araújo</b> o che
 
 </details>
 
+## Resumo da Verificação
+<ul>
+<li>Dos 7 artefatos avaliados, 57% passaram por todos os itens da sua respectiva lista de verificação.</li>
+<li>De todas as funcionalidades da Análise de Tarefas (HTA e GOMS) nenhuma tem todos os itens da verificação. </li>
+<li>Em todas as funcionalidades da Análise de Tarefas (HTA e GOMS) os itens 5 e 6 (relacionados a estrutura do GOMS) tiveram maior incidência de incompletude.</li>
+</ul>
+
 ## Bibliografia
 
 > REINEHR, Sheila. Engenharia de requisitos. Grupo A, 2020. E-book. ISBN 9786556900674. Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9786556900674/. Acesso em: 11 jun. 2024.

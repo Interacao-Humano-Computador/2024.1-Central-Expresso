@@ -469,6 +469,14 @@ O responsável pela verificação deste artefato é a <b>Alana Gabriele</b> o ch
 
 </details>
 
+## Resumo da Verificação
+<ul>
+<li>Dos 8 artefatos avaliados, 37,5% passaram por todos os itens da sua respectiva lista de verificação.</li>
+<li>Os planejamentos do relato cumpriram todos os itens das suas listas de verificação</li>
+<li>Nos planejamentos das avaliações, apenas um item esteve ausente ou incompleto.</li>
+<li>Nos relatos, a generalização dos dados foi um item ausente comum.</li>
+</ul>
+
 ## Bibliografia
 
 > REINEHR, Sheila. Engenharia de requisitos. Grupo A, 2020. E-book. ISBN 9786556900674. Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9786556900674/. Acesso em: 11 jun. 2024.
