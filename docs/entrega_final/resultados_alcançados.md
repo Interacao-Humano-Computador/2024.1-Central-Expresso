@@ -15,7 +15,6 @@ Os resultados alcançados com a execução do projeto estão diretamente relacio
 Eficácia ao finalizar a compra.
 
 - **Eliminação de Passos Manuais:** O usuário não precisa mais enviar o comprovante por e-mail, o que reduz o risco de erros e aumenta a eficácia.
-- **Precisão e Confiabilidade:** A automatização assegura que todos os comprovantes sejam enviados de forma consistente e precisa, melhorando o controle e o registro das transações.
 
 ### 2. Eficiência
 
