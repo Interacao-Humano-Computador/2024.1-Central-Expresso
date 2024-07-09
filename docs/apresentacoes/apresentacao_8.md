@@ -1,5 +1,5 @@
 ## Introdução
-A sétima entrega realizada em 3 de julho de 2024 da disciplina de Interação Humano Computador.
+A oitava entrega realizada em 3 de julho de 2024 da disciplina de Interação Humano Computador.
 
 ## Vídeo da Apresentação
 

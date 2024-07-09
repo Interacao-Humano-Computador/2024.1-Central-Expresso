@@ -217,6 +217,9 @@ Este artefato é uma síntese dos vídeos das apresentações realizadas em cada
 
 <font size="2"><p style="text-align: center"> Gravação </font>
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XKsFThB9wnY?si=Rq07F6K-Yw7IfDb0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <h2>Participantes</h2>
 
 <p>Todos os integrantes do grupo estavam presentes.</p>
